@@ -484,5 +484,63 @@
   "severity": 4,
   "title_zh": "巴塞隆納地鐵、FGC與國鐵工會決議響應11/11大罷工",
   "note_zh": "11/11當天巴塞隆納地鐵與通勤火車恐面臨大範圍癱瘓或班次驟減。"
+ },
+ {
+  "id": "ed7abd07e336",
+  "source": "x",
+  "url": "https://x.com/ramossalvat/status/2116560258906960347",
+  "title": "🔴 #BLOCUS #Barcelona Els @Mossos fan identificacions a la zona de la plaça de Catalunya. L'objectiu és dissuadir possibl",
+  "text": "🔴 #BLOCUS #Barcelona Els @Mossos fan identificacions a la zona de la plaça de Catalunya. L'objectiu és dissuadir possibles incidents. Hi ha crides de #Blocus, però era per ara, més rnllà de comerços tapats, total normalitat. @elnacionalcat https://t.co/Mktq2EpOfw",
+  "published": "2026-10-31T15:57:44+00:00",
+  "author": "@ramossalvat",
+  "embed": {
+   "type": "x",
+   "id": "2116560258906960347"
+  },
+  "engagement": 7,
+  "views": 347,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-10-31",
+  "severity": 3,
+  "title_zh": "加泰警方在加泰隆尼亞廣場盤查防範示威",
+  "note_zh": "警方在市中心加強盤查，目前商業區有木板防護但局勢尚屬平穩。"
+ },
+ {
+  "id": "54787409c3e3",
+  "source": "news",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSGlWQU55Q0FMY0lfNnR5TjZTYWYybmI5ckV0VTRQcVBkdjFFQzZRbkJVenB1MUNkekxfWUcyYzB5WGNNbnJMaGdkcTV6djNqajVpd3JqR2pLTFJVWERFbk1ZOGlaMDBCOWRRV0VzNkZVNTFpZHd4VFpjVFg1dDJ1OUY1WkhQX2V6cGppOTVkWHVNWEc3V0RTWFdhbHpvX0FfMWdyUFZFeEpnNWxlcDFiSGNhNDV2bEpwMDQ0LWRJSjRhZWdSMjhjcXlXUUF6allnQWhiMnRBS3JiYk5LOUlrSV9Mb3AwY3FNajF3TTludVHSAfYBQVVfeXFMTmhMakEtelp2NVlCX1pHOHdpVExTRHUxdGwzSW0yUmZBcGlLMFpvdm5ETnl4RE1FSXFmNF9iWkRKSWZRSWxQbHRibTdGQnJWdXR3bU5sZ3k0aHljbklZRXdoYl9jU05aMFZzNUpsdndGTVNMNVJSRFBlM2E3SUcxaHYybDNod21LV1liSi1haDRIWk50YXdWcG91b1pxcmFoQkp6YjV3MEZGREphLWFXMHREWEJNX1JTWG1lODdudlkzVkM0MldEeEdtNmFKWXROXzhuRHZvWXgyRmxHWGM5VWRZUDJaM1JYYmRPQUFXYzloMk5BR1NB?oc=5",
+  "title": "Varias entidades piden el boicot a los supermercados y una huelga de consumo antes del 11N en Barcelona",
+  "text": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSGlWQU55Q0FMY0lfNnR5TjZTYWYybmI5ckV0VTRQcVBkdjFFQzZRbkJVenB1MUNkekxfWUcyYzB5WGNNbnJMaGdkcTV6djNqajVpd3JqR2pLTFJVWERFbk1ZOGlaMDBCOWRRV0VzNkZVNTFpZHd4VFpjVFg1dDJ1OUY1WkhQX2V6cGppOTVkWHVNWEc3V0RTWFdhbHpvX0FfMWdyUFZFeEpnNWxlcDFiSGNhNDV2bEpwMD …",
+  "published": "2026-10-27T13:33:50+00:00",
+  "author": "Metrópoli Abierta",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "民間團體呼籲11/11大罷工前抵制超市與發起消費罷工",
+  "note_zh": "民間團體號召抵制超市，可能擴大11/11大罷工之民生零售衝擊。"
+ },
+ {
+  "id": "cec1cf692ff6",
+  "source": "x",
+  "url": "https://x.com/3CatInfo/status/2116559478472753234",
+  "title": "Primers controls i identificacions al centre de Barcelona davant la crida de Blocus. A les estacions de tren i metro de",
+  "text": "Primers controls i identificacions al centre de Barcelona davant la crida de Blocus. A les estacions de tren i metro de Passeig de Gràcia, Sants i Catalunya s'han tancat els accessos secundaris per facilitar els escorcolls https://t.co/qMaRovcWKm https://t.co/qMaRovcWKm",
+  "published": "2026-10-31T15:54:38+00:00",
+  "author": "@3CatInfo",
+  "embed": {
+   "type": "x",
+   "id": "2116559478472753234"
+  },
+  "engagement": 7,
+  "views": 1409,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-10-31",
+  "severity": 3,
+  "title_zh": "巴塞隆納三大主要車站關閉次要出入口實施盤查",
+  "note_zh": "Passeig de Gràcia、Sants與Catalunya車站出入口受限，進站須預留時間。"
  }
 ]
