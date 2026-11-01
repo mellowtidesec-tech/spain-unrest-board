@@ -1,0 +1,36 @@
+name: clock
+# GitHub's own cron is unreliable, so this job stays alive ~5h45m,
+# triggers update-board every hour, then hands off to a fresh copy of itself.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "13 */2 * * *"   # restarts the chain if it ever breaks
+permissions:
+  actions: write
+  contents: read
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    env:
+      GH_TOKEN: ${{ github.token }}
+      REPO: ${{ github.repository }}
+    steps:
+      - name: Exit if another clock is already running
+        id: check
+        run: |
+          others=$(gh run list -R "$REPO" -w clock.yml -s in_progress --json databaseId,createdAt \
+            --jq "[.[] | select(.databaseId != ${{ github.run_id }}) | select((now - (.createdAt|fromdateiso8601)) < 19800)] | length")
+          echo "others=$others"
+          echo "skip=$([ "$others" -gt 0 ] && echo 1 || echo 0)" >> "$GITHUB_OUTPUT"
+      - name: Tick every hour
+        if: steps.check.outputs.skip == '0'
+        run: |
+          for i in 1 2 3 4 5 6; do
+            gh workflow run update-board.yml -R "$REPO" || echo "dispatch failed"
+            [ $i -lt 6 ] && sleep 3540
+          done
+          sleep 1500
+      - name: Hand off to the next clock
+        if: steps.check.outputs.skip == '0'
+        run: gh workflow run clock.yml -R "$REPO"
