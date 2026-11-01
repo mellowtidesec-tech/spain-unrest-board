@@ -27,7 +27,7 @@ jobs:
         if: steps.check.outputs.skip == '0'
         run: |
           for i in 1 2 3 4 5 6; do
-            gh workflow run update-board.yml -R "$REPO" || echo "dispatch failed"
+            gh workflow run update.yml -R "$REPO" || echo "dispatch failed"
             [ $i -lt 6 ] && sleep 3540
           done
           sleep 1500
