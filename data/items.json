@@ -1410,5 +1410,110 @@
   "severity": 3,
   "title_zh": "加泰住屋平權團體發動響應11-N全國大罷工",
   "note_zh": "草根住屋運動加入11-N大罷工，顯示該日巴塞市中心遊行規模將進一步擴大。"
+ },
+ {
+  "id": "e88a3ccad908",
+  "source": "x",
+  "url": "https://x.com/articulo14_es/status/2116847373028618494",
+  "title": "Los comercios del centro de Madrid comienzan a retirar los paneles con los que habían protegido sus escaparates ante los",
+  "text": "Los comercios del centro de Madrid comienzan a retirar los paneles con los que habían protegido sus escaparates ante los posibles disturbios convocados por Blocus durante el puente de Todos los Santos. La jornada de protestas terminó sin incidentes. https://t.co/RwefeQUxUM",
+  "published": "2026-11-01T10:58:37+00:00",
+  "author": "@articulo14_es",
+  "embed": {
+   "type": "x",
+   "id": "2116847373028618494"
+  },
+  "engagement": 0,
+  "views": 94,
+  "category": "advisory",
+  "city": "Madrid",
+  "event_date": "2026-11-01",
+  "severity": 1,
+  "title_zh": "馬德里市中心店家拆除防護木板恢復常態",
+  "note_zh": "萬聖節抗議平穩落幕，市中心商圈已卸下防護板正常營業。"
+ },
+ {
+  "id": "cd82a2b576e8",
+  "source": "x",
+  "url": "https://x.com/btvnoticies/status/2116847216610406461",
+  "title": "Barcelona Oberta celebra el dispositiu “exemplar” contra Blocus, que ha salvat el dissabte comercial https://t.co/vTN8bK",
+  "text": "Barcelona Oberta celebra el dispositiu “exemplar” contra Blocus, que ha salvat el dissabte comercial https://t.co/vTN8bKzMZ5",
+  "published": "2026-11-01T10:58:00+00:00",
+  "author": "@btvnoticies",
+  "embed": {
+   "type": "x",
+   "id": "2116847216610406461"
+  },
+  "engagement": 0,
+  "views": 141,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-01",
+  "severity": 1,
+  "title_zh": "巴塞隆納商會讚許警方部署保全商業活動",
+  "note_zh": "市中心商圈週末營運恢復正常，商業治安風險暫時降低。"
+ },
+ {
+  "id": "31264413544e",
+  "source": "x",
+  "url": "https://x.com/3CatInfo/status/2116844691815903316",
+  "title": "Parlon defensa el dispositiu policial per Blocus a Barcelona: \"Calia llançar un missatge\" https://t.co/NH6uREC7aM https:",
+  "text": "Parlon defensa el dispositiu policial per Blocus a Barcelona: \"Calia llançar un missatge\" https://t.co/NH6uREC7aM https://t.co/NH6uREC7aM",
+  "published": "2026-11-01T10:47:58+00:00",
+  "author": "@3CatInfo",
+  "embed": {
+   "type": "x",
+   "id": "2116844691815903316"
+  },
+  "engagement": 0,
+  "views": 1321,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-01",
+  "severity": 2,
+  "title_zh": "加泰內政首長肯定警力部署並重申嚴防動亂",
+  "note_zh": "官方宣示強勢維安立場，市區主要熱點預期將持續維持見警率。"
+ },
+ {
+  "id": "cf181ec55df6",
+  "source": "x",
+  "url": "https://x.com/ppsanblas/status/2116840700616572931",
+  "title": "Ayuso apaga la huelga médica: mejora los salarios de 60.000 sanitarios y sube la inversión para reducir las listas de es",
+  "text": "Ayuso apaga la huelga médica: mejora los salarios de 60.000 sanitarios y sube la inversión para reducir las listas de espera. https://t.co/MaLoE8jeZV",
+  "published": "2026-11-01T10:32:06+00:00",
+  "author": "@ppsanblas",
+  "embed": {
+   "type": "x",
+   "id": "2116840700616572931"
+  },
+  "engagement": 0,
+  "views": 9,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-01",
+  "severity": 1,
+  "title_zh": "馬德里大區宣布調薪平息醫護罷工行動",
+  "note_zh": "馬德里醫療系統罷工威脅趨緩，旅客就醫受影響風險大幅下降。"
+ },
+ {
+  "id": "cec65dcd1b2b",
+  "source": "x",
+  "url": "https://x.com/SVCarabanchel/status/2116834315124322728",
+  "title": "Los sindicatos de vivienda de Madrid presentamos nuestra postura y perspectiva de clase ante la huelga general del 11N.",
+  "text": "Los sindicatos de vivienda de Madrid presentamos nuestra postura y perspectiva de clase ante la huelga general del 11N. Contamos con la participación de organizaciones sindicales comprometidas con la lucha de clases. En breve se podrán adquirir las entradas gratuitas. https://t.co/k0ZDd89dFf",
+  "published": "2026-11-01T10:06:44+00:00",
+  "author": "@SVCarabanchel",
+  "embed": {
+   "type": "x",
+   "id": "2116834315124322728"
+  },
+  "engagement": 32,
+  "views": 459,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "馬德里住屋工會宣布動員加入11-N全國大罷工",
+  "note_zh": "住屋團體串聯罷工，11/11市中心住宅局周邊恐有遊行抗議。"
  }
 ]
