@@ -1221,5 +1221,47 @@
   "severity": 3,
   "title_zh": "巴塞隆納昨夜青少年聚集縱火搶掠警方逮捕128人",
   "note_zh": "局部地區發生青少年破壞與縱火，警方迅速壓制並大量逮捕。"
+ },
+ {
+  "id": "1bec479bcdea",
+  "source": "x",
+  "url": "https://x.com/naciodigital/status/2116808578095030594",
+  "title": "🔴 Parlon confirma que el dispositiu policial per Blocus a Barcelona ha acabat amb 2.264 identificats https://t.co/Q7w00K",
+  "text": "🔴 Parlon confirma que el dispositiu policial per Blocus a Barcelona ha acabat amb 2.264 identificats https://t.co/Q7w00K0WGI",
+  "published": "2026-11-01T08:24:28+00:00",
+  "author": "@naciodigital",
+  "embed": {
+   "type": "x",
+   "id": "2116808578095030594"
+  },
+  "engagement": 0,
+  "views": 433,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-10-31",
+  "severity": 2,
+  "title_zh": "加泰官方確認萬聖夜巴塞隆納盤查人數達2264人",
+  "note_zh": "警方強力臨檢遏阻搶掠，市區整體秩序已受控制恢復平靜。"
+ },
+ {
+  "id": "9d5083436e79",
+  "source": "x",
+  "url": "https://x.com/jezquerra57/status/2116803326084039096",
+  "title": "AMYTS VÍDEO. ¡Sobran los motivos! Por esto vamos a la huelga en la Comunidad de Madrid https://t.co/IVQFecdOMh a través",
+  "text": "AMYTS VÍDEO. ¡Sobran los motivos! Por esto vamos a la huelga en la Comunidad de Madrid https://t.co/IVQFecdOMh a través de @amytsmedicos",
+  "published": "2026-11-01T08:03:35+00:00",
+  "author": "@jezquerra57",
+  "embed": {
+   "type": "x",
+   "id": "2116803326084039096"
+  },
+  "engagement": 2,
+  "views": 50,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": null,
+  "severity": 2,
+  "title_zh": "馬德里醫護工會發布影片持續動員罷工訴求",
+  "note_zh": "醫護工會持續訴求罷工，公立醫院常態門診可能受延宕但急診維持。"
  }
 ]
