@@ -1515,5 +1515,42 @@
   "severity": 2,
   "title_zh": "馬德里住屋工會宣布動員加入11-N全國大罷工",
   "note_zh": "住屋團體串聯罷工，11/11市中心住宅局周邊恐有遊行抗議。"
+ },
+ {
+  "id": "454db4a90d25",
+  "source": "news",
+  "url": "https://www.thetravel.com/royal-caribbean-prohibits-thousands-of-guests-from-disembarking-us-cruise-nearly-5-hours-barcelona-protests/",
+  "title": "Royal Caribbean Prohibits Thousands Of Guests On U.S. Cruise From Disembarking For Nearly 5 Hours As Barcelona Protests Block Terminal Access",
+  "text": "For the second time in less than a week, Royal Caribbean passengers on the Odyssey of the Seas have been warned about ongoing protests.",
+  "published": "2026-10-29T13:58:21.913644+00:00",
+  "author": "TheTravel",
+  "embed": null,
+  "category": "protest",
+  "city": "Barcelona",
+  "event_date": "2026-10-29",
+  "severity": 3,
+  "title_zh": "巴塞隆納港口示威阻礙碼頭交通致郵輪旅客延遲下船",
+  "note_zh": "示威曾影響巴塞隆納碼頭聯外，若有搭乘郵輪或港區行程需留意交通阻滯。"
+ },
+ {
+  "id": "022f7bd14da5",
+  "source": "x",
+  "url": "https://x.com/diariARA/status/2116890004769104006",
+  "title": "Presó sense fiança per un \"ideòleg\" de Blocus detingut a Barcelona https://t.co/YngKueQH0j",
+  "text": "Presó sense fiança per un \"ideòleg\" de Blocus detingut a Barcelona https://t.co/YngKueQH0j",
+  "published": "2026-11-01T13:48:01+00:00",
+  "author": "@diariARA",
+  "embed": {
+   "type": "x",
+   "id": "2116890004769104006"
+  },
+  "engagement": 0,
+  "views": 326,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-01",
+  "severity": 2,
+  "title_zh": "巴塞隆納法院裁定收押Blocus主謀不得交保",
+  "note_zh": "司法機關裁定收押涉案號召者，有助進一步壓制市區快閃騷亂風險。"
  }
 ]
