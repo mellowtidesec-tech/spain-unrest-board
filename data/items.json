@@ -1053,5 +1053,68 @@
   "severity": 2,
   "title_zh": "西班牙多城近期遭青少年透過社群串聯騷亂搶掠",
   "note_zh": "巴塞隆納等城受Blocus青少年搶掠風潮影響，警方持續防範防搶防砸。"
+ },
+ {
+  "id": "cec965089711",
+  "source": "x",
+  "url": "https://x.com/tonicesteve/status/2116765347290190144",
+  "title": "Blocus no se presenta al segundo asalto en Barcelona: la presión policial evita una nueva noche de caos vía @elnacionalc",
+  "text": "Blocus no se presenta al segundo asalto en Barcelona: la presión policial evita una nueva noche de caos vía @elnacionalcat_e https://t.co/mxtwamqpOH",
+  "published": "2026-11-01T05:32:41+00:00",
+  "author": "@tonicesteve",
+  "embed": {
+   "type": "x",
+   "id": "2116765347290190144"
+  },
+  "engagement": 0,
+  "views": 104,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-10-31",
+  "severity": 2,
+  "title_zh": "巴塞隆納萬聖夜警方嚴密封鎖成功遏阻暴亂",
+  "note_zh": "警方強力部署使Blocus騷亂未能發生，街頭未見動亂。"
+ },
+ {
+  "id": "695e91a43760",
+  "source": "x",
+  "url": "https://x.com/Luis12Octubre/status/2116761807859728687",
+  "title": "CARTA ABIERTA DE LA MESA SINDICAL DE MADRID A LAS DIRECCIONES DE CCOO Y UGT EN MADRID: UNA HUELGA NO ES UN ACTO DE CAMPA",
+  "text": "CARTA ABIERTA DE LA MESA SINDICAL DE MADRID A LAS DIRECCIONES DE CCOO Y UGT EN MADRID: UNA HUELGA NO ES UN ACTO DE CAMPAÑA. https://t.co/mAGlnVL7pr",
+  "published": "2026-11-01T05:18:37+00:00",
+  "author": "@Luis12Octubre",
+  "embed": {
+   "type": "x",
+   "id": "2116761807859728687"
+  },
+  "engagement": 0,
+  "views": 7,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "馬德里基層工會向總工會發公開信促落實罷工",
+  "note_zh": "基層工會要求工會高層切實動員大罷工，顯示11-N組織壓力持續。"
+ },
+ {
+  "id": "6b7e74a48dec",
+  "source": "x",
+  "url": "https://x.com/oscaraleg/status/2116754255981986143",
+  "title": "Turno de noche. Reconozco que cuando lo inicié a las once,llegué con muchísimas dudas. Sábado. Halloween. Centro de Madr",
+  "text": "Turno de noche. Reconozco que cuando lo inicié a las once,llegué con muchísimas dudas. Sábado. Halloween. Centro de Madrid….y amenazas de graves disturbios. A falta de una hora para acabarlo,se puede decir que ha sido un turno tranquilo. Veremos la vuelta a casa qué tal va.",
+  "published": "2026-11-01T04:48:36+00:00",
+  "author": "@oscaraleg",
+  "embed": {
+   "type": "x",
+   "id": "2116754255981986143"
+  },
+  "engagement": 0,
+  "views": 91,
+  "category": "advisory",
+  "city": "Madrid",
+  "event_date": "2026-10-31",
+  "severity": 1,
+  "title_zh": "馬德里市中心萬聖夜戒備平穩無重大騷亂",
+  "note_zh": "前線執勤人員證實萬聖夜未如預期爆發騷亂，市中心局勢受控。"
  }
 ]
