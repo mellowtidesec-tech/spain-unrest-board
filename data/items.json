@@ -1951,5 +1951,47 @@
   "severity": 2,
   "title_zh": "馬德里公立學校教師持續進行無限期罷工行動",
   "note_zh": "教師持續發起怠工與串聯，11/4-11/5校區周邊交通需留意。"
+ },
+ {
+  "id": "27e766b67269",
+  "source": "x",
+  "url": "https://x.com/alcomar85/status/2117004062419775689",
+  "title": "🟥⬛️🗣️ « ¡CONTRA LA EXPLOTACIÓN, LA ESPECULACIÓN Y LA MISERIA, UN DÍA DE HUELGA NO BASTA! #MADRID #11N #Huelga #CAAIT h",
+  "text": "🟥⬛️🗣️ « ¡CONTRA LA EXPLOTACIÓN, LA ESPECULACIÓN Y LA MISERIA, UN DÍA DE HUELGA NO BASTA! #MADRID #11N #Huelga #CAAIT https://t.co/2PWn60SwsE https://t.co/W4q0C6VGYJ",
+  "published": "2026-11-01T21:21:15+00:00",
+  "author": "@alcomar85",
+  "embed": {
+   "type": "x",
+   "id": "2117004062419775689"
+  },
+  "engagement": 1,
+  "views": 16,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "馬德里基層工會號召擴大11-N大罷工動員力道",
+  "note_zh": "勞工團體主張單日罷工不足並持續串聯，旅客需防範11/11市區交通嚴重受阻。"
+ },
+ {
+  "id": "6b046d8ef171",
+  "source": "x",
+  "url": "https://x.com/elnacionalcat/status/2117003738044866968",
+  "title": "❌ Blocus no es presenta al segon assalt a Barcelona: la pressió policial atura una nova nit de caos La policia catalana",
+  "text": "❌ Blocus no es presenta al segon assalt a Barcelona: la pressió policial atura una nova nit de caos La policia catalana ha fet més de 1.400 identificats i segueix analitzat què pot amagar el fenomen, amb l'ull posat a l'11-N https://t.co/6K9yRDqdp8",
+  "published": "2026-11-01T21:19:57+00:00",
+  "author": "@elnacionalcat",
+  "embed": {
+   "type": "x",
+   "id": "2117003738044866968"
+  },
+  "engagement": 1,
+  "views": 289,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-01",
+  "severity": 2,
+  "title_zh": "加泰警方強勢盤查成功遏阻巴塞隆納第二波夜間騷亂",
+  "note_zh": "市區連續兩夜未現大規模破壞，惟警力持續緊盯動能是否轉移至11-N大罷工。"
  }
 ]
