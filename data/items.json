@@ -1263,5 +1263,89 @@
   "severity": 2,
   "title_zh": "馬德里醫護工會發布影片持續動員罷工訴求",
   "note_zh": "醫護工會持續訴求罷工，公立醫院常態門診可能受延宕但急診維持。"
+ },
+ {
+  "id": "a1a0484d02e1",
+  "source": "x",
+  "url": "https://x.com/EPMadrid/status/2116818240651280554",
+  "title": "La jornada transcurre sin incidentes en Madrid ante la convocatoria de 'Blocus' prevista para este sábado https://t.co/",
+  "text": "La jornada transcurre sin incidentes en Madrid ante la convocatoria de 'Blocus' prevista para este sábado https://t.co/9apLmiQyAX",
+  "published": "2026-11-01T09:02:51+00:00",
+  "author": "@EPMadrid",
+  "embed": {
+   "type": "x",
+   "id": "2116818240651280554"
+  },
+  "engagement": 0,
+  "views": 33,
+  "category": "advisory",
+  "city": "Madrid",
+  "event_date": "2026-10-31",
+  "severity": 1,
+  "title_zh": "馬德里萬聖夜未傳出Blocus騷亂平穩度過",
+  "note_zh": "馬德里市中心警方嚴密防範，萬聖夜未發生群聚暴亂，觀光區安全無虞。"
+ },
+ {
+  "id": "7c1183c508fa",
+  "source": "x",
+  "url": "https://x.com/elespanolcom/status/2116817531444859239",
+  "title": "🔴 #REPORTAJES | Truco o trato, Blocus intenta camuflarse entre las máscaras de Halloween de un Madrid blindado: \"Peor qu",
+  "text": "🔴 #REPORTAJES | Truco o trato, Blocus intenta camuflarse entre las máscaras de Halloween de un Madrid blindado: \"Peor que 'Black Friday'\" https://t.co/AvOQm01MMC",
+  "published": "2026-11-01T09:00:02+00:00",
+  "author": "@elespanolcom",
+  "embed": {
+   "type": "x",
+   "id": "2116817531444859239"
+  },
+  "engagement": 0,
+  "views": 428,
+  "category": "advisory",
+  "city": "Madrid",
+  "event_date": "2026-10-31",
+  "severity": 2,
+  "title_zh": "馬德里重兵戒備萬聖夜防範極端分子偽裝",
+  "note_zh": "警方嚴加防範騷亂分子混入節慶人潮，目前商業區保持警戒但秩序正常。"
+ },
+ {
+  "id": "0c71dc53691c",
+  "source": "x",
+  "url": "https://x.com/btvnoticies/status/2116816631557136452",
+  "title": "🔴 Pugen a 2.264 les identificacions contra Blocus aquest dissabte, i 181 denúncies per portar armes potencialment lesive",
+  "text": "🔴 Pugen a 2.264 les identificacions contra Blocus aquest dissabte, i 181 denúncies per portar armes potencialment lesives. La nit es va tancar amb 3 detinguts https://t.co/g2HqKOK08g",
+  "published": "2026-11-01T08:56:28+00:00",
+  "author": "@btvnoticies",
+  "embed": {
+   "type": "x",
+   "id": "2116816631557136452"
+  },
+  "engagement": 0,
+  "views": 346,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-10-31",
+  "severity": 2,
+  "title_zh": "巴塞隆納萬聖夜盤查2264人開罰181人持危險物品",
+  "note_zh": "警方強力執法查扣大量危險物品拘留3人，成功瓦解騷亂，市面秩序平穩。"
+ },
+ {
+  "id": "dda610544f80",
+  "source": "x",
+  "url": "https://x.com/CarlaRUschinsky/status/2116814963364987263",
+  "title": "Intenté anular mi AVE a Madrid el 12N. Hay huelga de maquinistas, no me siento segura, prefiero ir en coche. Renfe: 0€ d",
+  "text": "Intenté anular mi AVE a Madrid el 12N. Hay huelga de maquinistas, no me siento segura, prefiero ir en coche. Renfe: 0€ de devolución porque es tarifa Básica. ¿No es una situación excepcional? Lo mínimo sería dejar reembolsar. ¿Viajaríais vosotros ahora? #Renfe #AVE #Seguridad https://t.co/hmZFCiYgMC",
+  "published": "2026-11-01T08:49:50+00:00",
+  "author": "@CarlaRUschinsky",
+  "embed": {
+   "type": "x",
+   "id": "2116814963364987263"
+  },
+  "engagement": 0,
+  "views": 14,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-12",
+  "severity": 3,
+  "title_zh": "民眾抱怨11/12國鐵罷工退改簽受限改搭自駕",
+  "note_zh": "反映11/12全國鐵路罷工造成實際退款與班次調度困擾，旅客須防備交通癱瘓。"
  }
 ]
