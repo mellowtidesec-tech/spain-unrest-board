@@ -2035,5 +2035,47 @@
   "severity": 2,
   "title_zh": "馬德里基層團體批建制工會並持續串聯大罷工",
   "note_zh": "顯示勞工團體內部雖有路線分歧，但基層對11-N大罷工動員意志依舊堅定。"
+ },
+ {
+  "id": "453b6d8b1797",
+  "source": "x",
+  "url": "https://x.com/Calaixwebloc/status/2117038183066042719",
+  "title": "\"El que era important de cara a aquests joves que es mobilitzen per fer saquejos i trencar la convivència és que quedés",
+  "text": "\"El que era important de cara a aquests joves que es mobilitzen per fer saquejos i trencar la convivència és que quedés clar que això no es permetria\". https://t.co/x4VxZ9wvhz",
+  "published": "2026-11-01T23:36:50+00:00",
+  "author": "@Calaixwebloc",
+  "embed": {
+   "type": "x",
+   "id": "2117038183066042719"
+  },
+  "engagement": 0,
+  "views": 3,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-01",
+  "severity": 2,
+  "title_zh": "加泰官方重申絕不容忍青少年集體掠奪與破壞秩序",
+  "note_zh": "當局持續重申強硬執法立場，巴塞隆納市區戒備態勢仍將維持。"
+ },
+ {
+  "id": "6532bafa66d4",
+  "source": "x",
+  "url": "https://x.com/caval100/status/2117019603687915807",
+  "title": "La Prensa 1 de Noviembre de 2026 ►¿Es seguro viajar en tren en España? Cinco claves sobre lo que falla y qué debe cambia",
+  "text": "La Prensa 1 de Noviembre de 2026 ►¿Es seguro viajar en tren en España? Cinco claves sobre lo que falla y qué debe cambiar para recuperar la confianza ►Los forenses ya han identificado a 56 fallecidos del accidente ferroviario de Toledo, mientras 31 heridos continúan ingresados ►El TS añade dudas al censo del 29N y rechaza suspender a los electores de la 'ley de nietos' residentes en España ►El accidente de Toledo irrumpe en la campaña y amenaza las aspiraciones electorales de Sánchez ►Blocus, ra",
+  "published": "2026-11-01T22:23:00+00:00",
+  "author": "@caval100",
+  "embed": {
+   "type": "x",
+   "id": "2117019603687915807"
+  },
+  "engagement": 1,
+  "views": 84,
+  "category": "advisory",
+  "city": "Spain",
+  "event_date": "2026-11-01",
+  "severity": 3,
+  "title_zh": "西媒檢討重大鐵路事故後續與鐵路系統安全信任危機",
+  "note_zh": "鐵路安全疑慮持續發酵，牽動後續國鐵司機罷工與班次排查。"
  }
 ]
