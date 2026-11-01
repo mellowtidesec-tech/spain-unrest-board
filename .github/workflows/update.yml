@@ -1,7 +1,7 @@
 name: update-board
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
     inputs:
       force_all:
@@ -23,16 +23,36 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      - name: Skip if updated recently
+        id: guard
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, datetime, os
+          if os.environ.get("EV") != "schedule":
+              print("run=1"); raise SystemExit
+          try:
+              t = datetime.datetime.fromisoformat(json.load(open("data/state.json"))["generated_at"])
+              if t.tzinfo is None: t = t.replace(tzinfo=datetime.timezone.utc)
+              age = (datetime.datetime.now(datetime.timezone.utc) - t).total_seconds()
+              print("run=" + ("1" if age > 50*60 else "0"))
+          except Exception:
+              print("run=1")
+          PY
+        env:
+          EV: ${{ github.event_name }}
       - uses: actions/setup-python@v5
+        if: steps.guard.outputs.run == '1'
         with:
           python-version: "3.12"
       - name: Fetch, score, render
+        if: steps.guard.outputs.run == '1'
         env:
           TREG_TOKEN: ${{ secrets.TREG_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FORCE_ALL: ${{ github.event.inputs.force_all || '0' }}
         run: python scripts/update.py
       - name: Commit data
+        if: steps.guard.outputs.run == '1'
         run: |
           git config user.name "board-bot"
           git config user.email "board-bot@users.noreply.github.com"
@@ -41,8 +61,11 @@ jobs:
           git pull --rebase -X ours || true
           git push
       - uses: actions/configure-pages@v5
+        if: steps.guard.outputs.run == '1'
       - uses: actions/upload-pages-artifact@v3
+        if: steps.guard.outputs.run == '1'
         with:
           path: docs
       - id: deploy
+        if: steps.guard.outputs.run == '1'
         uses: actions/deploy-pages@v4
