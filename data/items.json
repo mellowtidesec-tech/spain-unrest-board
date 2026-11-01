@@ -1993,5 +1993,47 @@
   "severity": 2,
   "title_zh": "加泰警方強勢盤查成功遏阻巴塞隆納第二波夜間騷亂",
   "note_zh": "市區連續兩夜未現大規模破壞，惟警力持續緊盯動能是否轉移至11-N大罷工。"
+ },
+ {
+  "id": "3b726bd2af90",
+  "source": "x",
+  "url": "https://x.com/cordoba/status/2117022811428450601",
+  "title": "Detenido otro joven, de 21 años, vinculado a Blocus y a los disturbios de Barcelona https://t.co/UiWgcA3yTc",
+  "text": "Detenido otro joven, de 21 años, vinculado a Blocus y a los disturbios de Barcelona https://t.co/UiWgcA3yTc",
+  "published": "2026-11-01T22:35:45+00:00",
+  "author": "@cordoba",
+  "embed": {
+   "type": "x",
+   "id": "2117022811428450601"
+  },
+  "engagement": 0,
+  "views": 90,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-01",
+  "severity": 2,
+  "title_zh": "警方於巴塞隆納再逮捕一名Blocus騷亂涉案青年",
+  "note_zh": "警方持續追緝騷亂策劃者，有助於壓制街頭暴力，但治安警力維持高密度巡邏。"
+ },
+ {
+  "id": "823afd989ef4",
+  "source": "x",
+  "url": "https://x.com/Liza__Madrid/status/2117015698669023287",
+  "title": "FRENTE ÚNICO 👊🏽 Las burocracias de los sindicatos de concertación son responsables estructurales de la situación de nue",
+  "text": "FRENTE ÚNICO 👊🏽 Las burocracias de los sindicatos de concertación son responsables estructurales de la situación de nuestra clase. Ahora boicotean los espacios de autoorganización y pretenden transformar la Huelga en una jornada de lucha electoralista 👇🏽 https://t.co/mc7Q00uQSU https://t.co/qn09hrjEov",
+  "published": "2026-11-01T22:07:29+00:00",
+  "author": "@Liza__Madrid",
+  "embed": {
+   "type": "x",
+   "id": "2117015698669023287"
+  },
+  "engagement": 7,
+  "views": 88,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "馬德里基層團體批建制工會並持續串聯大罷工",
+  "note_zh": "顯示勞工團體內部雖有路線分歧，但基層對11-N大罷工動員意志依舊堅定。"
  }
 ]
