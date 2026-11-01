@@ -1347,5 +1347,68 @@
   "severity": 3,
   "title_zh": "民眾抱怨11/12國鐵罷工退改簽受限改搭自駕",
   "note_zh": "反映11/12全國鐵路罷工造成實際退款與班次調度困擾，旅客須防備交通癱瘓。"
+ },
+ {
+  "id": "673514daa6cf",
+  "source": "x",
+  "url": "https://x.com/jorgequiroga91/status/2116831502344372585",
+  "title": "Pues yo ayer cogí el AVE Madrid-Zaragoza e iba a tope. También si graba un Ouigo que están en huelga es normal que no ha",
+  "text": "Pues yo ayer cogí el AVE Madrid-Zaragoza e iba a tope. También si graba un Ouigo que están en huelga es normal que no haya nadie",
+  "published": "2026-11-01T09:55:33+00:00",
+  "author": "@jorgequiroga91",
+  "embed": {
+   "type": "x",
+   "id": "2116831502344372585"
+  },
+  "engagement": 0,
+  "views": 25,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-01",
+  "severity": 2,
+  "title_zh": "旅客反映Ouigo高鐵罷工導致乘客轉搭Renfe班次客滿",
+  "note_zh": "反映Ouigo罷工期間替代高鐵班次高度擁擠，跨城購票需及早。"
+ },
+ {
+  "id": "4451aadb69e3",
+  "source": "x",
+  "url": "https://x.com/laciutatbcln/status/2116827359546421371",
+  "title": "\"Es podrien repetir\": Collboni afirma que \"s'ha parat el cop\" de Blocus, però demana no abaixar la guàrdia 🔴️ | L'alcal",
+  "text": "\"Es podrien repetir\": Collboni afirma que \"s'ha parat el cop\" de Blocus, però demana no abaixar la guàrdia 🔴️ | L'alcalde de Barcelona afirma que la ciutat ha resistit les convocatòries d'aquest dissabte, mentre el dispositiu policial es tanca amb 1.440 identificats, 3 detinguts i 127 actes administratives https://t.co/RZaa2D0zRQ",
+  "published": "2026-11-01T09:39:05+00:00",
+  "author": "@laciutatbcln",
+  "embed": {
+   "type": "x",
+   "id": "2116827359546421371"
+  },
+  "engagement": 0,
+  "views": 107,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-01",
+  "severity": 2,
+  "title_zh": "巴塞隆納市長警告Blocus騷亂可能重演籲勿鬆懈戒備",
+  "note_zh": "市長提醒萬聖夜後極端團體仍可能再發動突襲，提醒旅客市中心商圈仍需警覺。"
+ },
+ {
+  "id": "dbe19ad8e090",
+  "source": "x",
+  "url": "https://x.com/PAH_BCN/status/2116827197377814956",
+  "title": "Son 29.253 millones de € las vergonzosas ganancias de la Banca Mafia mientras este sistema capitalista hunde los salario",
+  "text": "Son 29.253 millones de € las vergonzosas ganancias de la Banca Mafia mientras este sistema capitalista hunde los salarios, la salud, pensiones, educación, vivienda... y nos precarizan más. Por ello el 11N ¡vamos a la Huelga General y paralicemos el país! https://t.co/N9o8ry87uo",
+  "published": "2026-11-01T09:38:27+00:00",
+  "author": "@PAH_BCN",
+  "embed": {
+   "type": "x",
+   "id": "2116827197377814956"
+  },
+  "engagement": 4,
+  "views": 85,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "加泰住屋平權團體發動響應11-N全國大罷工",
+  "note_zh": "草根住屋運動加入11-N大罷工，顯示該日巴塞市中心遊行規模將進一步擴大。"
  }
 ]
