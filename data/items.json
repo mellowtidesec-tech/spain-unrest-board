@@ -1741,5 +1741,110 @@
   "severity": 2,
   "title_zh": "巴塞隆納格拉西亞大道店家宣布夜間維持封板至11/11",
   "note_zh": "精品街店家預防性防護拉長至大罷工日，日間正常營業但夜間景觀稍受影響。"
+ },
+ {
+  "id": "fda5e6d9a046",
+  "source": "x",
+  "url": "https://x.com/PAH_BCN/status/2116941451254755502",
+  "title": "L'11 de novembre paralitzarem el país contra un sistema que enfonsa a les famílies i les condemna a la precarietat, sala",
+  "text": "L'11 de novembre paralitzarem el país contra un sistema que enfonsa a les famílies i les condemna a la precarietat, salaris, educació, sanitat, pensions, habitatge i molt mes...indignes. 🗣Vaga, vaga, vaga, vaga, vaga‼️ https://t.co/eOOX5H0ij4",
+  "published": "2026-11-01T17:12:27+00:00",
+  "author": "@PAH_BCN",
+  "embed": {
+   "type": "x",
+   "id": "2116941451254755502"
+  },
+  "engagement": 5,
+  "views": 35,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "加泰住屋維權組織號召11/11全面癱瘓社會運作",
+  "note_zh": "民間維權團體加強動員響應大罷工，加泰隆尼亞當日示威風險升高。"
+ },
+ {
+  "id": "b52f23a17d4e",
+  "source": "x",
+  "url": "https://x.com/luzmaria33/status/2116940236097765869",
+  "title": "El desalojo de la acampada ilegal de Sol se mantendrá hasta la huelga general https://t.co/t4nnjcC4Ns via @telemadrid",
+  "text": "El desalojo de la acampada ilegal de Sol se mantendrá hasta la huelga general https://t.co/t4nnjcC4Ns via @telemadrid",
+  "published": "2026-11-01T17:07:37+00:00",
+  "author": "@luzmaria33",
+  "embed": {
+   "type": "x",
+   "id": "2116940236097765869"
+  },
+  "engagement": 0,
+  "views": 6,
+  "category": "advisory",
+  "city": "Madrid",
+  "event_date": "2026-11-01",
+  "severity": 2,
+  "title_zh": "馬德里警方維持太陽門清空直至全國大罷工",
+  "note_zh": "太陽門廣場防範紮營回潮，警方重兵封控將持續至11/11。"
+ },
+ {
+  "id": "61ef92e86e16",
+  "source": "x",
+  "url": "https://x.com/adsuara/status/2116939092596535544",
+  "title": "Del ‘reel’ al juzgado: el golpe de realidad a los menores detenidos por los disturbios Los 89 jóvenes arrestados en Bar",
+  "text": "Del ‘reel’ al juzgado: el golpe de realidad a los menores detenidos por los disturbios Los 89 jóvenes arrestados en Barcelona afrontan una respuesta judicial severa y el choque con sus padres, que deberán pagar los daños causados https://t.co/bsZkDd9ihy Por @jesusgbueno, @Dani_Cordero y @RebecaCarranco en @el_pais 🔒",
+  "published": "2026-11-01T17:03:05+00:00",
+  "author": "@adsuara",
+  "embed": {
+   "type": "x",
+   "id": "2116939092596535544"
+  },
+  "engagement": 11,
+  "views": 242,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-01",
+  "severity": 2,
+  "title_zh": "巴塞隆納89名騷亂未成年人面臨司法嚴厲追訴",
+  "note_zh": "司法嚴懲涉案未成年人與家長連帶賠償，短期內青少年再犯機率降低。"
+ },
+ {
+  "id": "3ecb963b55f6",
+  "source": "x",
+  "url": "https://x.com/HoritzoS/status/2116937358998155323",
+  "title": "📰 NOTÍCIA | Més de 2.000 identificacions per perfil racial a Barcelona. Mossos d’Esquadra i Guàrdia Urbana han militari",
+  "text": "📰 NOTÍCIA | Més de 2.000 identificacions per perfil racial a Barcelona. Mossos d’Esquadra i Guàrdia Urbana han militaritzat la ciutat i han detingut una desena de joves no vinculats amb els fets de Blocus. https://t.co/odTA37b7hN",
+  "published": "2026-11-01T16:56:11+00:00",
+  "author": "@HoritzoS",
+  "embed": {
+   "type": "x",
+   "id": "2116937358998155323"
+  },
+  "engagement": 24,
+  "views": 356,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-10-31",
+  "severity": 2,
+  "title_zh": "巴塞隆納警方重兵巡查市區引發民間執法爭議",
+  "note_zh": "加泰警方在巴塞市中心維持軍事化高密度臨檢，旅客需備妥身分證件。"
+ },
+ {
+  "id": "f7eabab5e0b9",
+  "source": "x",
+  "url": "https://x.com/c_s_itaca/status/2116933715675017305",
+  "title": "✊ Los/as compañeros/as del Centro Obrero y Popular COP @ElClavel_COP (Vallekas, Madrid) se preparan para la Huelga Gener",
+  "text": "✊ Los/as compañeros/as del Centro Obrero y Popular COP @ElClavel_COP (Vallekas, Madrid) se preparan para la Huelga General del 11N. https://t.co/6zXcefOQSb",
+  "published": "2026-11-01T16:41:43+00:00",
+  "author": "@c_s_itaca",
+  "embed": {
+   "type": "x",
+   "id": "2116933715675017305"
+  },
+  "engagement": 1,
+  "views": 21,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "馬德里瓦耶卡斯基層團體展開11-N大罷工串聯",
+  "note_zh": "馬德里南方工人群體積極備戰11/11大罷工，市區與周邊集會將增。"
  }
 ]
