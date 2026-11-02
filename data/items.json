@@ -3676,5 +3676,63 @@
   "severity": 2,
   "title_zh": "巴塞隆納海洋醫院急診醫護展開24小時罷工",
   "note_zh": "急診走廊癱瘓滿床，非危及生命就醫需求請優先轉往其他醫療院所。"
+ },
+ {
+  "id": "91ec53e2e39d",
+  "source": "news",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmlXaFVDM2hWN0pCeTdTaURObGhBS0tlRmZRV3NERDM2T1NyYkFNNFMxa2xiMUV4Vzc5VTFwbVdQT3JaN2wyRWVaeWtTenR0cTQ5eTdYUDliU0RNLXRnTFhaWk54eGVDWW85b21rVVdqblZTV3o5dEM2Y2t6NUtJTllxODRSbUctXzhLSVNJZHdnYTZUNE9xQUdB0gGuAUFVX3lxTFBwSzdJYi1RVlRLQVFjVWxtelR1a1VRT2UwRFU3Wjlkczg2WWtQRDhHYW0tS1hmUV9rOEVsRGVNU0RHZlEtQmhJaGlya3J1X0N6VVJ4NmxlNEFpTU9fNnNCUENwSVNSV0ROV2l5ZWxVLXhxSVJYcEp3eVFwQ090cTZKM250S0pjdUFobWl0R2IzVElnMnNqUzZuN051QURmZHowRVc1dWF6bUFpRzY1QQ?oc=5",
+  "title": "\"Desacampada\" en la Puerta del Sol (al fín)",
+  "text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmlXaFVDM2hWN0pCeTdTaURObGhBS0tlRmZRV3NERDM2T1NyYkFNNFMxa2xiMUV4Vzc5VTFwbVdQT3JaN2wyRWVaeWtTenR0cTQ5eTdYUDliU0RNLXRnTFhaWk54eGVDWW85b21rVVdqblZTV3o5dEM2Y2t6NUtJTllxODRSbUctXzhLSVNJZHdnYTZUNE9xQUdB0gGuAUFVX3lxTFBwSzdJYi1RVlRLQVFjVWxtelR1a1 …",
+  "published": "2026-11-02T16:05:01+00:00",
+  "author": "La Razón",
+  "embed": null,
+  "category": "advisory",
+  "city": "Madrid",
+  "event_date": "2026-11-02",
+  "severity": 2,
+  "title_zh": "馬德里太陽門廣場紮營帳篷陸續拆除撤離",
+  "note_zh": "太陽門抗議者大多拆除帳篷轉入社區動員，廣場觀光與步行動線進一步恢復。"
+ },
+ {
+  "id": "0315ad8629c2",
+  "source": "x",
+  "url": "https://x.com/rtvenoticies/status/2117341806895702114",
+  "title": "🔴 Dues menors detingudes per la seva presumpta vinculació amb Blocus i els saquejos del 24 d’octubre a Barcelona, sumen",
+  "text": "🔴 Dues menors detingudes per la seva presumpta vinculació amb Blocus i els saquejos del 24 d’octubre a Barcelona, sumen 6 els arrestats a Catalunya | #ElVespre #La2Cat 📲 https://t.co/ZXaiRoTUjE https://t.co/tvbdCfi8PV",
+  "published": "2026-11-02T19:43:19+00:00",
+  "author": "@rtvenoticies",
+  "embed": {
+   "type": "x",
+   "id": "2117341806895702114"
+  },
+  "engagement": 1,
+  "views": 73,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-02",
+  "severity": 2,
+  "title_zh": "加泰警方已逮捕6名Blocus騷亂核心組織嫌犯",
+  "note_zh": "公廣RTVE證實警方已拘捕6名核心動員者，顯示煽動網絡已被實質瓦解。"
+ },
+ {
+  "id": "35557b900850",
+  "source": "x",
+  "url": "https://x.com/tvmataro/status/2117333955359744281",
+  "title": "🔴Una menor detinguda al Maresme per promoure els aldarulls i saquejos de BLOCUS a Barcelona 🚨També hi ha una altra arre",
+  "text": "🔴Una menor detinguda al Maresme per promoure els aldarulls i saquejos de BLOCUS a Barcelona 🚨També hi ha una altra arrestada al Bages Més informació👇 https://t.co/qdUU2sQlJW",
+  "published": "2026-11-02T19:12:07+00:00",
+  "author": "@tvmataro",
+  "embed": {
+   "type": "x",
+   "id": "2117333955359744281"
+  },
+  "engagement": 2,
+  "views": 216,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-02",
+  "severity": 2,
+  "title_zh": "巴塞警方於馬雷斯梅與巴赫斯拘捕兩名搶掠宣傳少女",
+  "note_zh": "揭露警方查緝地點延伸至巴塞近郊城鎮，市區外部署同步收緊以防外圍串聯。"
  }
 ]
