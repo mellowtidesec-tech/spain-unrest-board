@@ -2346,5 +2346,79 @@
   "severity": 4,
   "title_zh": "反體制激進團體誓言於11-N大罷工全力癱瘓馬德里",
   "note_zh": "激進組織揚言全面阻斷馬德里交通運作，警方正密切監控，旅客當日須嚴防突發封路。"
+ },
+ {
+  "id": "e585de8a821d",
+  "source": "news",
+  "url": "https://www.elconfidencial.com/economia/2026-10-24/sindicatos-catalanes-huelga-general-politiza_4451077/",
+  "title": "Los sindicatos catalanes afrontan la huelga del 11-N con politización máxima",
+  "text": "Los sindicatos catalanes están preparando la huelga general más atípica, la del 11-N, a las puertas de las próximas elecciones generales. Una huelga general...",
+  "published": null,
+  "author": "El Confidencial",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "加泰工會高度政治化備戰11-N全國大罷工",
+  "note_zh": "11/11大罷工動員氣氛升溫，巴塞隆納公共運作與交通風險持續高企。"
+ },
+ {
+  "id": "32af4c4a209b",
+  "source": "news",
+  "url": "https://www.izquierdadiario.es/Extender-los-comites-de-huelga-en-todos-los-centros-de-trabajo-la-clave-para-hacer-efectiva-la",
+  "title": "Extender los comités de huelga en todos los centros de trabajo: la clave para hacer efectiva la huelga del 11N",
+  "text": "Más de 60 comités de huelga se extienden por barrios y pueblos de Catalunya. Una cosa similar esta pasando en Madrid y otros territorios.",
+  "published": null,
+  "author": "Izquierda diario.es",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "逾60個罷工委員會在加泰與馬德里基層串聯11N罷工",
+  "note_zh": "基層串聯擴散至各社區工會，顯示11/11罷工動員面極廣，干擾風險大。"
+ },
+ {
+  "id": "2b1ea1856af9",
+  "source": "x",
+  "url": "https://x.com/rtvenoticies/status/2117152315924983867",
+  "title": "🚄 La línia de Madrid-Andalusia continua suspesa després de l'accident d'Urda. 🪧 A més, Ouigo suspèn tots els seus tre",
+  "text": "🚄 La línia de Madrid-Andalusia continua suspesa després de l'accident d'Urda. 🪧 A més, Ouigo suspèn tots els seus trens per la vaga de maquinistes. ➕ Info: https://t.co/kWyHwGbVxh https://t.co/K8c0Y4jHoN",
+  "published": "2026-11-02T07:10:21+00:00",
+  "author": "@rtvenoticies",
+  "embed": {
+   "type": "x",
+   "id": "2117152315924983867"
+  },
+  "engagement": 0,
+  "views": 62,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-02",
+  "severity": 3,
+  "title_zh": "馬德里-安達魯西亞線停駛且Ouigo因罷工停駛全部列車",
+  "note_zh": "高鐵事故線路未通疊加Ouigo今日全線罷工，城際鐵路運能嚴重吃緊。"
+ },
+ {
+  "id": "9128758d6c12",
+  "source": "x",
+  "url": "https://x.com/abc_es/status/2117142159900258608",
+  "title": "El efecto Blocus da la puntilla a la ruina de los comercios del centro de Madrid pese a la ausencia de saqueos https://t",
+  "text": "El efecto Blocus da la puntilla a la ruina de los comercios del centro de Madrid pese a la ausencia de saqueos https://t.co/YXNarjhAHE",
+  "published": "2026-11-02T06:30:00+00:00",
+  "author": "@abc_es",
+  "embed": {
+   "type": "x",
+   "id": "2117142159900258608"
+  },
+  "engagement": 18,
+  "views": 2655,
+  "category": "advisory",
+  "city": "Madrid",
+  "event_date": "2026-11-02",
+  "severity": 1,
+  "title_zh": "馬德里市中心商圈受暴亂戒備影響生意慘澹已拆除防護",
+  "note_zh": "市中心商圈已無暴亂，商戶逐步正常營業，旅客市區步行安全良好。"
  }
 ]
