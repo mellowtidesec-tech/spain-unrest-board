@@ -2420,5 +2420,47 @@
   "severity": 1,
   "title_zh": "馬德里市中心商圈受暴亂戒備影響生意慘澹已拆除防護",
   "note_zh": "市中心商圈已無暴亂，商戶逐步正常營業，旅客市區步行安全良好。"
+ },
+ {
+  "id": "56738ba16ac4",
+  "source": "x",
+  "url": "https://x.com/romanidemata/status/2117160750321906155",
+  "title": "Biblioteques de Barcelona en vaga indefinida. https://t.co/24vlEE8JZN",
+  "text": "Biblioteques de Barcelona en vaga indefinida. https://t.co/24vlEE8JZN",
+  "published": "2026-11-02T07:43:52+00:00",
+  "author": "@romanidemata",
+  "embed": {
+   "type": "x",
+   "id": "2117160750321906155"
+  },
+  "engagement": 0,
+  "views": 17,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-02",
+  "severity": 1,
+  "title_zh": "巴塞隆納全體市立圖書館展開無限期罷工",
+  "note_zh": "市立圖書館與部分文教機構閉館，對一般觀光行程衝擊甚微。"
+ },
+ {
+  "id": "be29e59ee322",
+  "source": "x",
+  "url": "https://x.com/Catalunya_Press/status/2117159200035848416",
+  "title": "Huelga en Ouigo: la compañía suspende sus trenes y afecta a 20.000 usuarios en Barcelona-Sants y todo el país https://t.",
+  "text": "Huelga en Ouigo: la compañía suspende sus trenes y afecta a 20.000 usuarios en Barcelona-Sants y todo el país https://t.co/gsfRVzpiLS",
+  "published": "2026-11-02T07:37:42+00:00",
+  "author": "@Catalunya_Press",
+  "embed": {
+   "type": "x",
+   "id": "2117159200035848416"
+  },
+  "engagement": 1,
+  "views": 40,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-02",
+  "severity": 3,
+  "title_zh": "Ouigo高鐵司機今日全國罷工停駛衝擊兩萬名旅客",
+  "note_zh": "今日Sants站長途Ouigo班次停擺，跨城旅客湧入國鐵致班次緊繃。"
  }
 ]
