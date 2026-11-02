@@ -3183,5 +3183,47 @@
   "severity": 2,
   "title_zh": "巴塞涉暴少年72人受保護管束且32人禁入集會",
   "note_zh": "司法對涉案少年實施集會禁令，有助遏阻市中心抗議再度演變成打劫。"
+ },
+ {
+  "id": "a0af349b57a8",
+  "source": "x",
+  "url": "https://x.com/Olalla_Ferro/status/2117263915620941885",
+  "title": "¡Que el dinero descontado de la huelga educativa en Madrid vuelva a nuestros colegios! - ¡Firma la petición! https://t.c",
+  "text": "¡Que el dinero descontado de la huelga educativa en Madrid vuelva a nuestros colegios! - ¡Firma la petición! https://t.co/9YER4pS910",
+  "published": "2026-11-02T14:33:49+00:00",
+  "author": "@Olalla_Ferro",
+  "embed": {
+   "type": "x",
+   "id": "2117263915620941885"
+  },
+  "engagement": 0,
+  "views": 7,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-02",
+  "severity": 1,
+  "title_zh": "馬德里發起連署爭取教育罷工扣款回饋校園",
+  "note_zh": "反映教育界罷工仍在發酵，但連署請願對旅客市區行程無實質影響。"
+ },
+ {
+  "id": "ddbae841a706",
+  "source": "x",
+  "url": "https://x.com/MadresCR/status/2117256524368343222",
+  "title": "Metro de Madrid, aviso respecto a la Huelga General 11N https://t.co/moOUKdxivw",
+  "text": "Metro de Madrid, aviso respecto a la Huelga General 11N https://t.co/moOUKdxivw",
+  "published": "2026-11-02T14:04:26+00:00",
+  "author": "@MadresCR",
+  "embed": {
+   "type": "x",
+   "id": "2117256524368343222"
+  },
+  "engagement": 0,
+  "views": 55,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "馬德里地鐵發布11-N全國大罷工應變公告",
+  "note_zh": "馬德里地鐵已著手因應大罷工，11/11 市區地下鐵班次恐受顯著衝擊。"
  }
 ]
