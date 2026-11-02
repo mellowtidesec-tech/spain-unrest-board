@@ -3734,5 +3734,58 @@
   "severity": 2,
   "title_zh": "巴塞警方於馬雷斯梅與巴赫斯拘捕兩名搶掠宣傳少女",
   "note_zh": "揭露警方查緝地點延伸至巴塞近郊城鎮，市區外部署同步收緊以防外圍串聯。"
+ },
+ {
+  "id": "df51a7366637",
+  "source": "news",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWhYNmFINWFsc3VHQzhvYW5WR0wyekJ3MnRkbGNhYmNERGtyUWZta1ZHYmFjNWVodXhOeXBFNE5xWXZzajdzZ2I2dWdZUkdXbG9HZ3dHMWVmdXR4V3N2TFczbTUzTEU0V2ttQTE1VDBOX2pJQUo1ZmdnYUlYMFZOUjJEMjdSSjFzbUFwUXNJcGtkeWtDZ2JROG5sV2l0MUpNSEHSAbYBQVVfeXFMUGpWM0xYQVlDQTZJb19qT2EzakZHYUZCTnJtYV94eWlpSVAtNTJJbkRlRlExcmEybXh6dFVvcjRtX09iRGtWbmZ3aHdCd195aHFnb3BtQVZKajJOZXZCZ0MzY3JPZFR1a0ljZ0NsX2ZGVzhMSzJKbTFVQ09tS0h2NS15R1M0REMxaDlpbVlNQW9Hc1JmVGJMVHN4N0U0cy1IdHpqS3FubFRzYjB6SnFoWFViYkZEMlE?oc=5",
+  "title": "Los controladores de Adif irán a la huelga",
+  "text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWhYNmFINWFsc3VHQzhvYW5WR0wyekJ3MnRkbGNhYmNERGtyUWZta1ZHYmFjNWVodXhOeXBFNE5xWXZzajdzZ2I2dWdZUkdXbG9HZ3dHMWVmdXR4V3N2TFczbTUzTEU0V2ttQTE1VDBOX2pJQUo1ZmdnYUlYMFZOUjJEMjdSSjFzbUFwUXNJcGtkeWtDZ2JROG5sV2l0MUpNSEHSAbYBQVVfeXFMUGpWM0xYQVlDQTZJb1 …",
+  "published": "2026-11-02T02:20:56+00:00",
+  "author": "La Razón",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": null,
+  "severity": 4,
+  "title_zh": "西班牙鐵路基建局Adif調度行控人員醞釀罷工",
+  "note_zh": "鐵路行控人員加入罷工陣營將癱瘓全西鐵路，需緊盯日期公布。"
+ },
+ {
+  "id": "9096af306ccc",
+  "source": "news",
+  "url": "https://www.rac1.cat/societat/20261028/381606/metges-catalans-comencen-vaga-indefinida-reclamar-millores-laborals.html",
+  "title": "Els metges catalans comencen una vaga indefinida per reclamar millores laborals",
+  "text": "La vaga indefinida de metges que ha arrencat aquest dimecres pràcticament no s'ha notat als hospitals catalans. Segons el departament de Salut ha tingut un.",
+  "published": null,
+  "author": "RAC1",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "加泰隆尼亞醫師展開無限期罷工爭取待遇",
+  "note_zh": "加泰公立醫院常規門診受限，急診維持基本服務，就醫恐延遲。"
+ },
+ {
+  "id": "b66115e40fc3",
+  "source": "x",
+  "url": "https://x.com/laujcemadrid/status/2117364275958419546",
+  "title": "🔥Vamos hacia la huelga general, la mayor herramienta que tiene la clase obrera para plantar cara al capital que nos asfi",
+  "text": "🔥Vamos hacia la huelga general, la mayor herramienta que tiene la clase obrera para plantar cara al capital que nos asfixia El martes tenemos un encuentro con Ricard Escrich, movimiento obrero de el PCE, Miguel Indiano, de @JovenesCCOO y Blanca Escudero, SP de la UJCE en Madrid https://t.co/Ckuyha3LJa",
+  "published": "2026-11-02T21:12:36+00:00",
+  "author": "@laujcemadrid",
+  "embed": {
+   "type": "x",
+   "id": "2117364275958419546"
+  },
+  "engagement": 5,
+  "views": 55,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-03",
+  "severity": 2,
+  "title_zh": "馬德里共青團與工會青年週二舉辦大罷工座談",
+  "note_zh": "市中心工會據點有人潮聚集籌劃11-N，周邊略有人潮。"
  }
 ]
