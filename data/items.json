@@ -3225,5 +3225,42 @@
   "severity": 3,
   "title_zh": "馬德里地鐵發布11-N全國大罷工應變公告",
   "note_zh": "馬德里地鐵已著手因應大罷工，11/11 市區地下鐵班次恐受顯著衝擊。"
+ },
+ {
+  "id": "597c72f40990",
+  "source": "x",
+  "url": "https://x.com/judithgonzrius/status/2117277425461575908",
+  "title": "Aquest dissabte 7N mobilització juvenil. Una contribució a la construcció de la vaga general del proper 11N, on prendr",
+  "text": "Aquest dissabte 7N mobilització juvenil. Una contribució a la construcció de la vaga general del proper 11N, on prendrem els carrers de Barcelona per situar l’horitzó del socialisme i la necessitat de ser a primera línia de lluita. A les 20h al mercat de Sant Antoni. Seguim!",
+  "published": "2026-11-02T15:27:29+00:00",
+  "author": "@judithgonzrius",
+  "embed": {
+   "type": "x",
+   "id": "2117277425461575908"
+  },
+  "engagement": 7,
+  "views": 59,
+  "category": "protest",
+  "city": "Barcelona",
+  "event_date": "2026-11-07",
+  "severity": 2,
+  "title_zh": "巴塞隆納青年團體號召11/7於聖安東尼集會",
+  "note_zh": "晚間8點於聖安東尼市場集會串聯11N罷工，周邊可能有短暫交管。"
+ },
+ {
+  "id": "b651711e7195",
+  "source": "news",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcVp4VEZwQzhEbzg0T2ZnVFhyUndqdnAySjg5ODFSZ2IyRVJMcU5WcV96N2loZ2Q5T0xxNlE0azQxWmNmM0VubVpzNkhQUWhRYjhwcVcxbjRYamVoUHFMbEpnelhLT290SnlneVRTcER0MGh6VXFGN1V5OUx5ZXRPNGdfTjRLTktyd2lQT2xFU0Y2RnZ4WGVwZ3BUT0Jjd9IBowFBVV95cUxOcTFqWkdGRWl4WGRIa2RYQV9wRkk0OG9RMDJ0b2Fjdkw2eGhoNDBiR0dsdFVaRW5JbEVEUHlxbVlvbUhUcThQdlIyaWVBM2oxOWVMQTNBYjZucW50MGNfVkhlTHdYY2JOSUJHTUlsNjQ0cENTWXE4LUtJMUwwdUxsbjRZc09SYTFuTC1rOGlJUWE0dHBrZl8tNjNENmtLdmtyZ3Jv?oc=5",
+  "title": "Calendario de paros de Renfe y Ouigo en noviembre y diciembre",
+  "text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcVp4VEZwQzhEbzg0T2ZnVFhyUndqdnAySjg5ODFSZ2IyRVJMcU5WcV96N2loZ2Q5T0xxNlE0azQxWmNmM0VubVpzNkhQUWhRYjhwcVcxbjRYamVoUHFMbEpnelhLT290SnlneVRTcER0MGh6VXFGN1V5OUx5ZXRPNGdfTjRLTktyd2lQT2xFU0Y2RnZ4WGVwZ3BUT0Jjd9IBowFBVV95cUxOcTFqWkdGRWl4WGRIa2RYQV …",
+  "published": "2026-11-02T12:01:00+00:00",
+  "author": "Telemadrid",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-06",
+  "severity": 4,
+  "title_zh": "電視台整編11月國鐵Renfe與Ouigo罷工時程",
+  "note_zh": "重申11/6、11/9 Ouigo及11/10、11/12 Renfe罷工，跨城鐵路高度警戒。"
  }
 ]
