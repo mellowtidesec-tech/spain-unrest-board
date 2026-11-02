@@ -2462,5 +2462,105 @@
   "severity": 3,
   "title_zh": "Ouigo高鐵司機今日全國罷工停駛衝擊兩萬名旅客",
   "note_zh": "今日Sants站長途Ouigo班次停擺，跨城旅客湧入國鐵致班次緊繃。"
+ },
+ {
+  "id": "c10d95987ac8",
+  "source": "x",
+  "url": "https://x.com/cafedidees_rtve/status/2117181909902000298",
+  "title": "☕ El comissari Ramon Chacón defensa l'estratègia de @mossos de \"tallar de soca-rel\" els aldarulls de Barcelona que ha re",
+  "text": "☕ El comissari Ramon Chacón defensa l'estratègia de @mossos de \"tallar de soca-rel\" els aldarulls de Barcelona que ha rebaixat pràcticament a zero les crides de Blocus 🗣️ \"Tothom veu que hi ha una responsabilitat penal i això ho està tallant\" 📲 https://t.co/evDRSEW1bm https://t.co/pjc4gfGTTZ",
+  "published": "2026-11-02T09:07:57+00:00",
+  "author": "@cafedidees_rtve",
+  "embed": {
+   "type": "x",
+   "id": "2117181909902000298"
+  },
+  "engagement": 0,
+  "views": 70,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-02",
+  "severity": 2,
+  "title_zh": "加泰警官稱嚴格執法已將Blocus動員號召降至接近零",
+  "note_zh": "警方強力執法與刑事追訴遏止騷亂蔓延，市區治安短期回穩但警戒延續。"
+ },
+ {
+  "id": "6aee73e3f5bf",
+  "source": "x",
+  "url": "https://x.com/francescms/status/2117181378974335202",
+  "title": "13 días de huelga... Madrid... educación...",
+  "text": "13 días de huelga... Madrid... educación...",
+  "published": "2026-11-02T09:05:50+00:00",
+  "author": "@francescms",
+  "embed": {
+   "type": "x",
+   "id": "2117181378974335202"
+  },
+  "engagement": 0,
+  "views": 5,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-02",
+  "severity": 2,
+  "title_zh": "馬德里教育界罷工邁入第13天抗爭持續中",
+  "note_zh": "公立教育罷工未歇，市區特定文教機構與政府周邊可能偶有遊行集會。"
+ },
+ {
+  "id": "169181e0a6db",
+  "source": "news",
+  "url": "https://www.europapress.es/economia/laboral-00346/noticia-huelga-general-11n-supera-4300-adhesiones-comites-empresa-secciones-sindicales-20261102094124.html",
+  "title": "La huelga general del 11N supera las 4.300 adhesiones en comités de empresa y secciones sindicales",
+  "text": "MADRID 2 Nov. (EUROPA PRESS) -. La huelga general del próximo 11 de noviembre por la vivienda y contra el coste de la vida ha alcanzado ya las 4.342...",
+  "published": null,
+  "author": "Europa Press",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 4,
+  "title_zh": "11-N全國大罷工獲逾4300個企業工會與組織響應",
+  "note_zh": "串聯基層工會數激增，顯示11/11跨行業罷工衝擊範圍持續擴大。"
+ },
+ {
+  "id": "fdbe70c0b027",
+  "source": "x",
+  "url": "https://x.com/iacunapaz/status/2117177858275643828",
+  "title": "@Renfe tengo un billete de Pontevedra a Madrid para el 12 de noviembre, que hay huelga convocada. Cuándo se sabrán los s",
+  "text": "@Renfe tengo un billete de Pontevedra a Madrid para el 12 de noviembre, que hay huelga convocada. Cuándo se sabrán los servicios mínimos?",
+  "published": "2026-11-02T08:51:51+00:00",
+  "author": "@iacunapaz",
+  "embed": {
+   "type": "x",
+   "id": "2117177858275643828"
+  },
+  "engagement": 0,
+  "views": 16,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-12",
+  "severity": 3,
+  "title_zh": "旅客關注11/12國鐵Renfe罷工最低營運班次出爐時間",
+  "note_zh": "反映赴西旅客對11/12火車罷工高度焦慮，班次調度待官方公布。"
+ },
+ {
+  "id": "08c59ca9cd97",
+  "source": "x",
+  "url": "https://x.com/CCOOMadrid/status/2117171549878858142",
+  "title": "👋 Diario de una huelga general, día 4 🔴 ¿Quién puede hacer la huelga general? 👉🏼Todas las trabajadoras y trabajadores",
+  "text": "👋 Diario de una huelga general, día 4 🔴 ¿Quién puede hacer la huelga general? 👉🏼Todas las trabajadoras y trabajadores del país, del sector privado y del sector público. 👉🏼Los estudiantes, a partir de 3º de eso, también tienen derecho a hacer huelga, mirar el vídeo para saber cómo. 👉🏼Y si no trabajas, estas en desempleo, jubilado o jubilada, eres estudiante... haz huelga de consumo, ese día no compres nada. ¡El 11N, a la huelga general! #HuelgaGeneral11N",
+  "published": "2026-11-02T08:26:47+00:00",
+  "author": "@CCOOMadrid",
+  "embed": {
+   "type": "x",
+   "id": "2117171549878858142"
+  },
+  "engagement": 17,
+  "views": 246,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "馬德里工會發布宣導號召各行各業全員參與11-N大罷工",
+  "note_zh": "工會持續擴大宣傳動員公私部門與學生，當日罷工參與度恐極高。"
  }
 ]
