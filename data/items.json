@@ -3099,5 +3099,89 @@
   "severity": 1,
   "title_zh": "馬德里共青團於河濱電影院舉辦11/11罷工動員會",
   "note_zh": "室內政治動員講座，對一般旅客戶外行程與交通無直接影響。"
+ },
+ {
+  "id": "dc1f9c1d65d0",
+  "source": "x",
+  "url": "https://x.com/elcorreo_com/status/2117249059459158296",
+  "title": "5 menores en régimen cerrado por participar en los disturbios de 'blocus' en Barcelona https://t.co/i0syV3S65Y",
+  "text": "5 menores en régimen cerrado por participar en los disturbios de 'blocus' en Barcelona https://t.co/i0syV3S65Y",
+  "published": "2026-11-02T13:34:47+00:00",
+  "author": "@elcorreo_com",
+  "embed": {
+   "type": "x",
+   "id": "2117249059459158296"
+  },
+  "engagement": 0,
+  "views": 211,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-02",
+  "severity": 2,
+  "title_zh": "巴塞隆納司法處置騷亂青少年5人遭裁定封閉收押",
+  "note_zh": "當局加強司法處分遏止青少年透過社群串聯搶掠，市區維安持續警戒。"
+ },
+ {
+  "id": "e14cb8706d05",
+  "source": "x",
+  "url": "https://x.com/RTVECatalunya/status/2117247857090503033",
+  "title": "☕ Com han tallat de \"soca-rel\" els Mossos els aldarulls de Blocus aquest dissabte a Barcelona? Ho explica el comissari R",
+  "text": "☕ Com han tallat de \"soca-rel\" els Mossos els aldarulls de Blocus aquest dissabte a Barcelona? Ho explica el comissari Ramon Chacón, sotscap executiu dels Mossos d'Esquadra. 📲 La conversa al #Cafèdidees amb Gemma Nierga a https://t.co/QdvsUtuIyT #La2Cat #LaQueParlaComTu https://t.co/rmSLVBLgCj",
+  "published": "2026-11-02T13:30:00+00:00",
+  "author": "@RTVECatalunya",
+  "embed": {
+   "type": "x",
+   "id": "2117247857090503033"
+  },
+  "engagement": 0,
+  "views": 60,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-02",
+  "severity": 2,
+  "title_zh": "加泰警方高層說明以強勢部署切斷暴亂動員源頭",
+  "note_zh": "警方持續在市中心重點區域預防性巡查，街頭失序風險已暫時壓制。"
+ },
+ {
+  "id": "8fa8d0ddd86c",
+  "source": "x",
+  "url": "https://x.com/alfredsimo_/status/2117247491871502429",
+  "title": "Assemblea de delegades de Barcelona per la VAGA GENERAL 11N https://t.co/FniUqJOBcs",
+  "text": "Assemblea de delegades de Barcelona per la VAGA GENERAL 11N https://t.co/FniUqJOBcs",
+  "published": "2026-11-02T13:28:33+00:00",
+  "author": "@alfredsimo_",
+  "embed": {
+   "type": "x",
+   "id": "2117247491871502429"
+  },
+  "engagement": 0,
+  "views": 1,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-02",
+  "severity": 2,
+  "title_zh": "巴塞隆納勞工代表大會動員籌劃11-N全國大罷工",
+  "note_zh": "巴塞隆納基層各工會加緊串聯，11/11大罷工癱瘓力道持續累積。"
+ },
+ {
+  "id": "7d097bd97c73",
+  "source": "x",
+  "url": "https://x.com/elnacionalcat_e/status/2117237040639041918",
+  "title": "🔴 Balance de los 79 menores detenidos por los disturbios de Barcelona: 5 encerrados y 72 en libertad vigilada 🚫 De los",
+  "text": "🔴 Balance de los 79 menores detenidos por los disturbios de Barcelona: 5 encerrados y 72 en libertad vigilada 🚫 De los 72 chicos en libertad vigilada, 32 tienen prohibido ir a protestas. No se ha aclarado el número de menores de 14 años detenidos y derivados a protección https://t.co/ZurzBmgbFO",
+  "published": "2026-11-02T12:47:01+00:00",
+  "author": "@elnacionalcat_e",
+  "embed": {
+   "type": "x",
+   "id": "2117237040639041918"
+  },
+  "engagement": 1,
+  "views": 48,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-02",
+  "severity": 2,
+  "title_zh": "巴塞涉暴少年72人受保護管束且32人禁入集會",
+  "note_zh": "司法對涉案少年實施集會禁令，有助遏阻市中心抗議再度演變成打劫。"
  }
 ]
