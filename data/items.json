@@ -3336,5 +3336,47 @@
   "severity": 2,
   "title_zh": "民間組織號召至大罷工前每週三抵制大型超市",
   "note_zh": "抵制量販店消費行動，超市周邊可能有人群散發傳單或零星呼籲。"
+ },
+ {
+  "id": "8629777f8fbe",
+  "source": "x",
+  "url": "https://x.com/CCOO_Habitat/status/2117300347433586882",
+  "title": "👥@CCOOHabitat_Cat celebra su Consejo en Barcelona para abordar los principales retos de la organización y abordar la c",
+  "text": "👥@CCOOHabitat_Cat celebra su Consejo en Barcelona para abordar los principales retos de la organización y abordar la convocatoria de la huelga general del 11N. ✊ 💶Salarios. 🏠Vivienda. 🛒Precios 🚩A la Huelga ‼️ #11N #HuelgaGeneral https://t.co/BaEgX2cbGT https://t.co/Qbtg0wuZnb",
+  "published": "2026-11-02T16:58:35+00:00",
+  "author": "@CCOO_Habitat",
+  "embed": {
+   "type": "x",
+   "id": "2117300347433586882"
+  },
+  "engagement": 1,
+  "views": 12,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "加泰建築營建工會開會決議全力響應11-N大罷工",
+  "note_zh": "工會擴大串聯11/11大罷工，顯示當日跨產業動員持續擴大。"
+ },
+ {
+  "id": "3d0a1036b1c4",
+  "source": "x",
+  "url": "https://x.com/BarnaNews/status/2117295921386197188",
+  "title": "Blocus Social Media Silence Lowers Tension Following a calm Halloween night in central Barcelona, authorities confirmed",
+  "text": "Blocus Social Media Silence Lowers Tension Following a calm Halloween night in central Barcelona, authorities confirmed no fresh mobilisation attempts were detected via Telegram or Signal, with existing event posters no longer promoted. https://t.co/WxTqcHyBEO",
+  "published": "2026-11-02T16:40:59+00:00",
+  "author": "@BarnaNews",
+  "embed": {
+   "type": "x",
+   "id": "2117295921386197188"
+  },
+  "engagement": 0,
+  "views": 19,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-02",
+  "severity": 2,
+  "title_zh": "巴塞隆納官方證實Blocus社群號召已完全平息",
+  "note_zh": "Telegram等加密動員全面停擺，街頭騷亂威脅大幅緩解。"
  }
 ]
