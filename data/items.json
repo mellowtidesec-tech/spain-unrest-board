@@ -2266,5 +2266,21 @@
   "severity": 2,
   "title_zh": "安達魯西亞教育界響應11-N全國大罷工",
   "note_zh": "顯示11/11大罷工在全西多區持續串聯，印證當日全國性動員規模不容小覷。"
+ },
+ {
+  "id": "4f042081f3f6",
+  "source": "news",
+  "url": "https://www.bbc.com/news/videos/c6vgjeg0myzgo",
+  "title": "Watch: What leaked audio reveals about Spain train crash",
+  "text": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the...",
+  "published": "2026-10-30T05:00:12.544982+00:00",
+  "author": "BBC",
+  "embed": null,
+  "category": "advisory",
+  "city": "Spain",
+  "event_date": "2026-10-29",
+  "severity": 2,
+  "title_zh": "外洩通話錄音揭露西班牙高鐵相撞調度爭議",
+  "note_zh": "鐵路事故原因持續發酵，恐加劇司機工會罷工決心與安全檢討。"
  }
 ]
