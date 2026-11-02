@@ -2252,23 +2252,19 @@
   "note_zh": "教育工會每日排定抗議行動，市區文教區與行政機關周邊偶有交管。"
  },
  {
-  "id": "a4c83e5aa326",
-  "source": "tiktok",
-  "url": "https://www.tiktok.com/@elpais/video/7699566659501182230",
-  "title": "La marea verde de profesores y profesoras, en huelga indefinida desde el 14 de octubre, ha trasladado su malestar este j",
-  "text": "La marea verde de profesores y profesoras, en huelga indefinida desde el 14 de octubre, ha trasladado su malestar este jueves hasta las puertas de la Asamblea de Madrid. Desde las nueve de la mañana, miles de docentes —3.000 según la Delegación del Gobierno— se han acercado y cortado la avenida de Pablo Neruda. Frente a ellos, decenas de policías custodiaban el paso hacia la acera de enfrente, donde se encuentra el edificio en el que los diputados madrileños asistían al pleno de los jueves. #edu",
-  "published": "2026-10-22T18:51:06Z",
-  "author": "@elpais",
-  "embed": {
-   "type": "tiktok",
-   "id": "7699566659501182230"
-  },
-  "views": 68100,
-  "category": "protest",
-  "city": "Madrid",
-  "event_date": "2026-10-22",
+  "id": "f6219d6e3782",
+  "source": "news",
+  "url": "https://www.izquierdadiario.es/La-educacion-andaluza-hacia-el-11N-unir-la-lucha-educativa-con-la-huelga-general",
+  "title": "La educación andaluza hacia el 11N: unir la lucha educativa con la huelga general",
+  "text": "La huelga educativa andaluza coincide con una jornada de huelga general por la vivienda, los salarios y los servicios públicos. El reto es organizarla desde...",
+  "published": null,
+  "author": "Izquierda diario.es",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
   "severity": 2,
-  "title_zh": "馬德里數千教師遊行包圍議會並封鎖聯外大道",
-  "note_zh": "教育工會曾封鎖Pablo Neruda大道，顯示文教抗爭具封路動員力。"
+  "title_zh": "安達魯西亞教育界響應11-N全國大罷工",
+  "note_zh": "顯示11/11大罷工在全西多區持續串聯，印證當日全國性動員規模不容小覷。"
  }
 ]
