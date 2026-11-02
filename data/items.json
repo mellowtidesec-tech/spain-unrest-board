@@ -3262,5 +3262,79 @@
   "severity": 4,
   "title_zh": "電視台整編11月國鐵Renfe與Ouigo罷工時程",
   "note_zh": "重申11/6、11/9 Ouigo及11/10、11/12 Renfe罷工，跨城鐵路高度警戒。"
+ },
+ {
+  "id": "70b4622b3148",
+  "source": "x",
+  "url": "https://x.com/versiorac1/status/2117290768323023246",
+  "title": "🔴S'ha acabat l'efecte de BLOCUS? 🚔Mossos i l'Ajuntament de Barcelona defensen el dispositiu desplegat dissabte amb gai",
+  "text": "🔴S'ha acabat l'efecte de BLOCUS? 🚔Mossos i l'Ajuntament de Barcelona defensen el dispositiu desplegat dissabte amb gairebé 3.000 identificats. ➡️En parlem amb el periodista de successos i tribunals de la Vanguàrdia, @tonimunoz 📻 https://t.co/lHV1oIKMkU https://t.co/QuhA1IZRja",
+  "published": "2026-11-02T16:20:31+00:00",
+  "author": "@versiorac1",
+  "embed": {
+   "type": "x",
+   "id": "2117290768323023246"
+  },
+  "engagement": 1,
+  "views": 431,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-10-31",
+  "severity": 2,
+  "title_zh": "巴塞警方為近3000人盤查行動辯護稱Blocus效應已止",
+  "note_zh": "加泰警方宣示強力執法成效，市中心治安暫時回穩但巡邏仍嚴格。"
+ },
+ {
+  "id": "41d65995ed5d",
+  "source": "news",
+  "url": "https://www.lavanguardia.com/cultura/20261026/11668746/liceu-reubica-funciones-previstas-11-noviembre-dia-huelga-general.html",
+  "title": "El Liceu reubica las funciones previstas para el 11 de noviembre, día de la huelga general",
+  "text": "La ópera I Capuleti e i Montecchi prevista para el próximo 11 de noviembre en el Gran Teatre del Liceu de Barcelona, se representará finalmente el día 12 de...",
+  "published": null,
+  "author": "La Vanguardia",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "巴塞隆納里賽奧大劇院因11-N大罷工改期歌劇演出",
+  "note_zh": "文化場館開始因應11/11大罷工調整演出，當日預約藝文活動恐停演。"
+ },
+ {
+  "id": "accedc4d109f",
+  "source": "x",
+  "url": "https://x.com/versiorac1/status/2117283436377657707",
+  "title": "😷Els treballadors d'URGÈNCIES de l'Hospital del Mar del Barcelona fan VAGA aquest dimarts 🛏️Denuncien saturació crònica",
+  "text": "😷Els treballadors d'URGÈNCIES de l'Hospital del Mar del Barcelona fan VAGA aquest dimarts 🛏️Denuncien saturació crònica, pocs llits i l'augment d'agressions. ➡️En parlem amb Xavier Tarragón, del comité d'empresa @FtcIac @UrgenPSMar 📻https://t.co/lHV1oIKMkU https://t.co/9ykncOZzFf",
+  "published": "2026-11-02T15:51:23+00:00",
+  "author": "@versiorac1",
+  "embed": {
+   "type": "x",
+   "id": "2117283436377657707"
+  },
+  "engagement": 9,
+  "views": 761,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-03",
+  "severity": 2,
+  "title_zh": "巴塞隆納海洋醫院急診醫護11月3日發動罷工",
+  "note_zh": "急診室抗議過載罷工，非急重症就醫可能遭遇長時間延誤。"
+ },
+ {
+  "id": "b66fe1e0cc26",
+  "source": "news",
+  "url": "https://beteve.cat/societat/crida-vaga-compres-grans-superficies-cada-dimecres-fins-vaga-general/",
+  "title": "Crida a fer una \"vaga de compres\" a les grans superfícies cada dimecres fins a la vaga general",
+  "text": "(ACN) La Confederació de Sindicats de Llogateres, FACUA i Justícia Alimentària han cridat a fer una “vaga de compres” a les grans superfícies tots els...",
+  "published": null,
+  "author": "Betevé",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "民間組織號召至大罷工前每週三抵制大型超市",
+  "note_zh": "抵制量販店消費行動，超市周邊可能有人群散發傳單或零星呼籲。"
  }
 ]
