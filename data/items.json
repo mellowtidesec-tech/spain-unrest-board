@@ -5904,5 +5904,126 @@
   "severity": 2,
   "title_zh": "馬德里康普斯頓大學CGT工會號召師生走上糾察線",
   "note_zh": "11/4至11/5大學罷工動員號召升高，大學城周遭地鐵站與路段恐擁擠。"
+ },
+ {
+  "id": "967de0fc3391",
+  "source": "x",
+  "url": "https://x.com/rtvenoticias/status/2117719715892105347",
+  "title": "Un juez de Barcelona considera Blocus un \"grupo criminal\" y envía a prisión a uno de sus presuntos cabecillas https://t.",
+  "text": "Un juez de Barcelona considera Blocus un \"grupo criminal\" y envía a prisión a uno de sus presuntos cabecillas https://t.co/WBgN01BKEp",
+  "published": "2026-11-03T20:45:00+00:00",
+  "author": "@rtvenoticias",
+  "embed": {
+   "type": "x",
+   "id": "2117719715892105347"
+  },
+  "engagement": 0,
+  "views": 260,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-03",
+  "severity": 2,
+  "title_zh": "巴塞隆納法官將Blocus定性為犯罪組織並收押首腦",
+  "note_zh": "司法持續強力壓制街頭暴力騷亂組織，市區治安維持相對受控狀態。"
+ },
+ {
+  "id": "2ae0577c4a98",
+  "source": "x",
+  "url": "https://x.com/CGTMadrideduc/status/2117718563775545668",
+  "title": "Volvemos a la acción en un martes en el que hemos cortado la A-42, irrumpido en los platós de televisión, buscado Zarzal",
+  "text": "Volvemos a la acción en un martes en el que hemos cortado la A-42, irrumpido en los platós de televisión, buscado Zarzalejo y hemos estado en la calle a lo largo de toda la Comunidad‼️ Y por la tarde, con asamblea Menos Lectivas y manifestación en Collado Villalba Mañana más! https://t.co/x5UMtgNlJF",
+  "published": "2026-11-03T20:40:25+00:00",
+  "author": "@CGTMadrideduc",
+  "embed": {
+   "type": "x",
+   "id": "2117718563775545668"
+  },
+  "engagement": 5,
+  "views": 30,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-03",
+  "severity": 2,
+  "title_zh": "馬德里罷工教師突襲封鎖A-42公路與電視台直播",
+  "note_zh": "教師抗爭手段升級，突襲封路可能短暫波及馬德里聯外公路與近郊交通。"
+ },
+ {
+  "id": "ca49e549f84a",
+  "source": "x",
+  "url": "https://x.com/atlasnews_x/status/2117718165773815903",
+  "title": "Mañana, 4 de noviembre, estaremos pendientes de: 📍Varios. Pendientes de las reacciones tras la dimisión de Óscar Puente",
+  "text": "Mañana, 4 de noviembre, estaremos pendientes de: 📍Varios. Pendientes de las reacciones tras la dimisión de Óscar Puente 📍Madrid. Huelga en las universidades públicas de Madrid contra la falta de financiación 📍Varios. Bajada drástica de las temperaturas",
+  "published": "2026-11-03T20:38:50+00:00",
+  "author": "@atlasnews_x",
+  "embed": {
+   "type": "x",
+   "id": "2117718165773815903"
+  },
+  "engagement": 0,
+  "views": 51,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "馬德里11/4面臨公立大學罷工與交通部長去留風波",
+  "note_zh": "大學城校區罷工停課，市區關注鐵路事故政治效應與氣溫驟降。"
+ },
+ {
+  "id": "58b6a19976a1",
+  "source": "x",
+  "url": "https://x.com/C_j__33Vox/status/2117712261376778445",
+  "title": "🔴 ÚLTIMA HORA | Otro incidente ferroviario. Tres vagones se sueltan de una máquina y chocan contra un tren de mercancía",
+  "text": "🔴 ÚLTIMA HORA | Otro incidente ferroviario. Tres vagones se sueltan de una máquina y chocan contra un tren de mercancías de Renfe en Martorell (Barcelona). El maquinista, hospitalizado. El mismo día en que Puente comparecía por Urda y los trabajadores de Adif convocaban huelga por la seguridad. ¿Cuántos avisos más hacen falta?",
+  "published": "2026-11-03T20:15:22+00:00",
+  "author": "@C_j__33Vox",
+  "embed": {
+   "type": "x",
+   "id": "2117712261376778445"
+  },
+  "engagement": 0,
+  "views": 177,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-03",
+  "severity": 3,
+  "title_zh": "加泰馬爾托雷爾發生貨運列車脫軌相撞司機送醫",
+  "note_zh": "加泰鐵路再傳事故，恐加劇鐵路司機對安全之憤怒並推高罷工動能。"
+ },
+ {
+  "id": "cbfa38740b12",
+  "source": "news",
+  "url": "https://sindicatdellogateres.org/ladvocacia-se-suma-a-la-vaga-general-per-lhabitatge/",
+  "title": "L’ADVOCACIA SE SUMA A LA VAGA GENERAL PER L’HABITATGE",
+  "text": "Un centenar de despatxos, juristes i entitats de drets humans denuncien que els interessos dels fons voltor i els grans propietaris passen per davant del...",
+  "published": null,
+  "author": "Sindicat de Llogateres",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "西班牙人權法律界與法律事務所聲援11-N住宅大罷工",
+  "note_zh": "11/11大罷工獲法律界支持，各界罷工氣候持續凝聚深化。"
+ },
+ {
+  "id": "46670752fdf9",
+  "source": "x",
+  "url": "https://x.com/pctemadrid/status/2117706314973651163",
+  "title": "📢 7N ¡HACIA LA HUELGA GENERAL! Este sábado organizamos un acto en Villaverde con una mesa redonda en la que trabajadore",
+  "text": "📢 7N ¡HACIA LA HUELGA GENERAL! Este sábado organizamos un acto en Villaverde con una mesa redonda en la que trabajadores de distintos sectores pondrán en común cómo organizar la huelga general desde los centros de trabajo. ¡CONSTRUYAMOS LA OPOSICIÓN OBRERA! Te esperamos. https://t.co/jpTvalJLDq",
+  "published": "2026-11-03T19:51:45+00:00",
+  "author": "@pctemadrid",
+  "embed": {
+   "type": "x",
+   "id": "2117706314973651163"
+  },
+  "engagement": 29,
+  "views": 297,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-07",
+  "severity": 1,
+  "title_zh": "馬德里南部維拉韋德11/7舉辦大罷工勞工動員座談",
+  "note_zh": "基層在郊區活動，對市區景點旅遊直接影響輕微。"
  }
 ]
