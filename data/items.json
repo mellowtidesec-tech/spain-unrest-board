@@ -4665,5 +4665,63 @@
   "severity": 4,
   "title_zh": "反對黨領袖Feijóo呼籲各界取消11/11全國大罷工",
   "note_zh": "高鐵事故與罷工已成政治攻防焦點，大罷工確認為11/11全日24小時進行。"
+ },
+ {
+  "id": "5aeb95626563",
+  "source": "x",
+  "url": "https://x.com/assemblea/status/2117557939766444255",
+  "title": "⬛️⬜️ Posicionament de l’ANC davant la vaga general de l’11 de novembre. https://t.co/eQ9KzqgvhQ",
+  "text": "⬛️⬜️ Posicionament de l’ANC davant la vaga general de l’11 de novembre. https://t.co/eQ9KzqgvhQ",
+  "published": "2026-11-03T10:02:09+00:00",
+  "author": "@assemblea",
+  "embed": {
+   "type": "x",
+   "id": "2117557939766444255"
+  },
+  "engagement": 0,
+  "views": 155,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "加泰國民會議ANC表態加入11/11大罷工動員",
+  "note_zh": "加泰獨立與社運主力ANC表態參與11-N，加劇大罷工街頭動員規模。"
+ },
+ {
+  "id": "21dbf069055c",
+  "source": "news",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1p6OVZBZU5pcmN0OGVWSzJ4UTVCVXE3NW94WnlVMDAtOFVlaUhfM3hLajhZTng4NjlJbl94WHpCNjQwd00yY1p3YmhuQlhtUlZDcnNFRTNHOGRaNDk3VHBEdnY4UXVnQlJGS3RhRDZPa3ZZM0ppeFd1QkttYUViY0pRX3UwUWE3cU12QkluU25fQ0luTkh5MUN0dmZVbDl2VjZIWVhFYVphUQ?oc=5",
+  "title": "NOTA INFORMATIVA. JORNADA DE HUELGA GENERAL DEL 11 DE NOVIEMBRE DE 2026",
+  "text": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1p6OVZBZU5pcmN0OGVWSzJ4UTVCVXE3NW94WnlVMDAtOFVlaUhfM3hLajhZTng4NjlJbl94WHpCNjQwd00yY1p3YmhuQlhtUlZDcnNFRTNHOGRaNDk3VHBEdnY4UXVnQlJGS3RhRDZPa3ZZM0ppeFd1QkttYUViY0pRX3UwUWE3cU12QkluU25fQ0luTkh5MUN0dmZVbDl2VjZIWVhFYVphUQ?oc=5\" target=\"_blan …",
+  "published": "2026-11-03T07:45:07+00:00",
+  "author": "Gremial Taxi Madrid",
+  "embed": null,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-11",
+  "severity": 4,
+  "title_zh": "馬德里計程車工會發布11/11大罷工指引",
+  "note_zh": "計程車界正式應對11-N大罷工，旅客當日市區與機場接駁恐難以叫車。"
+ },
+ {
+  "id": "fb2012c1014d",
+  "source": "x",
+  "url": "https://x.com/amytsmedicos/status/2117549596398235720",
+  "title": "🔴Los médicos y facultativos de Madrid retoman la huelga este miércoles para reclamar mejoras laborales y retributivas 🕙",
+  "text": "🔴Los médicos y facultativos de Madrid retoman la huelga este miércoles para reclamar mejoras laborales y retributivas 🕙 Manifestación: 10:00 horas. 📍 Salida: Consejería de Sanidad (calle Aduana, 29). 🏁 Llegada: Congreso de los Diputados. https://t.co/M47xs6jF6j https://t.co/NyRN1yc7Gp",
+  "published": "2026-11-03T09:29:00+00:00",
+  "author": "@amytsmedicos",
+  "embed": {
+   "type": "x",
+   "id": "2117549596398235720"
+  },
+  "engagement": 6,
+  "views": 186,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "馬德里醫師工會11/4發動街頭遊行至眾議院",
+  "note_zh": "上午10時由衛生部（Calle Aduana）遊行至眾議院，市中心沿線將短暫交管。"
  }
 ]
