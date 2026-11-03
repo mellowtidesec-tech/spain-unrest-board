@@ -4581,5 +4581,89 @@
   "severity": 2,
   "title_zh": "馬德里教師罷工今日於阿爾卡拉等多個衛星城鎮集會",
   "note_zh": "示威主要在阿爾卡拉、阿爾科文達斯等近郊城鎮廣場進行，對市中心觀光影響有限。"
+ },
+ {
+  "id": "59e5e6b4eea7",
+  "source": "x",
+  "url": "https://x.com/Madrid20m/status/2117543449536729261",
+  "title": "Según ha declarado a TVE una las portavoces del comité de huelga, los profesores están estudiando 'la vía judicial' para",
+  "text": "Según ha declarado a TVE una las portavoces del comité de huelga, los profesores están estudiando 'la vía judicial' para 'rogar' a la consejera de Educación, Mercedes Zarzalejo, que escuche sus demanadas. https://t.co/syigEi0goL",
+  "published": "2026-11-03T09:04:35+00:00",
+  "author": "@Madrid20m",
+  "embed": {
+   "type": "x",
+   "id": "2117543449536729261"
+  },
+  "engagement": 0,
+  "views": 2,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-03",
+  "severity": 2,
+  "title_zh": "馬德里罷工教師委員會考慮採取司法途徑爭取對話",
+  "note_zh": "教師罷工邁入第四週，除封路外研議法律行動，市區文教區示威將持續。"
+ },
+ {
+  "id": "e7c52a064385",
+  "source": "x",
+  "url": "https://x.com/JigSawLC/status/2117543328833011770",
+  "title": "La Huelga General del 11 N será otro tiro en el pie para Pedro HDLGP Sánchez y el PSOE. Se manifiestan contra la oposic",
+  "text": "La Huelga General del 11 N será otro tiro en el pie para Pedro HDLGP Sánchez y el PSOE. Se manifiestan contra la oposición tras Ceuta y Urda, acabará en altercados violentos como en Barcelona y en Bilbao después de no manifestarse durante 8 años. Que creéis? Y Óscar Puente?. https://t.co/hV0xER5NI9",
+  "published": "2026-11-03T09:04:06+00:00",
+  "author": "@JigSawLC",
+  "embed": {
+   "type": "x",
+   "id": "2117543328833011770"
+  },
+  "engagement": 0,
+  "views": 9,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 4,
+  "title_zh": "社群關注11-N大罷工恐引發大規模社會對立與衝突",
+  "note_zh": "民間憂心11/11大罷工演變成全國性激烈抗爭，旅客須預作全面防備。"
+ },
+ {
+  "id": "d69814a27f54",
+  "source": "x",
+  "url": "https://x.com/OES_Madrid/status/2117542602161754557",
+  "title": "Contra los ataques a la educación pública, desde la OES llamamos a la huelga educativa del 4 y 5 de noviembre. ¡Hacia l",
+  "text": "Contra los ataques a la educación pública, desde la OES llamamos a la huelga educativa del 4 y 5 de noviembre. ¡Hacia la huelga general! Estudiante, ¡únete a la lucha! https://t.co/vTa1oeFkzq",
+  "published": "2026-11-03T09:01:13+00:00",
+  "author": "@OES_Madrid",
+  "embed": {
+   "type": "x",
+   "id": "2117542602161754557"
+  },
+  "engagement": 8,
+  "views": 43,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "學生組織OES號召11/4-5教育罷工並串聯全國大罷工",
+  "note_zh": "11/4-5學生響應罷工，大學城與教育行政機構周邊可能出現集會。"
+ },
+ {
+  "id": "e8a01a2368eb",
+  "source": "x",
+  "url": "https://x.com/electonomics/status/2117539636633378916",
+  "title": "🛑 FEIJÓO PIDE PARAR LA HUELGA GENERAL del 11 de noviembre. «Antes era incomprensible. 69 muertos después es un grave err",
+  "text": "🛑 FEIJÓO PIDE PARAR LA HUELGA GENERAL del 11 de noviembre. «Antes era incomprensible. 69 muertos después es un grave error. No la hagan», ha dicho este martes en un desayuno informativo en Madrid, en referencia al choque de trenes de Urda. 📅 La huelga es de 24 horas, el miércoles 11, a 18 días de las elecciones generales del 29 de noviembre. Es la primera que convocan juntos CCOO y UGT desde noviembre de 2012. 💶 Piden sueldos que den para pagar el alquiler o la hipoteca, más vivienda pública y t",
+  "published": "2026-11-03T08:49:26+00:00",
+  "author": "@electonomics",
+  "embed": {
+   "type": "x",
+   "id": "2117539636633378916"
+  },
+  "engagement": 1,
+  "views": 48,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 4,
+  "title_zh": "反對黨領袖Feijóo呼籲各界取消11/11全國大罷工",
+  "note_zh": "高鐵事故與罷工已成政治攻防焦點，大罷工確認為11/11全日24小時進行。"
  }
 ]
