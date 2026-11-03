@@ -3975,5 +3975,68 @@
   "severity": 3,
   "title_zh": "西媒評馬德里近郊鐵路因司機罷工與故障面臨營運困境",
   "note_zh": "Cercanías近郊鐵路穩定度欠佳，往返機場與托雷多等郊區宜留充裕時間。"
+ },
+ {
+  "id": "a60af4acbd90",
+  "source": "x",
+  "url": "https://x.com/PuraDuart/status/2117492825977729319",
+  "title": "‘Blocus’: ¿Quién está verdaderamente detrás de los disturbios de Barcelona? Román Cuesta @RomanCues_i0sm https://t.co/6d",
+  "text": "‘Blocus’: ¿Quién está verdaderamente detrás de los disturbios de Barcelona? Román Cuesta @RomanCues_i0sm https://t.co/6dalY6f7tT",
+  "published": "2026-11-03T05:43:25+00:00",
+  "author": "@PuraDuart",
+  "embed": {
+   "type": "x",
+   "id": "2117492825977729319"
+  },
+  "engagement": 0,
+  "views": null,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-03",
+  "severity": 2,
+  "title_zh": "西媒專題探討巴塞隆納Blocus騷亂幕後黑手",
+  "note_zh": "騷亂組織脈絡受廣泛關注，目前街頭已平息，但警民仍對後續保持警惕。"
+ },
+ {
+  "id": "5c220660030d",
+  "source": "x",
+  "url": "https://x.com/el_pais_madrid/status/2117492616204054878",
+  "title": "🔴Después de dos comunicaciones por parte de la Delegación del Gobierno, la policía desaloja la acampada de Sol esta madr",
+  "text": "🔴Después de dos comunicaciones por parte de la Delegación del Gobierno, la policía desaloja la acampada de Sol esta madrugada https://t.co/iVusdVuFiA",
+  "published": "2026-11-03T05:42:35+00:00",
+  "author": "@el_pais_madrid",
+  "embed": {
+   "type": "x",
+   "id": "2117492616204054878"
+  },
+  "engagement": 0,
+  "views": 62,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-03",
+  "severity": 2,
+  "title_zh": "馬德里警方今日凌晨強制清空太陽門廣場紮營抗議",
+  "note_zh": "太陽門紮營遭警方正式清場撤離，市中心廣場秩序恢復常態，旅客通行更順暢。"
+ },
+ {
+  "id": "12726211dc8f",
+  "source": "x",
+  "url": "https://x.com/blakyduke/status/2117480387660177591",
+  "title": "Viajes a París, cuentas en Turquía y recursos para huir mientras organizaban saqueos y utilizaban a menores en Barcelona",
+  "text": "Viajes a París, cuentas en Turquía y recursos para huir mientras organizaban saqueos y utilizaban a menores en Barcelona La romántica algarabía callejera que algunos aplaudían desde los platós resulta ser delincuencia organizada terrorista Vaya sorpresa 😲 https://t.co/RBx6mAprEg",
+  "published": "2026-11-03T04:53:59+00:00",
+  "author": "@blakyduke",
+  "embed": {
+   "type": "x",
+   "id": "2117480387660177591"
+  },
+  "engagement": 1,
+  "views": 51,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-02",
+  "severity": 2,
+  "title_zh": "巴塞隆納搶掠組織資金與境外洗錢網絡曝光",
+  "note_zh": "司法調查顯示Blocus網絡涉及跨境犯罪，警方擴大追查，街頭滋擾機率降低。"
  }
 ]
