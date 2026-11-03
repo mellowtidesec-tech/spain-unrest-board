@@ -5234,5 +5234,68 @@
   "severity": 1,
   "title_zh": "馬德里阿爾卡拉體育園區員工今起罷工",
   "note_zh": "衛星城運動設施局部欠薪罷工，對一般觀光行程無實質影響。"
+ },
+ {
+  "id": "cdd8e4d2c5a4",
+  "source": "x",
+  "url": "https://x.com/jovigarcia/status/2117617977734439394",
+  "title": "El Govern apunta cap a les plataformes digitals pels aldarulls provocats per Blocus a Barcelona via @elnacionalcat https",
+  "text": "El Govern apunta cap a les plataformes digitals pels aldarulls provocats per Blocus a Barcelona via @elnacionalcat https://t.co/mlFakpY24G",
+  "published": "2026-11-03T14:00:43+00:00",
+  "author": "@jovigarcia",
+  "embed": {
+   "type": "x",
+   "id": "2117617977734439394"
+  },
+  "engagement": 0,
+  "views": 4,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-03",
+  "severity": 2,
+  "title_zh": "加泰政府擬對放任Blocus煽暴之社群平台採取法律行動",
+  "note_zh": "官方針對社群動員加強法規與監控，街頭搶掠騷亂動能已受有效壓制。"
+ },
+ {
+  "id": "dcc9a16d4126",
+  "source": "x",
+  "url": "https://x.com/indieloversm/status/2117617806103683342",
+  "title": "Aquest dimecres a les 20h als jardins de la Universitat de Barcelona (a la Plaça Universitat de la capital catalana), el",
+  "text": "Aquest dimecres a les 20h als jardins de la Universitat de Barcelona (a la Plaça Universitat de la capital catalana), el @SindicatLloguer organitza un concert de @ritapayes amb Lucía Fumero i Juan Berbín. Abans, a les 19h, xerrada “Com, qui i perquè organitzar una vaga?”. https://t.co/4fWDelgqyO",
+  "published": "2026-11-03T14:00:03+00:00",
+  "author": "@indieloversm",
+  "embed": {
+   "type": "x",
+   "id": "2117617806103683342"
+  },
+  "engagement": 0,
+  "views": 4,
+  "category": "protest",
+  "city": "Barcelona",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "巴塞隆納租客工會週三晚間於大學廣場辦音樂會與罷工宣講",
+  "note_zh": "11/4晚間19時大學花園周邊有住宅維權集會，行經大學廣場請留意人潮。"
+ },
+ {
+  "id": "8a78d32f7f7e",
+  "source": "x",
+  "url": "https://x.com/rtvenoticies/status/2117605418147131611",
+  "title": "🏛️ El Govern defensa la continuïtat de l'AVE Madrid Barcelona durant el període d'obres i anuncia mesures legals contra",
+  "text": "🏛️ El Govern defensa la continuïtat de l'AVE Madrid Barcelona durant el període d'obres i anuncia mesures legals contra les plataformes per permetre les convocatòries de Blocus | @LluisFalgas @RTVECatalunya https://t.co/ef5JEr9W6w",
+  "published": "2026-11-03T13:10:49+00:00",
+  "author": "@rtvenoticies",
+  "embed": {
+   "type": "x",
+   "id": "2117605418147131611"
+  },
+  "engagement": 2,
+  "views": 121,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-03",
+  "severity": 2,
+  "title_zh": "加泰政府表態力保雙城高鐵運轉並向涉暴平台究責",
+  "note_zh": "加泰官方確認雙城AVE維持運轉，並強化查緝社群騷亂動員。"
  }
 ]
