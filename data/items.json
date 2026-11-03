@@ -6025,5 +6025,58 @@
   "severity": 1,
   "title_zh": "馬德里南部維拉韋德11/7舉辦大罷工勞工動員座談",
   "note_zh": "基層在郊區活動，對市區景點旅遊直接影響輕微。"
+ },
+ {
+  "id": "ca95c40f5e0e",
+  "source": "news",
+  "url": "https://www.moncloa.com/2026/11/03/huelga-general-cataluna-11n-3460893/",
+  "title": "Huelga general Cataluña 11-N: CGT ultima piquetes y el Parlament se divide",
+  "text": "CGT y el resto de sindicatos convocantes ultiman los piquetes y la logística de la huelga general del miércoles 11 de noviembre en Catalunya.",
+  "published": null,
+  "author": "MONCLOA.COM",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "加泰CGT工會敲定11-N大罷工糾察線與動員細節",
+  "note_zh": "工會正敲定糾察線部署，當天加泰公共運輸與商業活動勢將受阻。"
+ },
+ {
+  "id": "fd1201dbb2df",
+  "source": "news",
+  "url": "https://blocs.mesvilaweb.cat/procesconstituent26/blindem-la-publica-mobilitzacions-novembre-2026/",
+  "title": "Blindem la pública: mobilitzacions per l’educació pública al novembre de 2026",
+  "text": "USTEC·STEs convoca mobilitzacions per l'educació pública al novembre: concentracions el 4N, vaga general l'11N, manifestació el 21N i vaga educativa el 26N.",
+  "published": null,
+  "author": "Blocs de VilaWeb",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "加泰教育工會公布11月抗爭時程表包含11/4集會與11/11大罷工",
+  "note_zh": "確立11/4集會與11/11響應，可能局部影響各級學校與周邊人潮。"
+ },
+ {
+  "id": "79e48f114e61",
+  "source": "x",
+  "url": "https://x.com/ondacapitalfm/status/2117727693915455556",
+  "title": "Tensión en la Puerta del Sol de Madrid. Una sentada deja insultos dirigidos contra agentes de la Policía Nacional, segú",
+  "text": "Tensión en la Puerta del Sol de Madrid. Una sentada deja insultos dirigidos contra agentes de la Policía Nacional, según las imágenes descritas, tras una madrugada marcada por el desalojo de la acampada. #Madrid #PuertaDelSol #PoliciaNacional #Manifestacion #UltimaHora https://t.co/1UM4LlRrnF",
+  "published": "2026-11-03T21:16:42+00:00",
+  "author": "@ondacapitalfm",
+  "embed": {
+   "type": "x",
+   "id": "2117727693915455556"
+  },
+  "engagement": 1,
+  "views": 714,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-03",
+  "severity": 2,
+  "title_zh": "馬德里太陽門夜間靜坐對抗警方氣氛緊張",
+  "note_zh": "太陽門清場後晚間仍有零星靜坐群眾與警方對峙，夜間經此留意口角盤查。"
  }
 ]
