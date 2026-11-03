@@ -5486,5 +5486,58 @@
   "severity": 2,
   "title_zh": "馬德里移民族群宣布全力響應11-N全國大罷工",
   "note_zh": "弱勢住宅與移民團體響應11-N，示威動員覆蓋面擴至郊區移民商圈。"
+ },
+ {
+  "id": "532d3a932dab",
+  "source": "news",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTEk2YnhOVEFGdzFNS1JhNjhLVno5LXpfYXk5S3Q3U0NNalpodWktT25EZzRYdThkSmIwS0NkV3dGMlJXR2t1T0NBYUd0blNYRVJtRTB5Z3hfYmZnLVBfSG1PX3FkaUxyVm5RZUx3N182MnBlbjFnS2NOQUZOZnNzYzdlWFkzN1pPMnAwNWQ3SGRHU0VlVWs00gGcAUFVX3lxTFBmTnU4X0xXNDQ4ZzBQa0NaUUJSTUJ1VENPaGpZQ0RyQXpTNVJ6cXJsdHZqZVhFak5pekxCX3NXZjBUaHpvNDZsNjYwdHVqcXpPMVBXdkZ5akxlZUc0MGVucGhvQ05pbEpmbFNUMlpxZTdHNWh4NG1BaVprTFIxOXNoMjFJLUJCMF94T2d6ODJkRElmUkhjNVUxd1JzNQ?oc=5",
+  "title": "Los sindicatos de ADIF anuncian huelga para el 17 de noviembre por la seguridad ferroviaria",
+  "text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPTEk2YnhOVEFGdzFNS1JhNjhLVno5LXpfYXk5S3Q3U0NNalpodWktT25EZzRYdThkSmIwS0NkV3dGMlJXR2t1T0NBYUd0blNYRVJtRTB5Z3hfYmZnLVBfSG1PX3FkaUxyVm5RZUx3N182MnBlbjFnS2NOQUZOZnNzYzdlWFkzN1pPMnAwNWQ3SGRHU0VlVWs00gGcAUFVX3lxTFBmTnU4X0xXNDQ4ZzBQa0NaUUJSTUJ1VE …",
+  "published": "2026-11-03T15:31:16+00:00",
+  "author": "The Objective",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-17",
+  "severity": 3,
+  "title_zh": "西班牙鐵路基建局Adif工會宣布11/17罷工",
+  "note_zh": "國鐵路網基礎設施人員排定11/17罷工，可能波及高鐵與通勤班次。"
+ },
+ {
+  "id": "818ecead420e",
+  "source": "news",
+  "url": "https://naciodigital.cat/politica/el-parlament-aprova-una-declaracio-de-suport-a-la-vaga-general-de-l11-n.html",
+  "title": "El Parlament aprova una declaració de suport a la vaga general de l'11-N",
+  "text": "Política Les preguntes pendents que ha de respondre Óscar Puente per la tragèdia de Toledo Gerard Mira. Les preguntes pendents que ha de respondre Óscar...",
+  "published": null,
+  "author": "Nació Digital",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "加泰隆尼亞議會通過聲明表態支持11-N全國大罷工",
+  "note_zh": "加泰地方議會政治背書，加劇巴塞隆納當日公部門與交通癱瘓程度。"
+ },
+ {
+  "id": "d8ce184eb281",
+  "source": "x",
+  "url": "https://x.com/OJS_Girones/status/2117639321339740259",
+  "title": "Aquest dissabte sortirem als carrers de Barcelona a la manifestació juvenil prèvia a la Vaga General. Si ets de les com",
+  "text": "Aquest dissabte sortirem als carrers de Barcelona a la manifestació juvenil prèvia a la Vaga General. Si ets de les comarques gironines i vols venir, escriu-nos per anar-hi junts! 📩",
+  "published": "2026-11-03T15:25:32+00:00",
+  "author": "@OJS_Girones",
+  "embed": {
+   "type": "x",
+   "id": "2117639321339740259"
+  },
+  "engagement": 5,
+  "views": 72,
+  "category": "protest",
+  "city": "Barcelona",
+  "event_date": "2026-11-07",
+  "severity": 2,
+  "title_zh": "加泰青年組織串聯11/7於巴塞隆納舉行罷工前夕大遊行",
+  "note_zh": "加泰多地青年將於週六湧入巴塞隆納市中心遊行，周邊商圈留意交通管制。"
  }
 ]
