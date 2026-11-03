@@ -5297,5 +5297,58 @@
   "severity": 2,
   "title_zh": "加泰政府表態力保雙城高鐵運轉並向涉暴平台究責",
   "note_zh": "加泰官方確認雙城AVE維持運轉，並強化查緝社群騷亂動員。"
+ },
+ {
+  "id": "08fd5c357d65",
+  "source": "x",
+  "url": "https://x.com/SERMadridSur/status/2117623923403546836",
+  "title": "Nueva huelga en una de las empresas de mantenimiento en la fábrica de Airbus en #Getafe ✅ Más detalles aquí: https://t.",
+  "text": "Nueva huelga en una de las empresas de mantenimiento en la fábrica de Airbus en #Getafe ✅ Más detalles aquí: https://t.co/7weh4LQ2Q8",
+  "published": "2026-11-03T14:24:21+00:00",
+  "author": "@SERMadridSur",
+  "embed": {
+   "type": "x",
+   "id": "2117623923403546836"
+  },
+  "engagement": 0,
+  "views": 6,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-03",
+  "severity": 1,
+  "title_zh": "空中巴士馬德里赫塔菲廠維修包商發動罷工",
+  "note_zh": "為航空工廠局部維修包商罷工，民航客運航班未受直接影響。"
+ },
+ {
+  "id": "a509f99d44fd",
+  "source": "news",
+  "url": "https://www.lavanguardia.com/politica/20261103/11675070/sindicatos-izquierda-rechazan-suspender-huelga-general-pide-feijoo.html",
+  "title": "Los sindicatos y la izquierda rechazan suspender la huelga general como pide Feijóo",
+  "text": "UGT ve “insultante” el planteamiento del presidente del PP y CC.OO. le pide que no gobierne con un partido que quiere rebajar lso ingresos fiscales.",
+  "published": null,
+  "author": "La Vanguardia",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 4,
+  "title_zh": "兩大工會嚴正拒絕暫停11/11全國大罷工",
+  "note_zh": "工會強硬拒絕政界停罷呼籲，11-N全國海陸空全面罷工幾成定局。"
+ },
+ {
+  "id": "9ec109d10fce",
+  "source": "news",
+  "url": "https://directa.cat/comites-vaga-11n-muscul-mobilitzacio-preveu-historica/",
+  "title": "Els comitès de vaga 11N, el múscul d’una mobilització que es preveu històrica",
+  "text": "A Catalunya són més de vuitanta els nuclis actius que integren el moviment per l'habitatge i el sindicalisme combatiu.",
+  "published": null,
+  "author": "La directa",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "加泰隆尼亞逾80個基層罷工委員會備戰11-N大罷工",
+  "note_zh": "基層住屋維權與左翼工會高度動員，巴塞隆納市區預期出現大批阻絕集會。"
  }
 ]
