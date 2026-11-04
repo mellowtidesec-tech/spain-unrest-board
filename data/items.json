@@ -7926,5 +7926,110 @@
   "severity": 4,
   "title_zh": "旅客諮詢11/11全國大罷工當日跨城火車停駛狀況",
   "note_zh": "瓦倫西亞往巴塞隆納等跨城鐵路在11/11面臨全面罷工與停駛危機。"
+ },
+ {
+  "id": "ba929db5b45c",
+  "source": "x",
+  "url": "https://x.com/EspanolPoquito/status/2118101394062541287",
+  "title": "🚨 UNIVERSIDADES DE MADRID Las seis universidades públicas están convocadas a la huelga los días 4 y 5 de noviembre. Lo",
+  "text": "🚨 UNIVERSIDADES DE MADRID Las seis universidades públicas están convocadas a la huelga los días 4 y 5 de noviembre. Los convocantes denuncian falta de financiación y deterioro de las condiciones de estudio. ¿Se está notando en vuestro campus? #UniversidadPública #Madrid #Huelga",
+  "published": "2026-11-04T22:01:39+00:00",
+  "author": "@EspanolPoquito",
+  "embed": {
+   "type": "x",
+   "id": "2118101394062541287"
+  },
+  "engagement": 0,
+  "views": 1,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "馬德里六所公立大學11/4-5持續罷工抗議",
+  "note_zh": "大學城周邊11/5仍有集會與糾察線，旅客應注意周邊公車與人潮阻滯。"
+ },
+ {
+  "id": "086b9026c126",
+  "source": "x",
+  "url": "https://x.com/el_pais_madrid/status/2118100726358360093",
+  "title": "Vuelve a las calles y a la huelga el inconfundible color blanco de las batas de los médicos https://t.co/Y642aiqaQS",
+  "text": "Vuelve a las calles y a la huelga el inconfundible color blanco de las batas de los médicos https://t.co/Y642aiqaQS",
+  "published": "2026-11-04T21:59:00+00:00",
+  "author": "@el_pais_madrid",
+  "embed": {
+   "type": "x",
+   "id": "2118100726358360093"
+  },
+  "engagement": 0,
+  "views": 85,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "馬德里白袍醫護重返街頭發動醫療罷工",
+  "note_zh": "西媒報導醫護抗爭重啟，非急診醫療資源受限，遊行時段留意交管。"
+ },
+ {
+  "id": "33df02b0d2d7",
+  "source": "x",
+  "url": "https://x.com/SindicatLloguer/status/2118099959111168146",
+  "title": "🚇 Mireu! La Vaga General de l’11N ha arribat al Metro de Barcelona! 🚉 Moltes passatgeres ja han pujat a la Línia 11N.",
+  "text": "🚇 Mireu! La Vaga General de l’11N ha arribat al Metro de Barcelona! 🚉 Moltes passatgeres ja han pujat a la Línia 11N. I tu? ℹ️ Organitza’t i participa! https://t.co/WtW158FKxv",
+  "published": "2026-11-04T21:55:57+00:00",
+  "author": "@SindicatLloguer",
+  "embed": {
+   "type": "x",
+   "id": "2118099959111168146"
+  },
+  "engagement": 2,
+  "views": 142,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "巴塞隆納租客工會深入地鐵宣傳11-N全國大罷工",
+  "note_zh": "工會加強地鐵站內宣傳動員，11/11當日地鐵營運減班癱瘓風險極高。"
+ },
+ {
+  "id": "79a6fffc66ab",
+  "source": "x",
+  "url": "https://x.com/UGTMadrid/status/2118090829969391876",
+  "title": "🗣️La Huelga es el resultado de quienes se niegan a negociar🤦🏻‍♀️. Y las Huelgas son el resultado democrático de esa falt",
+  "text": "🗣️La Huelga es el resultado de quienes se niegan a negociar🤦🏻‍♀️. Y las Huelgas son el resultado democrático de esa falta de diálogo🤌🏼. Porque hay motivos de sobra. ¡11N Huelga General! #11NUGTMadrid https://t.co/9qvJGbwwql",
+  "published": "2026-11-04T21:19:40+00:00",
+  "author": "@UGTMadrid",
+  "embed": {
+   "type": "x",
+   "id": "2118090829969391876"
+  },
+  "engagement": 10,
+  "views": 92,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "UGT馬德里工會重申因資方拒協商全力發動11-N罷工",
+  "note_zh": "主要工會官方表態毫不退讓，確認11/11罷工動員力道不減。"
+ },
+ {
+  "id": "f1d6dcfbc1cd",
+  "source": "x",
+  "url": "https://x.com/CCOOEducaMa/status/2118087396969349390",
+  "title": "📢 EL COMITÉ DE HUELGA MIXTO RESPONDE: 📩 Tras la carta de Zarzalejo las DAT también se dirigen a los directores para int",
+  "text": "📢 EL COMITÉ DE HUELGA MIXTO RESPONDE: 📩 Tras la carta de Zarzalejo las DAT también se dirigen a los directores para intentar generar conflicto entre el profesorado. ‼️Exigimos a la Consejería una negociación con garantías en el marco de la huelga y con la tabla reivindicativa. https://t.co/fROXe758EL",
+  "published": "2026-11-04T21:06:02+00:00",
+  "author": "@CCOOEducaMa",
+  "embed": {
+   "type": "x",
+   "id": "2118087396969349390"
+  },
+  "engagement": 5,
+  "views": 204,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "馬德里教育罷工委員會指責官方分化並堅持抗爭",
+  "note_zh": "公立教育罷工勞資談判破裂，預告抗爭及零星封路將延續至11/5。"
  }
 ]
