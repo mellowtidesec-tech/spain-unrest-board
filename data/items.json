@@ -7721,5 +7721,47 @@
   "severity": 2,
   "title_zh": "馬德里住屋工會全面啟動社區罷工委員會準備11-N",
   "note_zh": "租客工會發起跨社區串聯，預告11/11將同步發起商圈抗議。"
+ },
+ {
+  "id": "5a2b29c4e12f",
+  "source": "x",
+  "url": "https://x.com/desdestalingrad/status/2118056511910134106",
+  "title": "Amiga fue a Barcelona. Perdió un día de hotel, pagó dif en vuelo y se viene un día antes xq huelga gral allá. Tuvo q ir",
+  "text": "Amiga fue a Barcelona. Perdió un día de hotel, pagó dif en vuelo y se viene un día antes xq huelga gral allá. Tuvo q ir por San Pablo xq cierre de Eze. Quien le avisa? https://t.co/Z8Ke6xkAYM",
+  "published": "2026-11-04T19:03:18+00:00",
+  "author": "@desdestalingrad",
+  "embed": {
+   "type": "x",
+   "id": "2118056511910134106"
+  },
+  "engagement": 0,
+  "views": 4,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "旅客因巴塞隆納11-N大罷工提前改機票縮短行程",
+  "note_zh": "反映外國旅客已陸續因11/11大罷工交通停擺而調整航班與飯店退改。"
+ },
+ {
+  "id": "f8ce82c412ba",
+  "source": "x",
+  "url": "https://x.com/CGTMadrideduc/status/2118055681626443949",
+  "title": "🔴⚫️CGT Comunica nº79 (noviembre 2026) A continuación puedes leer o descargar el nuevo número de CGT Enseñanza Comunica,",
+  "text": "🔴⚫️CGT Comunica nº79 (noviembre 2026) A continuación puedes leer o descargar el nuevo número de CGT Enseñanza Comunica, que incluye: 💚Histórica huelga indefinida 🗳️Elecciones sindicales 2026: participa 🧡Huelga general de vivienda 11N https://t.co/F2EYv3DGEx",
+  "published": "2026-11-04T19:00:00+00:00",
+  "author": "@CGTMadrideduc",
+  "embed": {
+   "type": "x",
+   "id": "2118055681626443949"
+  },
+  "engagement": 0,
+  "views": 12,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "CGT工會發布會刊串聯馬德里教育無限期罷工與11-N",
+  "note_zh": "確認馬德里公立教育罷工為無限期抗爭，並直通11/11全國大罷工。"
  }
 ]
