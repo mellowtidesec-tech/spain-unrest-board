@@ -7525,5 +7525,63 @@
   "severity": 2,
   "title_zh": "馬德里科技商務論壇因罷工風險宣布延期改期",
   "note_zh": "大罷工陰影導致部分市區商業會展與大型活動取消或延宕。"
+ },
+ {
+  "id": "d1d7a0365a80",
+  "source": "news",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLUhEQWJLMWlWSzN3cmh6SlpPdlhKdWxRQkhWUDJlWjl6b3hoczN2Tm5vYk9TYXdQcktoYVpjajlFOWV6NU1LRWg1eWtMLWpRQVZudC1zYlRXU3BhRHNadVZoa2ZPV0RVbkI5MEV5QUI3SzRIRmdxTVN4TlpMYkdkRXotMmVFRDNMdWo0R2xPY0RkNDlKWmd3RFJKeUJDWkN5aGhHZUtMdjlVSFoxdnJkT29ya0ZUYnExTW9oRTlYRHM5UWdveldBSVB4dGJIdm9JSVFGTm9zOUc4bjZUdDU2dXNTQWc0Ti0zcXpUN2tpeENHTVpEaElN?oc=5",
+  "title": "Los médicos reanudan la huelga para exigir a Madrid las 35 horas semanales y guardias mejor pagadas para evitar la fuga de talento",
+  "text": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLUhEQWJLMWlWSzN3cmh6SlpPdlhKdWxRQkhWUDJlWjl6b3hoczN2Tm5vYk9TYXdQcktoYVpjajlFOWV6NU1LRWg1eWtMLWpRQVZudC1zYlRXU3BhRHNadVZoa2ZPV0RVbkI5MEV5QUI3SzRIRmdxTVN4TlpMYkdkRXotMmVFRDNMdWo0R2xPY0RkNDlKWmd3RFJKeUJDWkN5aGhHZUtMdjlVSFoxdnJkT29ya0 …",
+  "published": "2026-11-04T16:02:25+00:00",
+  "author": "20Minutos",
+  "embed": null,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "馬德里醫師工會重啟罷工要求週休35工時與提高值班費",
+  "note_zh": "馬德里公立醫院與基層診所醫護重啟罷工，非緊急門診等候時間可能拉長。"
+ },
+ {
+  "id": "bc68fc2f390f",
+  "source": "x",
+  "url": "https://x.com/CNTAranjuez/status/2118025501331935407",
+  "title": "Desde educación infantil de 0 a 3 hasta la universidad. Toda la educación en la Comunidad de Madrid está en huelga indef",
+  "text": "Desde educación infantil de 0 a 3 hasta la universidad. Toda la educación en la Comunidad de Madrid está en huelga indefinida. Marcha por la educación pública y de calidad para la clase obrera ✊🏼. https://t.co/2YxUGQUJKC",
+  "published": "2026-11-04T17:00:05+00:00",
+  "author": "@CNTAranjuez",
+  "embed": {
+   "type": "x",
+   "id": "2118025501331935407"
+  },
+  "engagement": 0,
+  "views": 9,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "馬德里教育體系涵蓋幼教至大學展開全學層罷工遊行",
+  "note_zh": "工會串聯幼教至高等教育無限期抗爭，市區主要文教區與黨部周邊動線受阻。"
+ },
+ {
+  "id": "4c19ec6b2aa7",
+  "source": "x",
+  "url": "https://x.com/CanMariete/status/2118024036483539002",
+  "title": "Hoy las calles de Madrid se han inundado de verde. Trabajadores y estudiantes de todas las etapas educativas hemos camin",
+  "text": "Hoy las calles de Madrid se han inundado de verde. Trabajadores y estudiantes de todas las etapas educativas hemos caminado juntos hasta tal punto que no se veía el final de la manifestación. Queda un mundo, pero cada día damos un pasito más hacia delante 💚",
+  "published": "2026-11-04T16:54:15+00:00",
+  "author": "@CanMariete",
+  "embed": {
+   "type": "x",
+   "id": "2118024036483539002"
+  },
+  "engagement": 4,
+  "views": 38,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "馬德里綠潮教育遊行萬人湧上街頭抗議經費匱乏",
+  "note_zh": "示威者身著綠衣塞滿馬德里市中心街道，傍晚市中心部分街區交通通行受限。"
  }
 ]
