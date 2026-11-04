@@ -6308,5 +6308,47 @@
   "severity": 2,
   "title_zh": "司法解密Blocus曾企圖煽動縱火巴塞隆納市議會",
   "note_zh": "檢方起訴文件曝光極端組織暴力企圖，巴塞隆納市區官方建築警力持續高度戒備。"
+ },
+ {
+  "id": "9bac1b4d7169",
+  "source": "x",
+  "url": "https://x.com/MadridCentro2D/status/2117853406844932555",
+  "title": "Los movimientos sociales de Cádiz llaman a secundar la huelga general del 11 de noviembre https://t.co/ERuN5nUWyg https:",
+  "text": "Los movimientos sociales de Cádiz llaman a secundar la huelga general del 11 de noviembre https://t.co/ERuN5nUWyg https://t.co/gBa6Omh0qK",
+  "published": "2026-11-04T05:36:14+00:00",
+  "author": "@MadridCentro2D",
+  "embed": {
+   "type": "x",
+   "id": "2117853406844932555"
+  },
+  "engagement": 1,
+  "views": 7,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "加的斯社會團體號召響應11月11日全國大罷工",
+  "note_zh": "顯示11-N大罷工動員已自雙城全面蔓延至南部與全國各省。"
+ },
+ {
+  "id": "1069b028c63a",
+  "source": "x",
+  "url": "https://x.com/Hanbel59/status/2117851477024899098",
+  "title": "“Hermano, sois todos unos achantaos”, afeaba un miembro de uno de los chats del movimiento La decepción en los grupos de",
+  "text": "“Hermano, sois todos unos achantaos”, afeaba un miembro de uno de los chats del movimiento La decepción en los grupos de Blocus tras el fiasco del último fin de semana: \"Nos hemos cagado\" #Barcelona #manifestacion #blocuslycées #manifestacion #Francia https://t.co/AEy57q4LuA",
+  "published": "2026-11-04T05:28:34+00:00",
+  "author": "@Hanbel59",
+  "embed": {
+   "type": "x",
+   "id": "2117851477024899098"
+  },
+  "engagement": 0,
+  "views": 15,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-03",
+  "severity": 2,
+  "title_zh": "巴塞隆納Blocus群組內部因萬聖節行動受挫現內鬨",
+  "note_zh": "警方強力盤查使激進騷亂動員瓦解，市區短暫街頭暴亂風險降低。"
  }
 ]
