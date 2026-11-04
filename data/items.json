@@ -7842,5 +7842,89 @@
   "severity": 3,
   "title_zh": "鐵路高層異動：西鐵基建局Adif總裁因鐵路安全危機遭撤職",
   "note_zh": "鐵路相撞後官方究責撤換高層，工會罷工壓力恐持續發酵。"
+ },
+ {
+  "id": "66cfd34d98c2",
+  "source": "x",
+  "url": "https://x.com/Artur28302114/status/2118083008410329451",
+  "title": "@Renfe @Inforenfe Hola. Tengo un billete ave Madrid-Ourense el día 12 a las 17.10h, y me gustaría saber si está afectado",
+  "text": "@Renfe @Inforenfe Hola. Tengo un billete ave Madrid-Ourense el día 12 a las 17.10h, y me gustaría saber si está afectado por la huelga convocada. Gracias.",
+  "published": "2026-11-04T20:48:35+00:00",
+  "author": "@Artur28302114",
+  "embed": {
+   "type": "x",
+   "id": "2118083008410329451"
+  },
+  "engagement": 0,
+  "views": 7,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-12",
+  "severity": 3,
+  "title_zh": "旅客急詢11/12國鐵Renfe罷工長途AVE班次影響",
+  "note_zh": "反映旅客對11/10-12國鐵罷工長途AVE列車減班的焦慮，班次恐受衝擊。"
+ },
+ {
+  "id": "6677e7f10c11",
+  "source": "x",
+  "url": "https://x.com/Fran87G/status/2118082944388796733",
+  "title": "@OUIGO_Es , tengo un billete para el tren 06594 con dirección murcia desde madrid el 6 de noviembre , no he recibido nin",
+  "text": "@OUIGO_Es , tengo un billete para el tren 06594 con dirección murcia desde madrid el 6 de noviembre , no he recibido ninguna comunicación y me gustaría saber si el tren se ve afectado por la huelga parcial. Muchas gracias. Un saludo.",
+  "published": "2026-11-04T20:48:20+00:00",
+  "author": "@Fran87G",
+  "embed": {
+   "type": "x",
+   "id": "2118082944388796733"
+  },
+  "engagement": 0,
+  "views": 4,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-06",
+  "severity": 3,
+  "title_zh": "旅客詢問11/6馬德里出發Ouigo高鐵罷工班次取消情況",
+  "note_zh": "11/6廉價高鐵Ouigo罷工在即，由馬德里出發的高鐵旅客面臨退改與停駛問題。"
+ },
+ {
+  "id": "0a0035b5c3ef",
+  "source": "x",
+  "url": "https://x.com/Lucia_Nistal/status/2118078880023974171",
+  "title": "Desalojaron Sol, pero la lucha sigue y con fuerza. Hoy mañana huelga educativa en Madrid a la que se suman las universid",
+  "text": "Desalojaron Sol, pero la lucha sigue y con fuerza. Hoy mañana huelga educativa en Madrid a la que se suman las universidad y seguimos avanzando desde los comités hacia la huelga general. Un otoño rojo europeo. Vamos a pararlo todo! https://t.co/jizPKaY9DL",
+  "published": "2026-11-04T20:32:11+00:00",
+  "author": "@Lucia_Nistal",
+  "embed": {
+   "type": "x",
+   "id": "2118078880023974171"
+  },
+  "engagement": 13,
+  "views": 139,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "抗議團體號召太陽門清場後持續罷工並推向11-N全國大罷工",
+  "note_zh": "顯示太陽門雖清空，但抗爭勢力正轉向教育罷工及籌備11/11大罷工。"
+ },
+ {
+  "id": "6e1f7e3fdb92",
+  "source": "x",
+  "url": "https://x.com/albaeng/status/2118072915594006672",
+  "title": "@Renfe el día 11/10 es la huelga general y tengo un viaje de Valencia a Barcelona por la tarde. ¿Puede haber algún probl",
+  "text": "@Renfe el día 11/10 es la huelga general y tengo un viaje de Valencia a Barcelona por la tarde. ¿Puede haber algún problema para viajar? Como saber si mi tren está afectado? Gracias",
+  "published": "2026-11-04T20:08:29+00:00",
+  "author": "@albaeng",
+  "embed": {
+   "type": "x",
+   "id": "2118072915594006672"
+  },
+  "engagement": 0,
+  "views": 29,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 4,
+  "title_zh": "旅客諮詢11/11全國大罷工當日跨城火車停駛狀況",
+  "note_zh": "瓦倫西亞往巴塞隆納等跨城鐵路在11/11面臨全面罷工與停駛危機。"
  }
 ]
