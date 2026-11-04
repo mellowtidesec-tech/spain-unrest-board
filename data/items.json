@@ -6350,5 +6350,68 @@
   "severity": 2,
   "title_zh": "巴塞隆納Blocus群組內部因萬聖節行動受挫現內鬨",
   "note_zh": "警方強力盤查使激進騷亂動員瓦解，市區短暫街頭暴亂風險降低。"
+ },
+ {
+  "id": "b4c9706fc548",
+  "source": "x",
+  "url": "https://x.com/RafelCarretero/status/2117864672703521203",
+  "title": "https://t.co/dy38VBCQHB No estem disposats a convertir aquesta convocatòria de vaga general en una precampanya per a cap",
+  "text": "https://t.co/dy38VBCQHB No estem disposats a convertir aquesta convocatòria de vaga general en una precampanya per a cap partit.",
+  "published": "2026-11-04T06:21:00+00:00",
+  "author": "@RafelCarretero",
+  "embed": {
+   "type": "x",
+   "id": "2117864672703521203"
+  },
+  "engagement": 0,
+  "views": 4,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "加泰社群圍繞11-N大罷工訴求展開政治攻防",
+  "note_zh": "罷工動員持續發酵但基層有不同聲音，對旅客主要為罷工日交通預警。"
+ },
+ {
+  "id": "076d0a1e6ecf",
+  "source": "x",
+  "url": "https://x.com/electonomics/status/2117861734459330668",
+  "title": "🎓 HUELGA EN LAS UNIVERSIDADES DE MADRID 📅 Hoy y mañana, 4 y 5 de noviembre, están llamados a parar profesores, investig",
+  "text": "🎓 HUELGA EN LAS UNIVERSIDADES DE MADRID 📅 Hoy y mañana, 4 y 5 de noviembre, están llamados a parar profesores, investigadores, personal y alumnos de las seis universidades públicas de la región: Complutense, Autónoma, Carlos III, Politécnica, Alcalá y Rey Juan Carlos. Solo de estudiantes, unos 220.000. 📊 ¿Por qué? Por el dinero. Según los convocantes, la Comunidad dedica a sus universidades el 0,4 % de todo lo que produce la región en un año (el PIB). La media de España está en el 0,75 % y la de",
+  "published": "2026-11-04T06:09:20+00:00",
+  "author": "@electonomics",
+  "embed": {
+   "type": "x",
+   "id": "2117861734459330668"
+  },
+  "engagement": 1,
+  "views": 5,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "馬德里六所公立大學今明兩日全面罷工涉及22萬學生",
+  "note_zh": "11/4-5師生停課上街，康普斯頓等校區與周邊交通動線有示威人潮。"
+ },
+ {
+  "id": "66be79818f73",
+  "source": "x",
+  "url": "https://x.com/Carabanchelnet/status/2117860191618138273",
+  "title": "📌El profesorado madrileño corta la A42 en su cuarta semana de huelga indefinida [FotoVídeoGaleria] https://t.co/1CK1u6OG",
+  "text": "📌El profesorado madrileño corta la A42 en su cuarta semana de huelga indefinida [FotoVídeoGaleria] https://t.co/1CK1u6OGwS #Carabanchel #Madrid #VIDEOS #AyusoDimision7291 #A42 #Asamblea #Comunidad #huelgaindefinida #maestras #MercedesZarzalejo #profesores https://t.co/WQVNK8NGdi",
+  "published": "2026-11-04T06:03:12+00:00",
+  "author": "@Carabanchelnet",
+  "embed": {
+   "type": "x",
+   "id": "2117860191618138273"
+  },
+  "engagement": 0,
+  "views": 7,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-03",
+  "severity": 3,
+  "title_zh": "馬德里罷工教師邁入第四週封鎖A-42聯外幹道",
+  "note_zh": "南部卡拉萬切爾與A-42公路曾遭突襲阻斷，往南自駕或公車動線需留意延誤。"
  }
 ]
