@@ -6545,5 +6545,84 @@
   "severity": 2,
   "title_zh": "巴塞隆納住屋團體今日於歐洲廣場Fira展館旁集會",
   "note_zh": "示威者鎖定執政黨於奧斯皮塔萊特歐洲廣場（靠近展覽中心）集會，周邊動線略受干擾。"
+ },
+ {
+  "id": "63fa246124a1",
+  "source": "news",
+  "url": "https://www.huffingtonpost.es/economia/huelga-general-11-noviembre-te-descuentan-nomina-hay-avisar-empresa-que-servicios-minimos-habra-f202611.html",
+  "title": "Huelga general del 11 de noviembre: cuánto te descuentan de la nómina, si hay que avisar a la empresa y qué servicios mínimos habrá",
+  "text": "Todas las claves para conocer tus derechos y cómo afectará el paro a tu jornada laboral.",
+  "published": null,
+  "author": "El HuffPost",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 4,
+  "title_zh": "西媒解析11-N全國大罷工薪資扣減與最低服務",
+  "note_zh": "分析全國跨行業大罷工法令規範與最低營運班次衝擊。"
+ },
+ {
+  "id": "8f7116870013",
+  "source": "x",
+  "url": "https://x.com/cgm_madrid/status/2117890273128665181",
+  "title": "ℹ️ Con motivo de una manifestación con recorrido Aduana, Virgen de los Peligros, Sevilla, Carrera de San Jerónimo y fina",
+  "text": "ℹ️ Con motivo de una manifestación con recorrido Aduana, Virgen de los Peligros, Sevilla, Carrera de San Jerónimo y finalización en Cedaceros se realizarán cortes de tráfico 🚧 en los aledaños al recorrido de 09:30 a 12:00 horas. Más información 👇 https://t.co/Cipl9xNUv3 https://t.co/FxsPxBfQpb",
+  "published": "2026-11-04T08:02:44+00:00",
+  "author": "@cgm_madrid",
+  "embed": {
+   "type": "x",
+   "id": "2117890273128665181"
+  },
+  "engagement": 0,
+  "views": 669,
+  "category": "advisory",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "馬德里官方示警今日上午市中心遊行交管路線",
+  "note_zh": "09:30-12:00 Sevilla與聖赫羅尼莫大道周邊封路，留意動線。"
+ },
+ {
+  "id": "9f989c42ec78",
+  "source": "x",
+  "url": "https://x.com/CCOOEducaMa/status/2117890133399568516",
+  "title": "🚨💚 ¡ATENCIÓN! ¡ACTUALIZAMOS LA AGENDA DE MOVILIZACIONES! 🔥 ¡CUARTA SEMANA DE HUELGA INDEFINIDA Y SEGUIMOS SIN DAR UN PAS",
+  "text": "🚨💚 ¡ATENCIÓN! ¡ACTUALIZAMOS LA AGENDA DE MOVILIZACIONES! 🔥 ¡CUARTA SEMANA DE HUELGA INDEFINIDA Y SEGUIMOS SIN DAR UN PASO ATRÁS! ✊ ¡Consulta la programación actualizada y compártela para que llegue a todos los centros! 🔥 ¡LA HUELGA SIGUE, LA LUCHA CONTINÚA! #EducaciónEnLucha https://t.co/L3H82JL2x4",
+  "published": "2026-11-04T08:02:10+00:00",
+  "author": "@CCOOEducaMa",
+  "embed": {
+   "type": "x",
+   "id": "2117890133399568516"
+  },
+  "engagement": 0,
+  "views": 63,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "馬德里教育工會更新第四週無限期罷工日程",
+  "note_zh": "中小學教師罷工擴大動員，校園及周邊動線易有零星人潮。"
+ },
+ {
+  "id": "41f2b2d56cca",
+  "source": "x",
+  "url": "https://x.com/Carabanchelnet/status/2117885241079513258",
+  "title": "📌Hoy 4N Manifestaciones en Ciudad Lineal y Vallecas para calentar motores ante la Huelga General del 11N https://t.co/bG",
+  "text": "📌Hoy 4N Manifestaciones en Ciudad Lineal y Vallecas para calentar motores ante la Huelga General del 11N https://t.co/bG7FQ3dx9K #Carabanchel #Madrid #4N #CiudadLineal #manifestacion #MetroElCarmen #PlazaRoja #rentismo #Vallecas #viviendadigna https://t.co/538Dmq2yOg",
+  "published": "2026-11-04T07:42:44+00:00",
+  "author": "@Carabanchelnet",
+  "embed": {
+   "type": "x",
+   "id": "2117885241079513258"
+  },
+  "engagement": 0,
+  "views": 26,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "馬德里線型之城與瓦耶卡斯今日發動罷工暖身遊行",
+  "note_zh": "El Carmen與紅場周邊傍晚有遊行，鄰近地鐵與路面交通稍擠。"
  }
 ]
