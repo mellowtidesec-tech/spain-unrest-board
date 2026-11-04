@@ -7763,5 +7763,84 @@
   "severity": 2,
   "title_zh": "CGT工會發布會刊串聯馬德里教育無限期罷工與11-N",
   "note_zh": "確認馬德里公立教育罷工為無限期抗爭，並直通11/11全國大罷工。"
+ },
+ {
+  "id": "a3bf34d94344",
+  "source": "news",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVUE0QnN6N1BnQ1BDaHBkSG9qTkJabjJIb2dZcFYxOU1sMllzMFYwdVJGd2NXZnZOay1XSnZ0Vnl2R0dsOUxkTGxwUGN5Y3lCdnQ0ZzhPX3M5ZGFnSzN5OEstb2Z4TnJkLXVmNTItdW5oMTY1YWNJWk5oMnh2SE5TV3J1WDZFcDg0R2pwN0lQSnp6bzZXd0ZPSVNQSWpaNGNKb0dsWjlZLXdqbjJrRGFSRGJNRmExbGZZaGhr?oc=5",
+  "title": "Madrid completa su primera jornada de huelga este mes mientras Canarias prolonga los paros",
+  "text": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVUE0QnN6N1BnQ1BDaHBkSG9qTkJabjJIb2dZcFYxOU1sMllzMFYwdVJGd2NXZnZOay1XSnZ0Vnl2R0dsOUxkTGxwUGN5Y3lCdnQ0ZzhPX3M5ZGFnSzN5OEstb2Z4TnJkLXVmNTItdW5oMTY1YWNJWk5oMnh2SE5TV3J1WDZFcDg0R2pwN0lQSnp6bzZXd0ZPSVNQSWpaNGNKb0dsWjlZLXdqbjJrRGFSRGJNRmExbGZZaG …",
+  "published": "2026-11-04T17:52:59+00:00",
+  "author": "iSanidad",
+  "embed": null,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "馬德里完成11月首日醫療罷工加納利亦延長罷工",
+  "note_zh": "醫療罷工持續進行，旅客在馬德里就診非急診科別恐需久候。"
+ },
+ {
+  "id": "80c4d30c5cda",
+  "source": "x",
+  "url": "https://x.com/FdE_Madrid/status/2118067601955823644",
+  "title": "Mañana como forma de finalizar los dos días de Huelga Universitaria nos sumamos al resto de sectores de la Educación Púb",
+  "text": "Mañana como forma de finalizar los dos días de Huelga Universitaria nos sumamos al resto de sectores de la Educación Pública madrileña en una manifestación que partirá de Atocha y desembocará en la Puerta del Sol. La comunidad educativa lo tenemos claro, no vamos esperar respuesta parciales, ajenas y limitadas, vamos a seguir organizadas de la mano de las trabajadoras hasta conseguir una educación pública y de calidad. 📍 Punto de encuentro: Estatua de Claudio Moyano 🕛 17:00h",
+  "published": "2026-11-04T19:47:22+00:00",
+  "author": "@FdE_Madrid",
+  "embed": {
+   "type": "x",
+   "id": "2118067601955823644"
+  },
+  "engagement": 5,
+  "views": 49,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "馬德里大學生與教育界11/5傍晚由阿托查遊行至太陽門",
+  "note_zh": "11/5下午至晚間市中心阿托查至太陽門幹道將有交管與人潮阻滯。"
+ },
+ {
+  "id": "9cb13bf045c3",
+  "source": "x",
+  "url": "https://x.com/rtvenoticies/status/2118067102783291515",
+  "title": "🚔 Detinguda una jove de 18 anys vinculada als canals Blocus que haurien coordinat els saquejos del 24 d’octubre a Barcel",
+  "text": "🚔 Detinguda una jove de 18 anys vinculada als canals Blocus que haurien coordinat els saquejos del 24 d’octubre a Barcelona. 🔸 Amb aquesta, ja són 7 les detencions a Catalunya i 17 a tot l’Estat | #ElVespre #La2Cat ➕ Info: https://t.co/YmsKcy8JPn 📲 https://t.co/e3YKXKtElb",
+  "published": "2026-11-04T19:45:23+00:00",
+  "author": "@rtvenoticies",
+  "embed": {
+   "type": "x",
+   "id": "2118067102783291515"
+  },
+  "engagement": 0,
+  "views": 74,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "加泰警方就Blocus搶掠案逮捕滿18歲少女且全西達17人",
+  "note_zh": "警方加強收網，全西累計逮17人，市中心騷亂風險受控但警戒嚴格。"
+ },
+ {
+  "id": "803f2c3c6bf0",
+  "source": "x",
+  "url": "https://x.com/olanextEU/status/2118058227141054965",
+  "title": "Adif cesa a su presidente tras la crisis ferroviaria. Barcelona prueba un sistema de inteligencia artificial y Francia a",
+  "text": "Adif cesa a su presidente tras la crisis ferroviaria. Barcelona prueba un sistema de inteligencia artificial y Francia afronta una nueva jornada de huelga. Las claves del día en OLA NEXT: https://t.co/Mne3j4YCUo",
+  "published": "2026-11-04T19:10:07+00:00",
+  "author": "@olanextEU",
+  "embed": {
+   "type": "x",
+   "id": "2118058227141054965"
+  },
+  "engagement": 0,
+  "views": 6,
+  "category": "advisory",
+  "city": "Spain",
+  "event_date": "2026-11-04",
+  "severity": 3,
+  "title_zh": "鐵路高層異動：西鐵基建局Adif總裁因鐵路安全危機遭撤職",
+  "note_zh": "鐵路相撞後官方究責撤換高層，工會罷工壓力恐持續發酵。"
  }
 ]
