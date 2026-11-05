@@ -9898,5 +9898,63 @@
   "severity": 3,
   "title_zh": "馬德里-巴塞隆納高鐵連兩日重大延誤，阿托查與聖茲車站混亂",
   "note_zh": "除罷工外，基建故障與纜線偷竊致雙城高鐵脫班延誤，長途旅客須提早抵達。"
+ },
+ {
+  "id": "aafa1f1804b2",
+  "source": "news",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLXpJbE1nanZYSWNMWDA1dmRoSFZrRW5vVnRGclM2allEV3NsQ1VYVGc0dTJPbGkzSUdydGdwb05YTVRqOEF5N1hHeXVlOHZUMUFCTXRhMGdNWGluU1hyWV9NTU1RSGR2SVBSSHN3OG1USHhHb3g5andoRm54RktvXzZlanluOE9YMElmM2RjTjY3all1Vjd2RmVWSWYtSGxQX3FuQXZGbkpQQ1ZpZ29mMFFmT016cWdUSUhDZ2pGOUY3azBnYVQxSEkzeVkzckd3RjRIejh30gHqAUFVX3lxTFBlMkQ2eTFmMnZTWW45Tjh2MjhiUWRzRGRVR1lTU3BOZGZBdzk1ZzFraUFPbW42ckRlelRac3ZDVzlGakVIUU0zSEhHSU43MXNqWTlFTzN6MHNSRzFGaXhMR0N3cE1iSm96UUpVSjJnakRzdkJmODc5U0ZZN05KdUxYclJHd0pSZlV1NWMzRVJnYl9SeUFvb3VyNTg3NDZYNDQ2SkwwUWRNMnhBOGxzRFpTWmNZaFp2azNkWGVBQTBYRWk4c1phTjh0ZEZUSUR1NzdVQ1J6QktvVEQyQW14eFV1bGp6RkJVWTlLdw?oc=5",
+  "title": "La huelga universitaria de Madrid cierra con una gran marcha de profesores de todas las etapas",
+  "text": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLXpJbE1nanZYSWNMWDA1dmRoSFZrRW5vVnRGclM2allEV3NsQ1VYVGc0dTJPbGkzSUdydGdwb05YTVRqOEF5N1hHeXVlOHZUMUFCTXRhMGdNWGluU1hyWV9NTU1RSGR2SVBSSHN3OG1USHhHb3g5andoRm54RktvXzZlanluOE9YMElmM2RjTjY3all1Vjd2RmVWSWYtSGxQX3FuQXZGbkpQQ1ZpZ29mMFFmT0 …",
+  "published": "2026-11-05T18:38:01+00:00",
+  "author": "EL PAÍS",
+  "embed": null,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 3,
+  "title_zh": "馬德里大學罷工落幕，各級教師聯合大遊行擠爆市中心",
+  "note_zh": "公立大學兩日罷工結束，傍晚全體教師遊行阻斷市中心幹道。"
+ },
+ {
+  "id": "80c79372778d",
+  "source": "x",
+  "url": "https://x.com/CNT_Villaverde/status/2118419072270430513",
+  "title": "Este domingo estaremos en Getafe, junto a @CGT_Madrid y el Comité de Huelga local impartiendo una charla formativa sobre",
+  "text": "Este domingo estaremos en Getafe, junto a @CGT_Madrid y el Comité de Huelga local impartiendo una charla formativa sobre el derecho a huelga y la actividad de los piquetes informativos de cara al 11N https://t.co/O97Sl3AeXL",
+  "published": "2026-11-05T19:03:59+00:00",
+  "author": "@CNT_Villaverde",
+  "embed": {
+   "type": "x",
+   "id": "2118419072270430513"
+  },
+  "engagement": 0,
+  "views": 23,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-08",
+  "severity": 1,
+  "title_zh": "CNT工會週日於赫塔菲舉辦11-N罷工糾察與法律講習",
+  "note_zh": "外圍衛星城閉門講習活動，不影響市區觀光交通。"
+ },
+ {
+  "id": "1a7622eacd04",
+  "source": "x",
+  "url": "https://x.com/Gacetinmadrid/status/2118413546216112242",
+  "title": "Dos policías heridos en el incendio en un edificio residencial de Puente de Vallecas https://t.co/0oeijeH43K",
+  "text": "Dos policías heridos en el incendio en un edificio residencial de Puente de Vallecas https://t.co/0oeijeH43K",
+  "published": "2026-11-05T18:42:02+00:00",
+  "author": "@Gacetinmadrid",
+  "embed": {
+   "type": "x",
+   "id": "2118413546216112242"
+  },
+  "engagement": 0,
+  "views": 115,
+  "category": "fire_violence",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "馬德里瓦耶卡斯民宅火警致2名員警受傷，非暴亂事件",
+  "note_zh": "純屬住宅意外火警但波及警消，旅客行經東南近郊注意交管。"
  }
 ]
