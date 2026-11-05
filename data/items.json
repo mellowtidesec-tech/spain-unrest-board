@@ -9719,5 +9719,68 @@
   "severity": 3,
   "title_zh": "CCOO馬德里發布11-N大罷工宣傳片訴求打擊高房租與物價",
   "note_zh": "馬德里核心工會強化大罷工民生號召，動員力道持續累積。"
+ },
+ {
+  "id": "0089fe0b4a25",
+  "source": "x",
+  "url": "https://x.com/CGTucm/status/2118394178342199513",
+  "title": "¿Dónde está Zarzalejo? Hay un incendio en todos los sectores de la educación pública madrileña, y la pirómana del PP só",
+  "text": "¿Dónde está Zarzalejo? Hay un incendio en todos los sectores de la educación pública madrileña, y la pirómana del PP sólo echa más gasolina al conflicto, en vez de sentarse como es su obligación. Y el fuego va a seguir si no hay respiro para la educación pública madrileña. https://t.co/BWj1wHCCVy",
+  "published": "2026-11-05T17:25:04+00:00",
+  "author": "@CGTucm",
+  "embed": {
+   "type": "x",
+   "id": "2118394178342199513"
+  },
+  "engagement": 0,
+  "views": 2,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "馬德里教育工會抨擊官方加劇衝突並持續罷工",
+  "note_zh": "公立教育與大學持續罷工動員，校園運作與周邊活動受影響。"
+ },
+ {
+  "id": "78f8a7aee158",
+  "source": "x",
+  "url": "https://x.com/margarita_sainz/status/2118393230635192499",
+  "title": "Gran manifestación por la #EscuelaPública ahora mismo por las calles de #Madrid No vamos a parar porque exigimos lo que",
+  "text": "Gran manifestación por la #EscuelaPública ahora mismo por las calles de #Madrid No vamos a parar porque exigimos lo que es justo 💚 https://t.co/1qG4Ag7fSq",
+  "published": "2026-11-05T17:21:18+00:00",
+  "author": "@margarita_sainz",
+  "embed": {
+   "type": "x",
+   "id": "2118393230635192499"
+  },
+  "engagement": 1,
+  "views": 8,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 3,
+  "title_zh": "馬德里市中心綠潮大遊行此刻正湧入街頭",
+  "note_zh": "市中心阿托查至太陽門等核心路段晚間人潮擁擠，伴隨交通管制。"
+ },
+ {
+  "id": "bc8de15741a7",
+  "source": "x",
+  "url": "https://x.com/elOrdenMundial/status/2118389376333791431",
+  "title": "La universidad pública madrileña está en huelga. Las seis universidades públicas de Madrid se han movilizado para denun",
+  "text": "La universidad pública madrileña está en huelga. Las seis universidades públicas de Madrid se han movilizado para denunciar la falta de financiación y recursos. 📊 Y los datos muestran una realidad interesante: España es uno de los países de la UE con mayor proporción de alumnos en universidades privadas: un 29%, frente al 18% de Alemania o el 21% de Francia. ¿Qué futuro le espera a la universidad pública en España? Te leemos 👇",
+  "published": "2026-11-05T17:05:59+00:00",
+  "author": "@elOrdenMundial",
+  "embed": {
+   "type": "x",
+   "id": "2118389376333791431"
+  },
+  "engagement": 5,
+  "views": 1398,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "馬德里六所公立大學罷工抗議公私立資源失衡",
+  "note_zh": "大學校區罷工活動持續，大學城周邊出入略受干擾。"
  }
 ]
