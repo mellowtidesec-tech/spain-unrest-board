@@ -793,22 +793,6 @@
   "note_zh": "跨國科技旗艦店主動提早結束營業，市區旗艦商圈維持高度警戒。"
  },
  {
-  "id": "bcfbbfd0b750",
-  "source": "news",
-  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNVhJTTlwRDVkSFZsWmhwNVZrWGtObktkTUhQeG5ldnJBVGFEVzc0c2xWRmdMUGo5OGFsRHdWOXUtb2dveXBoQTRGdlR0ZEtNT1BMLTh5VjBTcUp6UEp2SUZPZnpRMkw1TzZXb09mcXhhUk91Z0hTbUpCOG53clQ4WUpKMnZZNW11Z0JIMVhGdnowMzB5M2xCb0ZLVWtnanNTQzRnR2FpVDJlVTkyOHZQRzRrQkFha25yYU5GSXkwdlpwd05FZmhNMUc5WGxvemJTSGY0VEJNM2l4c05QcFBpa212aXMxSC1qZlNTU0lIa09mX09H0gGIAkFVX3lxTE1teUxWSnUzVklUNXZDSERQSjk1Q3oxSFZwdHFMYXBVMmxVQU4yUWZ0MHdpdWZzei1xNkdLNEhKWTZOSUlpbjBmdFFxcldXRnVoVWNmSUJSVnN2RGhBSkJPbC1wcFlrb0lTNHl6YnhueElJeU9qUWlGcUxFNkJMYURiNk9Rbmp5MmlnTmFDUGpEaDJmRkNvNE5acXJHQ3JGYjVaNkxoU2lENE1ESVF0RlpGLXg0ZEZlNzhodnc0SWdaa3hld2pHUWQtaGZFWnJyZk9sb1FHclhsOXVVWjl4U3hmZThrSG04VGVhMmc0bmNDbjlhbHhRcWJERF9LeTBLQnViRGRHd1QwTA?oc=5",
-  "title": "Las universidades de Madrid irán a la huelga el 4 y 5 de noviembre por la “estafa” del acuerdo de financiación de Ayuso",
-  "text": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNVhJTTlwRDVkSFZsWmhwNVZrWGtObktkTUhQeG5ldnJBVGFEVzc0c2xWRmdMUGo5OGFsRHdWOXUtb2dveXBoQTRGdlR0ZEtNT1BMLTh5VjBTcUp6UEp2SUZPZnpRMkw1TzZXb09mcXhhUk91Z0hTbUpCOG53clQ4WUpKMnZZNW11Z0JIMVhGdnowMzB5M2xCb0ZLVWtnanNTQzRnR2FpVDJlVTkyOHZQRzRrQkFha25yYU …",
-  "published": "2026-10-22T07:00:00+00:00",
-  "author": "EL PAÍS",
-  "embed": null,
-  "category": "strike",
-  "city": "Madrid",
-  "event_date": "2026-11-04",
-  "severity": 2,
-  "title_zh": "馬德里各大學11月4日至5日發動罷工示威",
-  "note_zh": "旅客抵西首日（11/5）大學校園周邊恐有集會與遊行，注意周邊公車改道。"
- },
- {
   "id": "118a1182bb49",
   "source": "x",
   "url": "https://x.com/3CatInfo/status/2116672830930931731",
@@ -8052,5 +8036,79 @@
   "severity": 2,
   "title_zh": "馬德里線型之城區團體號召響應11-N住宅大罷工",
   "note_zh": "馬德里基層住屋團體持續動員11-N大罷工，加劇當日市區癱瘓風險。"
+ },
+ {
+  "id": "ff7c2fb17375",
+  "source": "x",
+  "url": "https://x.com/laverdaddigi/status/2118132728986009834",
+  "title": "Sánchez anuncia a Cuerpo, primera jornada huelga Universidad Madrid, presidente de ADIF dimite, Zapatero no tiene docume",
+  "text": "Sánchez anuncia a Cuerpo, primera jornada huelga Universidad Madrid, presidente de ADIF dimite, Zapatero no tiene documentación joyas https://t.co/KBoPMr6VUR",
+  "published": "2026-11-05T00:06:10+00:00",
+  "author": "@laverdaddigi",
+  "embed": {
+   "type": "x",
+   "id": "2118132728986009834"
+  },
+  "engagement": 0,
+  "views": 8,
+  "category": "advisory",
+  "city": "Spain",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "西媒綜述馬德里大學罷工首日與鐵路基建局高層異動",
+  "note_zh": "反映馬德里公立大學罷工及Adif高層變動後的鐵路行政動盪。"
+ },
+ {
+  "id": "e31d02f8cac5",
+  "source": "x",
+  "url": "https://x.com/_articwolf/status/2118124791412519129",
+  "title": "Tengo que coger un TREN para subir a Madrid a firmar un contrato justo el día después de la huelga general https://t.co/",
+  "text": "Tengo que coger un TREN para subir a Madrid a firmar un contrato justo el día después de la huelga general https://t.co/xhCQ8v44S4",
+  "published": "2026-11-04T23:34:37+00:00",
+  "author": "@_articwolf",
+  "embed": {
+   "type": "x",
+   "id": "2118124791412519129"
+  },
+  "engagement": 12,
+  "views": 306,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-12",
+  "severity": 3,
+  "title_zh": "民眾擔憂全國大罷工隔日（11/12）火車延續癱瘓",
+  "note_zh": "凸顯11/11大罷工銜接11/12國鐵續罷對赴馬德里火車行程的連鎖衝擊。"
+ },
+ {
+  "id": "ed75e8c0f6dc",
+  "source": "news",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMi0xOGVHRU44a1Y5VVdCYmZIU3lWZHVLc0JxUWlKeno4Wmc0aElJaWloVUw2dmNiNFRvWGhXT1dMOHZLalk2NTIzMnl2bXNzdXRwbXR0bTJvckhhRHEwSkJCYmtMNmotWnZ6RS1KM2ZseW9XYXJ4QXJsMllFZ3dkNkJJWmJNMzFRSkNpaFpRNTNQekY0YW1FVWdkdFJPZWpleXo1RkphQUFYN0lleWxIQ1NtSnhSVzZQQTgtUWR3?oc=5",
+  "title": "Una manifestación recorrerá hoy la calle Alcalá de Madrid: horario y cortes de tráfico previstos",
+  "text": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMi0xOGVHRU44a1Y5VVdCYmZIU3lWZHVLc0JxUWlKeno4Wmc0aElJaWloVUw2dmNiNFRvWGhXT1dMOHZLalk2NTIzMnl2bXNzdXRwbXR0bTJvckhhRHEwSkJCYmtMNmotWnZ6RS1KM2ZseW9XYXJ4QXJsMllFZ3dkNkJJWmJNMzFRSkNpaFpRNTNQekY0YW1FVWdkdFJPZWpleXo1RkphQUFYN0lleWxIQ1NtSnhSVzZQQT …",
+  "published": "2026-11-04T07:27:00+00:00",
+  "author": "Madridinforma",
+  "embed": null,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-04",
+  "severity": 2,
+  "title_zh": "馬德里阿爾卡拉街遊行交管封路資訊",
+  "note_zh": "記錄11/4阿爾卡拉街遊行交管狀況，印證市中心抗爭動員頻率高。"
+ },
+ {
+  "id": "11eb37e235ca",
+  "source": "news",
+  "url": "https://www.libertaddigital.com/libremercado/2026-11-04/huelgas-en-renfe-ouigo-y-adif-el-colapso-ferroviario-se-traslada-a-las-vias-en-noviembre-7486599/",
+  "title": "Huelgas en Renfe, Ouigo y Adif: el colapso ferroviario que se avecina en noviembre",
+  "text": "Los maquinistas de Renfe, de Ouigo y los sindicatos de Adif convocan movilizaciones para reclamar mejoras laborales y seguridad ferroviaria.",
+  "published": null,
+  "author": "Libertad Digital",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-06",
+  "severity": 4,
+  "title_zh": "西媒示警11月Renfe、Ouigo與Adif將釀鐵路連鎖癱瘓",
+  "note_zh": "系統性彙整跨城高鐵、號誌基建及近郊鐵路11月中旬連環罷工風險。"
  }
 ]
