@@ -9956,5 +9956,26 @@
   "severity": 2,
   "title_zh": "馬德里瓦耶卡斯民宅火警致2名員警受傷，非暴亂事件",
   "note_zh": "純屬住宅意外火警但波及警消，旅客行經東南近郊注意交管。"
+ },
+ {
+  "id": "0a4accd2d06f",
+  "source": "x",
+  "url": "https://x.com/diariARA/status/2118429162855710726",
+  "title": "El Govern fixa el 25% de servei en hora punta al transport públic i es manté el funcionament d'urgències i unitats espec",
+  "text": "El Govern fixa el 25% de servei en hora punta al transport públic i es manté el funcionament d'urgències i unitats especials. En canvi, el servei d’autobús que connecta Barcelona amb l'aeroport funcionarà al 50% Aquests seran els serveis mínims durant la vaga de l'11-N 👇 https://t.co/ZNWvNwUMTD",
+  "published": "2026-11-05T19:44:05+00:00",
+  "author": "@diariARA",
+  "embed": {
+   "type": "x",
+   "id": "2118429162855710726"
+  },
+  "engagement": 0,
+  "views": 205,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 4,
+  "title_zh": "加泰官方公布11-N大罷工最低服務：大眾運輸尖峰25%，機場巴士50%",
+  "note_zh": "巴塞隆納11/11地鐵公車尖峰僅25%，機場巴士Aerobús維持50%，急診正常。"
  }
 ]
