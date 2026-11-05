@@ -10051,5 +10051,89 @@
   "severity": 2,
   "title_zh": "馬德里教育廳長拒與工會會面，勞資僵局難解",
   "note_zh": "官方拒絕重啟談判，中小學教師無限期罷工與零星突襲抗議下週恐持續。"
+ },
+ {
+  "id": "62c980022fa7",
+  "source": "x",
+  "url": "https://x.com/analisisDN/status/2118459630883930184",
+  "title": "🏫 Jornada de tensión por la huelga educativa en Madrid Los docentes, tras encerrarse en la sede de Educación, exigen a l",
+  "text": "🏫 Jornada de tensión por la huelga educativa en Madrid Los docentes, tras encerrarse en la sede de Educación, exigen a la Comunidad una negociación urgente para atender sus reivindicaciones laborales #ElAnalisisDN ✖️ @telemadrid #programa348 🔊 https://t.co/VHYMhGT6O8 https://t.co/YV303dKWdP",
+  "published": "2026-11-05T21:45:09+00:00",
+  "author": "@analisisDN",
+  "embed": {
+   "type": "x",
+   "id": "2118459630883930184"
+  },
+  "engagement": 1,
+  "views": 118,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "馬德里教師佔領教育廳抗議，要求大區政府重啟協商",
+  "note_zh": "公立教師罷工行動升級，市中心教育廳周邊警民對峙，無嚴重交通阻斷。"
+ },
+ {
+  "id": "fd3d1a08a94f",
+  "source": "x",
+  "url": "https://x.com/Mmunozort/status/2118458463701655901",
+  "title": "Las acciones de protesta disruptivas como la interrupción por parte de profesores madrileños en Telemadrid sirven para a",
+  "text": "Las acciones de protesta disruptivas como la interrupción por parte de profesores madrileños en Telemadrid sirven para amplificar el mensaje. De momento ya han salido en El Intermedio, Ten o La Séptima. Sigue la huelga y sigue la Comunidad de Madrid sin sentarse a negociar",
+  "published": "2026-11-05T21:40:31+00:00",
+  "author": "@Mmunozort",
+  "embed": {
+   "type": "x",
+   "id": "2118458463701655901"
+  },
+  "engagement": 1,
+  "views": 46,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "馬德里罷工教師突襲電視台抗議，勞資僵局持續僵持",
+  "note_zh": "示威群眾透過突襲電視台提高曝光，市區隨機快閃干擾風險仍存。"
+ },
+ {
+  "id": "3e0fc654c5cd",
+  "source": "x",
+  "url": "https://x.com/SIMEGASindicato/status/2118450787147829671",
+  "title": "Un juzgado de Barcelona declara vulnerado el derecho de huelga de un médico de Bellvitge https://t.co/NpYd136WYW",
+  "text": "Un juzgado de Barcelona declara vulnerado el derecho de huelga de un médico de Bellvitge https://t.co/NpYd136WYW",
+  "published": "2026-11-05T21:10:01+00:00",
+  "author": "@SIMEGASindicato",
+  "embed": {
+   "type": "x",
+   "id": "2118450787147829671"
+  },
+  "engagement": 0,
+  "views": 15,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-05",
+  "severity": 1,
+  "title_zh": "巴塞隆納法院判決資方侵害貝爾維奇醫院醫師罷工權",
+  "note_zh": "反映加泰醫護勞資爭議未解，近期醫療體系常態性抗爭持續。"
+ },
+ {
+  "id": "e20f7b724b4c",
+  "source": "x",
+  "url": "https://x.com/emiliogrande53/status/2118448785290387487",
+  "title": "Hospital 12 de Octubre ( Madrid ) Esta tarde hemos inaugurado el nuevo programa de \" La Diana \" de la Séptima TV, muchas",
+  "text": "Hospital 12 de Octubre ( Madrid ) Esta tarde hemos inaugurado el nuevo programa de \" La Diana \" de la Séptima TV, muchas gracias a la nueva cadena por darnos voz, a las \"vecinas y vecinos de barrios y pueblos de Madrid\", reivindicamos el derecho a una vivienda digna, una sanidad pública de calidad y las justas reivindicaciones de el personal sanitario y otros oficios, volver a las 35 horas, salarios dignos . ¡Sin vivienda no hay salud! ¡ Hacia la huelga del 11N !",
+  "published": "2026-11-05T21:02:03+00:00",
+  "author": "@emiliogrande53",
+  "embed": {
+   "type": "x",
+   "id": "2118448785290387487"
+  },
+  "engagement": 45,
+  "views": 389,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "馬德里十月十二日醫院周邊居民抗議居住與公共醫療",
+  "note_zh": "南部社區持續串聯街頭倡議，為即將到來的大罷工暖身。"
  }
 ]
