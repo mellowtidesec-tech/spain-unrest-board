@@ -10135,5 +10135,68 @@
   "severity": 2,
   "title_zh": "馬德里十月十二日醫院周邊居民抗議居住與公共醫療",
   "note_zh": "南部社區持續串聯街頭倡議，為即將到來的大罷工暖身。"
+ },
+ {
+  "id": "bf94f3ee5ff2",
+  "source": "x",
+  "url": "https://x.com/elperiodico/status/2118471111578935390",
+  "title": "El PP pide reprobar a Collboni y Parlon por los disturbios y saqueos en el centro de Barcelona https://t.co/WmEOCPlxAW",
+  "text": "El PP pide reprobar a Collboni y Parlon por los disturbios y saqueos en el centro de Barcelona https://t.co/WmEOCPlxAW",
+  "published": "2026-11-05T22:30:46+00:00",
+  "author": "@elperiodico",
+  "embed": {
+   "type": "x",
+   "id": "2118471111578935390"
+  },
+  "engagement": 3,
+  "views": 416,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-05",
+  "severity": 1,
+  "title_zh": "巴塞政界促譴責市長處置暴亂搶掠不力",
+  "note_zh": "政界就日前商圈搶掠事件究責，反映當地治安維持緊繃但目前市區平穩。"
+ },
+ {
+  "id": "abbdee10f111",
+  "source": "x",
+  "url": "https://x.com/_PCTE_/status/2118466245087437192",
+  "title": "Este sábado 7N nos vemos en Madrid. Mesa redonda con trabajadoras y trabajadores de varios sindicatos y sectores: educac",
+  "text": "Este sábado 7N nos vemos en Madrid. Mesa redonda con trabajadoras y trabajadores de varios sindicatos y sectores: educación, intervención social, bomberos forestales, ferrocarril y estudiantes. Hablaremos sobre cómo construimos la huelga general desde los centros de trabajo. 📍 Auditorio San Fermín (Usera) · 🕐 11:30h Construyamos la oposición obrera.",
+  "published": "2026-11-05T22:11:26+00:00",
+  "author": "@_PCTE_",
+  "embed": {
+   "type": "x",
+   "id": "2118466245087437192"
+  },
+  "engagement": 58,
+  "views": 663,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-07",
+  "severity": 1,
+  "title_zh": "馬德里烏塞拉區週六舉辦大罷工座談",
+  "note_zh": "11/7上午於Usera區室內演講廳舉行座談，不影響市中心觀光與交通。"
+ },
+ {
+  "id": "b81af4fc8045",
+  "source": "x",
+  "url": "https://x.com/ElPeriodico_Esp/status/2118464539045802336",
+  "title": "Los profesores en huelga abandonan su encierro en Educación tras exigir una negociación urgente a la Comunidad de Madrid",
+  "text": "Los profesores en huelga abandonan su encierro en Educación tras exigir una negociación urgente a la Comunidad de Madrid https://t.co/IbMA15hGMr",
+  "published": "2026-11-05T22:04:39+00:00",
+  "author": "@ElPeriodico_Esp",
+  "embed": {
+   "type": "x",
+   "id": "2118464539045802336"
+  },
+  "engagement": 0,
+  "views": 352,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "馬德里罷工教師結束佔領教育廳建築",
+  "note_zh": "示威教師已撤離教育廳人事處，阿爾卡拉街周邊緊張局勢暫告趨緩。"
  }
 ]
