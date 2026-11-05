@@ -2200,26 +2200,6 @@
   "note_zh": "顯示罷工時人潮湧向地鐵系統易引發骨牌效應，旅客須預留充裕轉乘時間。"
  },
  {
-  "id": "788885b1ae07",
-  "source": "tiktok",
-  "url": "https://www.tiktok.com/@eldiario.es/video/7700983948847140099",
-  "title": "La educación pública madrileña afronta este lunes su tercera semana de huelga indefinida con un nuevo calendario de movi",
-  "text": "La educación pública madrileña afronta este lunes su tercera semana de huelga indefinida con un nuevo calendario de movilizaciones diarias para reclamar \"más recursos y mejoras laborales\", así como \"una negociación\" con la Consejería de Educación #educación #educaciónpública #huelga #madrid #ayuso",
-  "published": "2026-10-26T14:30:56Z",
-  "author": "@eldiario.es",
-  "embed": {
-   "type": "tiktok",
-   "id": "7700983948847140099"
-  },
-  "views": 6958,
-  "category": "strike",
-  "city": "Madrid",
-  "event_date": "2026-10-26",
-  "severity": 2,
-  "title_zh": "馬德里公立教育體系展開無限期罷工與日常示威",
-  "note_zh": "教育工會每日排定抗議行動，市區文教區與行政機關周邊偶有交管。"
- },
- {
   "id": "f6219d6e3782",
   "source": "news",
   "url": "https://www.izquierdadiario.es/La-educacion-andaluza-hacia-el-11N-unir-la-lucha-educativa-con-la-huelga-general",
@@ -9508,5 +9488,89 @@
   "severity": 2,
   "title_zh": "教育廳指控示威群眾恐嚇公務員並將依法嚴懲",
   "note_zh": "政府針對佔領教育廳採取法律與警力雙重應對，雙方對峙白熱化。"
+ },
+ {
+  "id": "ff428969b284",
+  "source": "x",
+  "url": "https://x.com/CSIFENSEMADRID/status/2118361322882543768",
+  "title": "🟢Petición de reunión urgente con el comité de huelga convocada por CSIF a la Consejería de Educación‼️ 🎯Objetivo: nego",
+  "text": "🟢Petición de reunión urgente con el comité de huelga convocada por CSIF a la Consejería de Educación‼️ 🎯Objetivo: negociar y adoptar compromisos. ❌En caso de no respuesta o negativa CSIF se reserva el ejercicio de llevar a cabo acciones legales. https://t.co/Fev3lhqAXY",
+  "published": "2026-11-05T15:14:31+00:00",
+  "author": "@CSIFENSEMADRID",
+  "embed": {
+   "type": "x",
+   "id": "2118361322882543768"
+  },
+  "engagement": 5,
+  "views": 104,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "CSIF工會要求馬德里教育廳召開緊急會議談判",
+  "note_zh": "工會對教育廳下通牒要求立即談判，否則將採法律行動，教育工潮持續激化。"
+ },
+ {
+  "id": "41d3aa7c20b8",
+  "source": "x",
+  "url": "https://x.com/Diari_Alicante/status/2118361049669726615",
+  "title": "Los trenes de Ouigo entre Alicante y Madrid circularán con normalidad tras el acuerdo con SEMAF https://t.co/e1tQkfVGKm",
+  "text": "Los trenes de Ouigo entre Alicante y Madrid circularán con normalidad tras el acuerdo con SEMAF https://t.co/e1tQkfVGKm",
+  "published": "2026-11-05T15:13:26+00:00",
+  "author": "@Diari_Alicante",
+  "embed": {
+   "type": "x",
+   "id": "2118361049669726615"
+  },
+  "engagement": 0,
+  "views": 1,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-06",
+  "severity": 3,
+  "title_zh": "重大進展：Ouigo與司機工會達成協議取消罷工",
+  "note_zh": "重要轉折！Ouigo廉價高鐵已與SEMAF工會達成協議取消罷工，跨城交通壓力大幅緩解。"
+ },
+ {
+  "id": "3b15d564bb95",
+  "source": "x",
+  "url": "https://x.com/electonomics/status/2118356426720485859",
+  "title": "🗣️ AYUSO CARGA CONTRA LOS SINDICATOS 🏛️ La presidenta de Madrid, Isabel Díaz Ayuso, ha cargado hoy en la Asamblea contr",
+  "text": "🗣️ AYUSO CARGA CONTRA LOS SINDICATOS 🏛️ La presidenta de Madrid, Isabel Díaz Ayuso, ha cargado hoy en la Asamblea contra CCOO y UGT por la huelga general del 11 de noviembre. La llamó «huelga mafiosa» y dijo que los sindicatos son «una banda de gente que no quiere trabajar». 💶 Según Ayuso, 569 millones de euros públicos han ido a los sindicatos, 318 de ellos a UGT. No dijo de dónde sale la cifra ni de qué años es. 📅 La huelga dura 24 horas. CCOO y UGT la convocan por los sueldos, la vivienda y l",
+  "published": "2026-11-05T14:55:03+00:00",
+  "author": "@electonomics",
+  "embed": {
+   "type": "x",
+   "id": "2118356426720485859"
+  },
+  "engagement": 1,
+  "views": 10,
+  "category": "advisory",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "馬德里主席阿尤索痛斥大罷工為「黑手黨勒索」",
+  "note_zh": "馬德里地方首長強硬指責兩大工會，官方與工會對抗全面檯面化，促使後續抗爭升級。"
+ },
+ {
+  "id": "702f0c70568f",
+  "source": "x",
+  "url": "https://x.com/ramossalvat/status/2118356035824181568",
+  "title": "🔴 #ÚLTIMAHORA Detinguts a #Lleida dos menors de 15 anys per instigar els aldarulls #Blocus de #Barcelona del 24 d'octubr",
+  "text": "🔴 #ÚLTIMAHORA Detinguts a #Lleida dos menors de 15 anys per instigar els aldarulls #Blocus de #Barcelona del 24 d'octubre. Un té nacionalitat espanyola i l'altre no. Arrestats per Informació de @Policia. @elnacionalcat https://t.co/TQMdxCm8RJ",
+  "published": "2026-11-05T14:53:30+00:00",
+  "author": "@ramossalvat",
+  "embed": {
+   "type": "x",
+   "id": "2118356035824181568"
+  },
+  "engagement": 30,
+  "views": 989,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "警方於萊里達拘捕兩名涉巴塞Blocus騷亂主謀少年",
+  "note_zh": "加泰警方追查Blocus煽動者擴大至外圍城市，巴塞隆納市區目前暴亂源頭持續受壓制。"
  }
 ]
