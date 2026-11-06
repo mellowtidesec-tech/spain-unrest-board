@@ -10940,5 +10940,84 @@
   "severity": 1,
   "title_zh": "馬德里西南郊阿爾科爾孔今日舉辦大罷工誓師集會",
   "note_zh": "外圍市鎮工會室內動員，對馬德里市區主要景點交通無直接衝擊。"
+ },
+ {
+  "id": "27b1db562f0f",
+  "source": "x",
+  "url": "https://x.com/IISanse/status/2118671834778304834",
+  "title": "📣 Cuarta semana de #HuelgaEducativa y la Comunidad de Madrid sigue sin negociar con el profesorado🏫 Hemos pedido en la C",
+  "text": "📣 Cuarta semana de #HuelgaEducativa y la Comunidad de Madrid sigue sin negociar con el profesorado🏫 Hemos pedido en la Comisión Social #que la alcaldesa de Sanse y la concejala de Educación exijan negociar de buena fe, como obliga la ley ⚖️ 👉 https://t.co/p0Zx8sGclB #EducaciónPública #HuelgaIndefinida #HuelgaIndefinidaEducación #HuelgaDocente #Sanse #SanSebastiánDeLosReyes #IzquierdaIndependiente #LaPúblicaSePlanta #MareaVerde",
+  "published": "2026-11-06T11:48:23+00:00",
+  "author": "@IISanse",
+  "embed": {
+   "type": "x",
+   "id": "2118671834778304834"
+  },
+  "engagement": 0,
+  "views": 3,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-06",
+  "severity": 2,
+  "title_zh": "馬德里公立教育罷工邁入第四週且勞資僵局持續",
+  "note_zh": "公立學校罷工持續，可能伴隨零星抗議但市區整體觀光交通大致正常。"
+ },
+ {
+  "id": "ccb91fbcda33",
+  "source": "news",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORkpINjg2QW81RHJYVVRtd1FHQTZQWHJobWg4Sk9ZclNuU1Azd0NORXN2Mk9hVHFBUk9pVmc5MW0zTjNSX1hrVDl2NWtuczVYMklJM3FYanltcUJINFVFVzA4QW5VUUtrdUNKdGMtbm1iMW8ycGpyNG4ybTIxWHoxb05UaWROcFFTVjl0X3VLVG0?oc=5",
+  "title": "La huelga de la OBC obliga a cancelar sus tres conciertos en Madrid",
+  "text": "La huelga de la OBC obliga a can …",
+  "published": "2026-11-06T11:36:08+00:00",
+  "author": "Scherzo",
+  "embed": null,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-06",
+  "severity": 2,
+  "title_zh": "巴塞隆納交響樂團罷工導致馬德里三場音樂會取消",
+  "note_zh": "OBC交響樂團罷工波及馬德里演出，持藝文活動門票旅客需注意節目取消退款。"
+ },
+ {
+  "id": "2643e7fef929",
+  "source": "x",
+  "url": "https://x.com/CCOOSanidadMad/status/2118671087907361031",
+  "title": "¿Y si paramos el país el próximo 11 de noviembre? Profesionales de todos los sectores sanitarios y sociosanitarios tene",
+  "text": "¿Y si paramos el país el próximo 11 de noviembre? Profesionales de todos los sectores sanitarios y sociosanitarios tenemos motivos para ir a la huelga. Salarios dignos, poder adquisitivo y futuro. ¡Vamos la huelga! #HuelgaGeneral11N @ccoomadrid @fssccoo @CCOO @zupo21 https://t.co/yQa5Up9vyn",
+  "published": "2026-11-06T11:45:25+00:00",
+  "author": "@CCOOSanidadMad",
+  "embed": {
+   "type": "x",
+   "id": "2118671087907361031"
+  },
+  "engagement": 0,
+  "views": 16,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "CCOO醫衛工會號召全體衛生人員投入11-N全國大罷工",
+  "note_zh": "馬德里醫療界持續串聯大罷工，11/11非緊急醫療服務恐受限。"
+ },
+ {
+  "id": "293b06a12c9d",
+  "source": "x",
+  "url": "https://x.com/cgtcorreosm/status/2118668703034163416",
+  "title": "La empresa impone servicios mínimos como intento de vulnerar el derecho legítimo a la huelga. Desde CGT denunciaremos e",
+  "text": "La empresa impone servicios mínimos como intento de vulnerar el derecho legítimo a la huelga. Desde CGT denunciaremos este abuso",
+  "published": "2026-11-06T11:35:56+00:00",
+  "author": "@cgtcorreosm",
+  "embed": {
+   "type": "x",
+   "id": "2118668703034163416"
+  },
+  "engagement": 0,
+  "views": 10,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "郵政CGT工會抨擊官方最低服務令並備戰罷工",
+  "note_zh": "反映工會對11-N大罷工最低服務之抗爭態度，郵政與部分公共服務恐延誤。"
  }
 ]
