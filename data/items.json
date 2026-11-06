@@ -10198,5 +10198,38 @@
   "severity": 2,
   "title_zh": "馬德里罷工教師結束佔領教育廳建築",
   "note_zh": "示威教師已撤離教育廳人事處，阿爾卡拉街周邊緊張局勢暫告趨緩。"
+ },
+ {
+  "id": "9936bae770fe",
+  "source": "news",
+  "url": "https://www.infobae.com/espana/2026/11/05/huelga-general-del-11-de-noviembre-estos-son-los-horarios-servicios-minimos-y-sectores-afectados/",
+  "title": "Huelga general del 11 de noviembre: estos son los horarios, servicios mínimos y sectores afectados",
+  "text": "España afronta este próximo miércoles 11 de noviembre una huelga general de 24 horas convocada por CCOO, UGT, CGT y el Sindicato de Inquilinas,...",
+  "published": null,
+  "author": "Infobae",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 4,
+  "title_zh": "西班牙11/11跨行業全國大罷工最低服務與受影響行業指南",
+  "note_zh": "各大工會24小時大罷工衝擊交通航空與校園，旅客需備妥應變方案。"
+ },
+ {
+  "id": "1ff1b61253d9",
+  "source": "threads",
+  "url": "https://www.threads.com/@mercedeszarzalejo/post/DfW_vEqD0Er",
+  "title": "Secuestrar un edificio oficial. Hacer barricadas con el mobiliario escolar. Colarse en un plató de televisión. Cortar ca",
+  "text": "Secuestrar un edificio oficial. Hacer barricadas con el mobiliario escolar. Colarse en un plató de televisión. Cortar carreteras para que los madrileños no puedan ir a trabajar. Los activistas no ejercen el legítimo derecho a la huelga, ejercen la delincuencia con prácticas mafiosas.",
+  "published": "2026-11-05T12:08:11+00:00",
+  "author": "@mercedeszarzalejo",
+  "embed": null,
+  "engagement": 300,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "馬德里政界強烈譴責罷工教師阻路與佔領政府機關行徑",
+  "note_zh": "反映馬德里教育抗爭激化引發政界撻伐，市區仍有突發陳抗風險。"
  }
 ]
