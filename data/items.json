@@ -10430,5 +10430,63 @@
   "severity": 2,
   "title_zh": "馬德里烏塞拉罷工委員會號召11/7遊行推進11-N大罷工",
   "note_zh": "華人聚集之烏塞拉區週六將發起罷工暖身遊行，可能造成局部街區交管與人潮聚集。"
+ },
+ {
+  "id": "a79330782901",
+  "source": "news",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXhrUjctc0ZUWTF2dmhBbjZGa2tXaHdXbUdJWlBxSnhLeGJzMDYteVZrV0QwemRaSTdjVnlBR2lDRkF1dWV3cHhiSjFidElNUGI1c00wQUI2d3pEeXNMb0FtQlh6ZFpnQnJDd1JCRHFVVkhCclFYLWNfVUhaVE1LcS1ENFdMTmpnb1Q3U25Pd0Z6LTVNR2hUTVh0SldrVG9GanNDeUk2cTPSAbwBQVVfeXFMTkxveEp0QWdMLUZkZV81d0lXMC1sWURTYmVhQzdHdzhUZHJzRG5ET19iY3VvRmZoZFg1a25xWHdQZzVQZV83V0dUTFIxSDQ2Y1BULV9VZTFnV1Q0SC1scjRkMHlWbTdrOTVfX3JYZG1BamtRX2hQS0M5NUszaU1tVUpqa1JJU0dSaVozejd6UmlWRjJYcXZvRHZndWtoemJwdTNEUFU1UUNJckZkWjZRSG1kWndfakw2TTRBSXo?oc=5",
+  "title": "La educación pública madrileña y la urgencia de negociar",
+  "text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXhrUjctc0ZUWTF2dmhBbjZGa2tXaHdXbUdJWlBxSnhLeGJzMDYteVZrV0QwemRaSTdjVnlBR2lDRkF1dWV3cHhiSjFidElNUGI1c00wQUI2d3pEeXNMb0FtQlh6ZFpnQnJDd1JCRHFVVkhCclFYLWNfVUhaVE1LcS1ENFdMTmpnb1Q3U25Pd0Z6LTVNR2hUTVh0SldrVG9GanNDeUk2cTPSAbwBQVVfeXFMTkxveEp0QW …",
+  "published": "2026-11-06T04:30:01+00:00",
+  "author": "EL PAÍS",
+  "embed": null,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-06",
+  "severity": 2,
+  "title_zh": "西媒評論馬德里公立教育抗爭與談判僵局",
+  "note_zh": "馬德里教育體系抗爭未歇，市區仍隨時有快閃陳情或遊行阻路。"
+ },
+ {
+  "id": "787167bfb6a3",
+  "source": "x",
+  "url": "https://x.com/dcanadal/status/2118605514904870989",
+  "title": "La huelga universitaria de Madrid cierra con una gran marcha de profesores de todas las etapas https://t.co/y9dMNigMTr",
+  "text": "La huelga universitaria de Madrid cierra con una gran marcha de profesores de todas las etapas https://t.co/y9dMNigMTr",
+  "published": "2026-11-06T07:24:51+00:00",
+  "author": "@dcanadal",
+  "embed": {
+   "type": "x",
+   "id": "2118605514904870989"
+  },
+  "engagement": 0,
+  "views": 3,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-05",
+  "severity": 2,
+  "title_zh": "馬德里大學罷工告段落，各級教師聯合大遊行收尾",
+  "note_zh": "公立大學48小時罷工告終，後續轉入籌備下週全國大罷工。"
+ },
+ {
+  "id": "13fbe0d3a60e",
+  "source": "x",
+  "url": "https://x.com/DGobiernoMadrid/status/2118599513195876657",
+  "title": "📢Manifestación para HOY en Madrid | Información de servicio público 🕠Horario: de 17:30 h a 20:30 h ⤵️Más información⤵",
+  "text": "📢Manifestación para HOY en Madrid | Información de servicio público 🕠Horario: de 17:30 h a 20:30 h ⤵️Más información⤵️ https://t.co/XgUiWpXhWC",
+  "published": "2026-11-06T07:01:00+00:00",
+  "author": "@DGobiernoMadrid",
+  "embed": {
+   "type": "x",
+   "id": "2118599513195876657"
+  },
+  "engagement": 0,
+  "views": 198,
+  "category": "advisory",
+  "city": "Madrid",
+  "event_date": "2026-11-06",
+  "severity": 2,
+  "title_zh": "馬德里中央政府代表處發布今日傍晚市中心示威警示",
+  "note_zh": "官方警示今日17:30至20:30市中心示威交管，行經鬧區需留意。"
  }
 ]
