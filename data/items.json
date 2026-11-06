@@ -10593,5 +10593,89 @@
   "severity": 2,
   "title_zh": "馬德里市中心地鐵站出入口出現大罷工宣傳紅背心糾察",
   "note_zh": "工會進駐市中心地鐵站發送傳單宣傳11-N罷工，目前動線尚屬正常。"
+ },
+ {
+  "id": "1d2a0dc41ced",
+  "source": "x",
+  "url": "https://x.com/erickprometeom/status/2118634940409495991",
+  "title": "🚨🇪🇸 LA POLICÍA REGISTRA LA SEDE DE NÚCLEO NACIONAL Agentes registran desde primera hora de este viernes la sede del par",
+  "text": "🚨🇪🇸 LA POLICÍA REGISTRA LA SEDE DE NÚCLEO NACIONAL Agentes registran desde primera hora de este viernes la sede del partido en Madrid y practican varias detenciones por los disturbios de Gijón, según fuentes de la investigación. #España #PolicíaNacional https://t.co/CpJlwYw73m",
+  "published": "2026-11-06T09:21:46+00:00",
+  "author": "@erickprometeom",
+  "embed": {
+   "type": "x",
+   "id": "2118634940409495991"
+  },
+  "engagement": 0,
+  "views": 28,
+  "category": "advisory",
+  "city": "Madrid",
+  "event_date": "2026-11-06",
+  "severity": 2,
+  "title_zh": "警方搜查馬德里極右翼團體總部並逮捕涉暴成員",
+  "note_zh": "警方突襲搜查極右翼總部，因應明日西班牙廣場集會，敏感據點維安升級。"
+ },
+ {
+  "id": "e552264385ec",
+  "source": "x",
+  "url": "https://x.com/CANAL33/status/2118629471104156006",
+  "title": "Huelga general por la vivienda #Latina @madrid #11NHuelgaGeneral https://t.co/9Qb8NgcgRH",
+  "text": "Huelga general por la vivienda #Latina @madrid #11NHuelgaGeneral https://t.co/9Qb8NgcgRH",
+  "published": "2026-11-06T09:00:02+00:00",
+  "author": "@CANAL33",
+  "embed": {
+   "type": "x",
+   "id": "2118629471104156006"
+  },
+  "engagement": 2,
+  "views": 61,
+  "category": "strike",
+  "city": "Madrid",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "馬德里拉蒂納區基層展開11-N住宅大罷工動員",
+  "note_zh": "馬德里西南部拉蒂納區串聯大罷工，顯示社區動員廣泛但目前限於宣傳。"
+ },
+ {
+  "id": "5f9b52b494d8",
+  "source": "x",
+  "url": "https://x.com/IzquierdaRevol/status/2118623418425741814",
+  "title": "#HuelgaGeneral11N 🔑 || El 11N lo paramos todo en Madrid. A las 18h manifestación unitaria desde Atocha a Plaza España.",
+  "text": "#HuelgaGeneral11N 🔑 || El 11N lo paramos todo en Madrid. A las 18h manifestación unitaria desde Atocha a Plaza España. Expropiar a los rentistas, por la vivienda digna, pública y universal. https://t.co/CLzDohJj1D",
+  "published": "2026-11-06T08:35:59+00:00",
+  "author": "@IzquierdaRevol",
+  "embed": {
+   "type": "x",
+   "id": "2118623418425741814"
+  },
+  "engagement": 4,
+  "views": 52,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-11",
+  "severity": 4,
+  "title_zh": "11-N馬德里大遊行路線確定：18時阿托查出發走向西班牙廣場",
+  "note_zh": "11/11傍晚18時遊行橫跨阿托查經普拉多大道至西班牙廣場，沿線與市中心交通恐癱瘓。"
+ },
+ {
+  "id": "66ad32360df1",
+  "source": "x",
+  "url": "https://x.com/gaceta_es/status/2118621912699928986",
+  "title": "Detenidos dos menores de origen magrebí por su participación en la organización de los disturbios 'Blocus' en Barcelona",
+  "text": "Detenidos dos menores de origen magrebí por su participación en la organización de los disturbios 'Blocus' en Barcelona el pasado 24 de octubre https://t.co/IRp0Qp92dJ",
+  "published": "2026-11-06T08:30:00+00:00",
+  "author": "@gaceta_es",
+  "embed": {
+   "type": "x",
+   "id": "2118621912699928986"
+  },
+  "engagement": 22,
+  "views": 718,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-06",
+  "severity": 2,
+  "title_zh": "巴塞隆納警方再逮捕兩名涉Blocus騷亂組織之未成年人",
+  "note_zh": "警方持續追查先前騷亂組織者，市區治安維持穩定可控。"
  }
 ]
