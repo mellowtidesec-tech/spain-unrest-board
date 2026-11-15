@@ -641,27 +641,6 @@
   "note_zh": "加泰地區企業工會加速串聯，預計巴塞隆納市區商業與運輸11/11面臨全面停頓。"
  },
  {
-  "id": "9ad4316e54bb",
-  "source": "x",
-  "url": "https://x.com/OES_Madrid/status/2118444469875839429",
-  "title": "Continuamos movilizándonos por el derecho de la clase obrera a una educación pública, universal y de calidad. ¡Hacia l",
-  "text": "Continuamos movilizándonos por el derecho de la clase obrera a una educación pública, universal y de calidad. ¡Hacia la huelga general! https://t.co/icI5TAG3x1",
-  "published": "2026-11-05T20:44:55+00:00",
-  "author": "@OES_Madrid",
-  "embed": {
-   "type": "x",
-   "id": "2118444469875839429"
-  },
-  "engagement": 3,
-  "views": 16,
-  "category": "strike",
-  "city": "Madrid",
-  "event_date": "2026-11-11",
-  "severity": 2,
-  "title_zh": "馬德里學生組織號召持續動員邁向全國大罷工",
-  "note_zh": "學生組織號召擴大動員並支持11/11大罷工，市區校園周邊可能有零星宣傳集會。"
- },
- {
   "id": "62c980022fa7",
   "source": "x",
   "url": "https://x.com/analisisDN/status/2118459630883930184",
@@ -702,48 +681,6 @@
   "severity": 2,
   "title_zh": "馬德里罷工教師突襲電視台抗議，勞資僵局持續僵持",
   "note_zh": "示威群眾透過突襲電視台提高曝光，市區隨機快閃干擾風險仍存。"
- },
- {
-  "id": "3e0fc654c5cd",
-  "source": "x",
-  "url": "https://x.com/SIMEGASindicato/status/2118450787147829671",
-  "title": "Un juzgado de Barcelona declara vulnerado el derecho de huelga de un médico de Bellvitge https://t.co/NpYd136WYW",
-  "text": "Un juzgado de Barcelona declara vulnerado el derecho de huelga de un médico de Bellvitge https://t.co/NpYd136WYW",
-  "published": "2026-11-05T21:10:01+00:00",
-  "author": "@SIMEGASindicato",
-  "embed": {
-   "type": "x",
-   "id": "2118450787147829671"
-  },
-  "engagement": 0,
-  "views": 15,
-  "category": "strike",
-  "city": "Barcelona",
-  "event_date": "2026-11-05",
-  "severity": 1,
-  "title_zh": "巴塞隆納法院判決資方侵害貝爾維奇醫院醫師罷工權",
-  "note_zh": "反映加泰醫護勞資爭議未解，近期醫療體系常態性抗爭持續。"
- },
- {
-  "id": "e20f7b724b4c",
-  "source": "x",
-  "url": "https://x.com/emiliogrande53/status/2118448785290387487",
-  "title": "Hospital 12 de Octubre ( Madrid ) Esta tarde hemos inaugurado el nuevo programa de \" La Diana \" de la Séptima TV, muchas",
-  "text": "Hospital 12 de Octubre ( Madrid ) Esta tarde hemos inaugurado el nuevo programa de \" La Diana \" de la Séptima TV, muchas gracias a la nueva cadena por darnos voz, a las \"vecinas y vecinos de barrios y pueblos de Madrid\", reivindicamos el derecho a una vivienda digna, una sanidad pública de calidad y las justas reivindicaciones de el personal sanitario y otros oficios, volver a las 35 horas, salarios dignos . ¡Sin vivienda no hay salud! ¡ Hacia la huelga del 11N !",
-  "published": "2026-11-05T21:02:03+00:00",
-  "author": "@emiliogrande53",
-  "embed": {
-   "type": "x",
-   "id": "2118448785290387487"
-  },
-  "engagement": 45,
-  "views": 389,
-  "category": "protest",
-  "city": "Madrid",
-  "event_date": "2026-11-05",
-  "severity": 2,
-  "title_zh": "馬德里十月十二日醫院周邊居民抗議居住與公共醫療",
-  "note_zh": "南部社區持續串聯街頭倡議，為即將到來的大罷工暖身。"
  },
  {
   "id": "bf94f3ee5ff2",
