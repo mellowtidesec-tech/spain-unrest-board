@@ -677,48 +677,6 @@
   "note_zh": "雖然Ouigo取消11/6罷工，但CCOO工會計劃在11/17將鐵路罷工擴至所有民營高鐵，長途移動極高風險。"
  },
  {
-  "id": "787167bfb6a3",
-  "source": "x",
-  "url": "https://x.com/dcanadal/status/2118605514904870989",
-  "title": "La huelga universitaria de Madrid cierra con una gran marcha de profesores de todas las etapas https://t.co/y9dMNigMTr",
-  "text": "La huelga universitaria de Madrid cierra con una gran marcha de profesores de todas las etapas https://t.co/y9dMNigMTr",
-  "published": "2026-11-06T07:24:51+00:00",
-  "author": "@dcanadal",
-  "embed": {
-   "type": "x",
-   "id": "2118605514904870989"
-  },
-  "engagement": 0,
-  "views": 3,
-  "category": "protest",
-  "city": "Madrid",
-  "event_date": "2026-11-05",
-  "severity": 2,
-  "title_zh": "馬德里大學罷工告段落，各級教師聯合大遊行收尾",
-  "note_zh": "公立大學48小時罷工告終，後續轉入籌備下週全國大罷工。"
- },
- {
-  "id": "13fbe0d3a60e",
-  "source": "x",
-  "url": "https://x.com/DGobiernoMadrid/status/2118599513195876657",
-  "title": "📢Manifestación para HOY en Madrid | Información de servicio público 🕠Horario: de 17:30 h a 20:30 h ⤵️Más información⤵",
-  "text": "📢Manifestación para HOY en Madrid | Información de servicio público 🕠Horario: de 17:30 h a 20:30 h ⤵️Más información⤵️ https://t.co/XgUiWpXhWC",
-  "published": "2026-11-06T07:01:00+00:00",
-  "author": "@DGobiernoMadrid",
-  "embed": {
-   "type": "x",
-   "id": "2118599513195876657"
-  },
-  "engagement": 0,
-  "views": 198,
-  "category": "advisory",
-  "city": "Madrid",
-  "event_date": "2026-11-06",
-  "severity": 2,
-  "title_zh": "馬德里中央政府代表處發布今日傍晚市中心示威警示",
-  "note_zh": "官方警示今日17:30至20:30市中心示威交管，行經鬧區需留意。"
- },
- {
   "id": "7d55851c097d",
   "source": "x",
   "url": "https://x.com/InquilinatoMad/status/2118620647152566327",
@@ -801,27 +759,6 @@
   "severity": 2,
   "title_zh": "馬德里基層團體聲援教育罷工要求衛生教育部門協商",
   "note_zh": "市中心各區仍有罷工糾察與快閃集會，行經政府機構需留意。"
- },
- {
-  "id": "c6add7bc7702",
-  "source": "x",
-  "url": "https://x.com/mr_big_sp/status/2118611730737578036",
-  "title": "Las bocas de metro del centro de Madrid se tiñen de petos rojos llamando a una huelga general surrealista (o inverosímil",
-  "text": "Las bocas de metro del centro de Madrid se tiñen de petos rojos llamando a una huelga general surrealista (o inverosímil, como diría cierto exministro).",
-  "published": "2026-11-06T07:49:33+00:00",
-  "author": "@mr_big_sp",
-  "embed": {
-   "type": "x",
-   "id": "2118611730737578036"
-  },
-  "engagement": 0,
-  "views": 24,
-  "category": "strike",
-  "city": "Madrid",
-  "event_date": "2026-11-06",
-  "severity": 2,
-  "title_zh": "馬德里市中心地鐵站出入口出現大罷工宣傳紅背心糾察",
-  "note_zh": "工會進駐市中心地鐵站發送傳單宣傳11-N罷工，目前動線尚屬正常。"
  },
  {
   "id": "1d2a0dc41ced",
