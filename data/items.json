@@ -1538,5 +1538,53 @@
   "severity": 1,
   "title_zh": "馬德里公立教師於政黨造勢場外發起零星快閃抗議",
   "note_zh": "在莫斯托萊斯等近郊城鎮局部抗爭，對馬德里核心觀光區無衝擊。"
+ },
+ {
+  "id": "b6d526b09912",
+  "source": "news",
+  "url": "https://es.euronews.com/2026/11/12/fuerza-en-la-calle-pero-seguimiento-escaso-en-el-trabajo-la-huelga-general-del-11n",
+  "title": "La huelga general del 11N en España, en cifras: un balance desigual",
+  "text": "Los datos en el consumo eléctrico durante la jornada en toda España, impulsada para protestar contra el precio de la vivienda y el coste de la vida,...",
+  "published": null,
+  "author": "Euronews.com",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "西媒以用電量數據分析11-N全國大罷工成效參差",
+  "note_zh": "回顧11/11大罷工全國各行業響應程度，目前市區已回歸常態。"
+ },
+ {
+  "id": "b497082805bd",
+  "source": "news",
+  "url": "https://rtvc.es/huelga-general-11-noviembre-2026/",
+  "title": "Piquetes y movilizaciones marcan la huelga general por la vivienda y salario digno",
+  "text": "Las primeras protestas de esta huelga general se iniciaron en Cataluña, Madrid, Valencia, Andalucía y Aragón.",
+  "published": null,
+  "author": "Radio Televisión Canaria",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "糾察線與集會標誌加泰、馬德里等多區響應住房大罷工",
+  "note_zh": "記錄11/11當天多區糾察動員，為罷工當日概況報導。"
+ },
+ {
+  "id": "4c3ac94c6749",
+  "source": "news",
+  "url": "https://ajuntament.barcelona.cat/premsa/2026/11/11/lajuntament-de-barcelona-registra-un-seguiment-de-la-vaga-del-18-de-la-plantilla/",
+  "title": "L’Ajuntament de Barcelona registra un seguiment de la vaga del 18% de la plantilla – Servei de Premsa",
+  "text": "11/11/2026 | Imprimeix. Temps estimat de lectura: 2 minuts. Les xifres són desiguals per sectors i els serveis mínims funcionen amb normalitat per garantir...",
+  "published": null,
+  "author": "Ajuntament de Barcelona",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 1,
+  "title_zh": "巴塞隆納市府統計11/11大罷工市政公務人員響應率約18%",
+  "note_zh": "巴塞隆納官方公布罷工參與率，顯示市政基本服務維持正常運作。"
  }
 ]
