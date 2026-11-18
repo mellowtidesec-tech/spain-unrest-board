@@ -1444,5 +1444,21 @@
   "severity": 2,
   "title_zh": "聖胡斯特與下約夫雷加特動員糾察線響應11N罷工",
   "note_zh": "屬11/11大罷工巴塞隆納都會圈基層動員，事件已過對當前行程無新影響。"
+ },
+ {
+  "id": "881695819186",
+  "source": "news",
+  "url": "https://english.elpais.com/spain/2026-11-12/spains-general-strike-draws-uneven-participation-and-large-street-protests.html",
+  "title": "Spain’s general strike draws uneven participation and large street protests",
+  "text": "",
+  "published": "2026-11-12T15:13:53.311964+00:00",
+  "author": "EL PAÍS English",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "外媒回顧西國11-N全國大罷工動員參差但引發大規模街頭示威",
+  "note_zh": "反映11/11大罷工整體情況，主要衝擊已過，目前市區秩序與交通均已恢復常態。"
  }
 ]
