@@ -1428,5 +1428,21 @@
   "severity": 1,
   "title_zh": "巴塞隆納市府統計11/11大罷工市政公務人員響應率約18%",
   "note_zh": "巴塞隆納官方公布罷工參與率，顯示市政基本服務維持正常運作。"
+ },
+ {
+  "id": "d1f8a1b99a9b",
+  "source": "news",
+  "url": "https://www.radiodesvern.com/news/la-vaga-general-de-l11n-mobilitzara-sant-just-amb-piquets-i-convocatories-al-baix-llobregat-i-barcelona/",
+  "title": "La vaga general de l'11N mobilitzarà Sant Just amb piquets i convocatòries al Baix Llobregat i Barcelona",
+  "text": "",
+  "published": null,
+  "author": "Ràdio Desvern",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "聖胡斯特與下約夫雷加特動員糾察線響應11N罷工",
+  "note_zh": "屬11/11大罷工巴塞隆納都會圈基層動員，事件已過對當前行程無新影響。"
  }
 ]
