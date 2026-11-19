@@ -1460,5 +1460,21 @@
   "severity": 3,
   "title_zh": "外媒回顧西國11-N全國大罷工動員參差但引發大規模街頭示威",
   "note_zh": "反映11/11大罷工整體情況，主要衝擊已過，目前市區秩序與交通均已恢復常態。"
+ },
+ {
+  "id": "94377675ae17",
+  "source": "news",
+  "url": "https://www.antena3.com/noticias/sociedad/video-mercamadrid-mercabarna-focos-tension-incidentes-huelga-general_202611116af40d4fd3bddc0868ad575f.html",
+  "title": "VÍDEO: Mercamadrid y Mercabarna, focos de tensión e incidentes durante la huelga general",
+  "text": "",
+  "published": null,
+  "author": "Antena 3 Noticias",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "馬德里與巴塞隆納大型批發市場於11-N罷工期間爆發糾察推擠",
+  "note_zh": "物流轉運點曾遭罷工糾察圍堵，但主要觀光區及大眾客運未受直接波及。"
  }
 ]
