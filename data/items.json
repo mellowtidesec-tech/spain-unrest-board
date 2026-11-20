@@ -1524,5 +1524,37 @@
   "severity": 3,
   "title_zh": "加泰媒分析11-N大罷工動員規模創14年來新高紀錄",
   "note_zh": "反映住房與生活成本民怨深厚，大罷工雖已結束，但中長期仍存社會動員氛圍。"
+ },
+ {
+  "id": "dbdcba42748d",
+  "source": "news",
+  "url": "https://laveulliure.ad/ca/article/la-vaga-general-talla-lacces-andorra-la-n-260-i-obliga-cancellar-autobusos-cap-barcelona-i",
+  "title": "La vaga general a Espanya talla l'accés a Andorra per la carretera N-260 i obliga a cancel·lar autobusos cap a Barcelona i Lleida",
+  "text": "",
+  "published": null,
+  "author": "La Veu Lliure",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "11-N罷工封鎖N-260道路致往巴塞隆納長途客運取消",
+  "note_zh": "罷工當日安道爾聯外道路受阻並波及往巴塞隆納客運，事態已隨罷工結束排除。"
+ },
+ {
+  "id": "5266a09226e5",
+  "source": "news",
+  "url": "https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261112/vaga-general-punxa-barcelona-seguiment-escas/1003742811241_0.html",
+  "title": "La vaga general 'punxa' a Barcelona amb un seguiment escàs",
+  "text": "",
+  "published": null,
+  "author": "Metrópoli",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 1,
+  "title_zh": "地方媒評巴塞隆納11-N大罷工民間整體響應不如預期",
+  "note_zh": "指出巴塞隆納民間與商業響應參差，多數商業運作維持正常，未全面癱瘓。"
  }
 ]
