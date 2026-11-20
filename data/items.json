@@ -1556,5 +1556,21 @@
   "severity": 1,
   "title_zh": "地方媒評巴塞隆納11-N大罷工民間整體響應不如預期",
   "note_zh": "指出巴塞隆納民間與商業響應參差，多數商業運作維持正常，未全面癱瘓。"
+ },
+ {
+  "id": "529cb709d93f",
+  "source": "news",
+  "url": "https://www.eltriangle.eu/2026/11/11/la-vaga-omple-els-carrers-de-catalunya-amb-un-seguiment-del-84-segons-els-sindicats/",
+  "title": "La vaga omple els carrers de Catalunya amb un seguiment del 84% segons els sindicats",
+  "text": "",
+  "published": null,
+  "author": "El Triangle",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "工會稱11-N加泰隆尼亞罷工響應率達84%並佔滿街頭",
+  "note_zh": "媒體回顧11/11加泰大罷工工會聲明數據，事態已完全平息，供旅客掌握動員背景。"
  }
 ]
