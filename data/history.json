@@ -15562,5 +15562,83 @@
     "cost_micro": 0
    }
   ]
+ },
+ {
+  "generated_at": "2026-11-20T12:09:39.847111+00:00",
+  "level": 2,
+  "trend": "flat",
+  "kept": 91,
+  "new_raw": 1,
+  "treg_cost_micro": 0,
+  "treg_calls": 13,
+  "treg_errors": 10,
+  "model": "gemini-flash-latest",
+  "tools": [
+   {
+    "tool": "crawl4ai.google.serp.news",
+    "status": 402,
+    "cost_micro": 0
+   },
+   {
+    "tool": "crawl4ai.google.serp.news",
+    "status": 402,
+    "cost_micro": 0
+   },
+   {
+    "tool": "crawl4ai.google.serp.news",
+    "status": 402,
+    "cost_micro": 0
+   },
+   {
+    "tool": "crawl4ai.google.serp.news",
+    "status": 402,
+    "cost_micro": 0
+   },
+   {
+    "tool": "crawl4ai.google.serp.news",
+    "status": 402,
+    "cost_micro": 0
+   },
+   {
+    "tool": "tinyfish.web.search.news",
+    "status": 200,
+    "cost_micro": 0
+   },
+   {
+    "tool": "tinyfish.web.search.news",
+    "status": 200,
+    "cost_micro": 0
+   },
+   {
+    "tool": "tinyfish.web.search.news",
+    "status": 200,
+    "cost_micro": 0
+   },
+   {
+    "tool": "anyapi.x.search.posts",
+    "status": 402,
+    "cost_micro": 0
+   },
+   {
+    "tool": "crawl4ai.youtube.search.videos",
+    "status": 402,
+    "cost_micro": 0
+   },
+   {
+    "tool": "crawl4ai.tiktok.search.videos",
+    "status": 402,
+    "cost_micro": 0
+   },
+   {
+    "tool": "scrapecreators.x.v1-threads-search",
+    "status": 402,
+    "cost_micro": 0
+   },
+   {
+    "tool": "scrapecreators.x.v1-instagram-search-hashtag",
+    "status": 402,
+    "cost_micro": 0
+   }
+  ]
  }
 ]
