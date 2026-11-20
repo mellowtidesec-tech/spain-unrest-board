@@ -1476,5 +1476,53 @@
   "severity": 2,
   "title_zh": "工會宣稱11-N大罷工成功並預告未來將展開新一輪動員",
   "note_zh": "工會示警後續可能發動新一波抗爭，旅客需留意中長期動態。"
+ },
+ {
+  "id": "96b791dfe79c",
+  "source": "news",
+  "url": "https://naciodigital.cat/societat/aturem-el-pais-la-vaga-general-de-l11-n-pas-a-pas.html",
+  "title": "«Aturem el país»: la vaga general de l'11-N, pas a pas",
+  "text": "",
+  "published": null,
+  "author": "Nació Digital",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "加泰媒回顧11-N大罷工「癱瘓國家」全日動態紀錄",
+  "note_zh": "詳述11/11加泰境內罷工與抗爭歷程，事態已平息，供旅客了解歷史情境。"
+ },
+ {
+  "id": "6b1969724ab2",
+  "source": "news",
+  "url": "https://ajuntament.barcelona.cat/premsa/2026/11/12/barcelona-recupera-la-normalitat-despres-dels-incidents-registrats-en-finalitzar-la-jornada-de-vaga-general/",
+  "title": "Barcelona recupera la normalitat després dels incidents registrats en finalitzar la jornada de vaga general",
+  "text": "",
+  "published": null,
+  "author": "Ajuntament de Barcelona",
+  "embed": null,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-12",
+  "severity": 2,
+  "title_zh": "巴塞隆納市府公告大罷工夜間動亂後全市已全面恢復常態",
+  "note_zh": "官方確認市容清理與交通已重回日常運作，旅客在巴塞隆納市區觀光無虞。"
+ },
+ {
+  "id": "855a07eda27d",
+  "source": "news",
+  "url": "https://www.diaripublic.cat/societat/pes-11-n-catalunya-vaga-general-te-seguiment-equivalent-aturada-fa-14-anys-per-crisi-economica.html",
+  "title": "El pes de l'11-N a Catalunya: la vaga general té un seguiment equivalent a l'aturada de fa 14 anys per la crisi econòmica",
+  "text": "",
+  "published": null,
+  "author": "diaripublic.cat",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "加泰媒分析11-N大罷工動員規模創14年來新高紀錄",
+  "note_zh": "反映住房與生活成本民怨深厚，大罷工雖已結束，但中長期仍存社會動員氛圍。"
  }
 ]
