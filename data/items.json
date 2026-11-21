@@ -1636,5 +1636,37 @@
   "severity": 3,
   "title_zh": "11-N大罷工致巴塞隆納機場85航班取消及多起延誤",
   "note_zh": "回顧11-N大罷工衝擊巴塞隆納機場航班，目前航空與機場運作已全面恢復常態。"
+ },
+ {
+  "id": "b7015f1713d1",
+  "source": "news",
+  "url": "https://www.eltriangle.eu/2026/11/12/llibertat-provisional-per-a-16-dels-detinguts-pels-aldarulls-de-la-vaga-general-a-barcelona/",
+  "title": "Llibertat provisional per a 16 dels detinguts pels aldarulls de la vaga general a Barcelona",
+  "text": "",
+  "published": null,
+  "author": "El Triangle",
+  "embed": null,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-14",
+  "severity": 1,
+  "title_zh": "巴塞隆納法院裁定16名大罷工騷亂被捕者暫准保釋",
+  "note_zh": "司法後續處置，顯示11-N騷亂事件已完全進入司法程序，街頭回復平穩。"
+ },
+ {
+  "id": "6314cf2595a7",
+  "source": "news",
+  "url": "https://beteve.cat/societat/manifestacio-barcelona-educacio-publica-dret-habitatge/",
+  "title": "Educació pública i habitatge confluiran dissabte en una altra marxa a Barcelona",
+  "text": "",
+  "published": null,
+  "author": "Betevé",
+  "embed": null,
+  "category": "protest",
+  "city": "Barcelona",
+  "event_date": "2026-11-21",
+  "severity": 2,
+  "title_zh": "巴塞隆納公立教育與住宅團體週六（11/21）聯合遊行",
+  "note_zh": "市中心週六將有教育與住宅聯合遊行，主要幹道恐短暫管制，建議搭乘地鐵。"
  }
 ]
