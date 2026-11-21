@@ -1005,38 +1005,6 @@
   "note_zh": "糾察隊於商圈圍堵營運餐廳，旅客用餐可能遇阻或遭包圍投訴。"
  },
  {
-  "id": "650582bbe145",
-  "source": "news",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUpVMXdQc2ttZXYydUlLb3ZTenJNRVFxVm9UTEZIT0dpV1VEWXQzR1dmd091RWs0cDh1Z2VVbWxUc3hsNG5fR1RPNHh4RTU1djZ1TFA2TGhOQXRNR3NLa3U0c2psX0tZNXB1Mk95dkV1SkdpdktINHdQanhyVloycll5RG1Vb2x3XzJyMGZ1Wm5LVk56Ym02Y0hfWnkzV1hoY2hwR0FFeng5TVgtYVZUNkx2bw?oc=5",
-  "title": "Barcelona Comerç cifra la huelga en comercios al 50-65%",
-  "text": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUpVMXdQc2ttZXYydUlLb3ZTenJNRVFxVm9UTEZIT0dpV1VEWXQzR1dmd091RWs0cDh1Z2VVbWxUc3hsNG5fR1RPNHh4RTU1djZ1TFA2TGhOQXRNR3NLa3U0c2psX0tZNXB1Mk95dkV1SkdpdktINHdQanhyVloycll5RG1Vb2x3XzJyMGZ1Wm5LVk56Ym02Y0hfWnkzV1hoY2hwR0FFeng5TVgtYVZUNkx2bw?oc=5\" t …",
-  "published": "2026-11-11T12:52:00+00:00",
-  "author": "CatalunyaPress",
-  "embed": null,
-  "category": "strike",
-  "city": "Barcelona",
-  "event_date": "2026-11-11",
-  "severity": 2,
-  "title_zh": "巴塞隆納商會估算大罷工期間商圈歇業率達50-65%",
-  "note_zh": "大罷工當天過半店家關門，目前已陸續恢復營業。"
- },
- {
-  "id": "04153664d65e",
-  "source": "news",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGVfM3BHMTFjbmdjQXhaRU5VUGMtOXQxWXVpcDJkdTJQZlByNkRibFlKV2ktbFFtYTQ5NHlEdEhTNVdmMXhMdU05UFBTbkc3Vzk1TVlFQWJrTjJLX09kTWZoT2dwRW1jOGpHYUVZeWZPd1NUSklQcUYxVHE2TmdwSWcyOUI3WDU0MGlHTENMZU9iUFpqOEtDQi1OczdKMGlTUzN3TVNMWVkwTHhkQVBhS05yMVlEQ2lVNzE2aXNBc0tLcE9jbDgxaDhuRWdVMEZ4MmpzbE9neElldDEya24wZXFHZi1TbExxb2pfeHN3?oc=5",
-  "title": "La huelga en Madrid cumple con los mínimos en transporte público, hospitales y limpieza, pero con piquetes y cortes en M-30, A-6 y A-42",
-  "text": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGVfM3BHMTFjbmdjQXhaRU5VUGMtOXQxWXVpcDJkdTJQZlByNkRibFlKV2ktbFFtYTQ5NHlEdEhTNVdmMXhMdU05UFBTbkc3Vzk1TVlFQWJrTjJLX09kTWZoT2dwRW1jOGpHYUVZeWZPd1NUSklQcUYxVHE2TmdwSWcyOUI3WDU0MGlHTENMZU9iUFpqOEtDQi1OczdKMGlTUzN3TVNMWVkwTHhkQVBhS05yMVlEQ2lVNz …",
-  "published": "2026-11-11T12:48:47+00:00",
-  "author": "20Minutos",
-  "embed": null,
-  "category": "protest",
-  "city": "Madrid",
-  "event_date": "2026-11-11",
-  "severity": 3,
-  "title_zh": "馬德里11-N大眾運輸維持最低運量，M-30與聯外幹道遭突襲阻斷",
-  "note_zh": "示威者一度阻斷M-30、A-6及A-42聯外道路，市區公車亦受牽連。"
- },
- {
   "id": "4a0fe4d8d396",
   "source": "x",
   "url": "https://x.com/radio5_rne/status/2121365726590378126",
@@ -1652,5 +1620,21 @@
   "severity": 1,
   "title_zh": "加泰內政部調查兩名鎮暴警察於11-N大罷工之執勤爭議",
   "note_zh": "官方後續行政調查，確認社會秩序已回歸常態法制程序。"
+ },
+ {
+  "id": "24660f79f5e9",
+  "source": "news",
+  "url": "https://laveulliure.ad/ca/article/la-vaga-general-provoca-85-vols-cancellats-i-retards-laeroport-de-barcelona",
+  "title": "La vaga general provoca 85 vols cancel·lats i retards a l'aeroport de Barcelona",
+  "text": "",
+  "published": null,
+  "author": "La Veu Lliure",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "11-N大罷工致巴塞隆納機場85航班取消及多起延誤",
+  "note_zh": "回顧11-N大罷工衝擊巴塞隆納機場航班，目前航空與機場運作已全面恢復常態。"
  }
 ]
