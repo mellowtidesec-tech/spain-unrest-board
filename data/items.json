@@ -1700,5 +1700,21 @@
   "severity": 3,
   "title_zh": "無政府主義媒體發布11-N西班牙大罷工現場全景回顧",
   "note_zh": "為回顧11/11馬德里與巴塞隆納街頭行動紀錄，目前局勢平穩"
+ },
+ {
+  "id": "3060d2d5afe9",
+  "source": "news",
+  "url": "https://fox40.com/news/ap-top-headlines/ap-spains-first-general-strike-in-14-years-brings-clashing-social-and-political-desires-to-the-fore/",
+  "title": "Housing protests sweep Madrid and Barcelona after Spain’s workers strike, with clashes erupting",
+  "text": "",
+  "published": "2026-11-14T18:13:31.080104+00:00",
+  "author": "FOX40",
+  "embed": null,
+  "category": "protest",
+  "city": "Spain",
+  "event_date": "2026-11-14",
+  "severity": 3,
+  "title_zh": "美媒報導西國大罷工後馬德里與巴塞隆納爆發住宅示威衝突",
+  "note_zh": "回顧罷工後續週末示威衝突，目前市區秩序均已恢復，對當前行程無礙。"
  }
 ]
