@@ -957,22 +957,6 @@
   "note_zh": "原訂11/14週末醫療大遊行推遲至11/21，本週末醫療集會壓力減輕。"
  },
  {
-  "id": "e918dc0b0daf",
-  "source": "news",
-  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTnF2R2cwa29UeWRaNnpvOEllb1p6ay16ZVVBSEt4U3lMYnc5QllzNXE2eHl6UHdHSm1hakRJX2hma082U2dQczZQM1NVemlHQmdnTi03Vzl5U01KMXB1VlJNTmd4djBhLXpoTFdERmp2aTUwTEhZV1BoUTFzZFQ5aFJCODcyRGIydEdRMHR6VEprY3lZVVRJQ3dETlR3cVVKdlpGaEVJeUdFenYxRF9nUGZPVjNHZ1Y1aWlLdDhub2VUZEs5ZG90NjY3NUFrOTJXMUNEeEVweHFNdjZNemxNRDYzQUh1VmhobVdNYVFZS2t5d1Q4bVd5M0tYS1R1OFXSAf8BQVVfeXFMUGNmdE10MHc1MkxERll3MjRfdVI2V0RHMjQtSEcwU2hGNTFNWlpvQU03WUc4VFNhUnBOT3MyMmh3M1NCVWFFeVB6dU45M1V5T2hCSHJKSWJuZEJfLUplVE1ORXZHNmo1S0xzNDY5M3NZcHhYbHJ2SDJVSW15czlYQ2xsZW5YZ2d2TC1pek51Qnc5eW8tYkg5LW1LWFZQRnRJMUU4VWhnN2oxSko5TTcwYXJONGV3Z2ZfVlJiRFU4aGhTNTFTaUJrbDBlaFV5RU40SzhIWUJjQlhwaGxpOVJiZkdpczNFenJhX3hRS2MxSGFkX3JDa0FTa0ctWk9qLURB?oc=5",
-  "title": "Illa condena los disturbios en Barcelona tras la manifestación por la huelga general: \"La protesta es legítima, la violencia no\"",
-  "text": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTnF2R2cwa29UeWRaNnpvOEllb1p6ay16ZVVBSEt4U3lMYnc5QllzNXE2eHl6UHdHSm1hakRJX2hma082U2dQczZQM1NVemlHQmdnTi03Vzl5U01KMXB1VlJNTmd4djBhLXpoTFdERmp2aTUwTEhZV1BoUTFzZFQ5aFJCODcyRGIydEdRMHR6VEprY3lZVVRJQ3dETlR3cVVKdlpGaEVJeUdFenYxRF9nUGZPVjNHZ1Y1aW …",
-  "published": "2026-11-11T21:00:41+00:00",
-  "author": "LaSexta",
-  "embed": null,
-  "category": "advisory",
-  "city": "Barcelona",
-  "event_date": "2026-11-11",
-  "severity": 3,
-  "title_zh": "加泰主席強烈譴責11-N巴塞隆納夜間暴力與破壞事件",
-  "note_zh": "官方宣示嚴打街頭縱火與洗劫商鋪暴行，市中心警力加強巡邏戒備。"
- },
- {
   "id": "4a0fe4d8d396",
   "source": "x",
   "url": "https://x.com/radio5_rne/status/2121365726590378126",
@@ -1700,5 +1684,21 @@
   "severity": 3,
   "title_zh": "美媒報導西國大罷工後馬德里與巴塞隆納爆發住宅示威衝突",
   "note_zh": "回顧罷工後續週末示威衝突，目前市區秩序均已恢復，對當前行程無礙。"
+ },
+ {
+  "id": "61163ed522b6",
+  "source": "news",
+  "url": "https://conversesacatalunya.cat/es/huelga-general-11-noviembre-2026-illa-rodalies-piquetes/",
+  "title": "Huelga general 11-N: poco seguimiento y colapso ferroviario",
+  "text": "",
+  "published": null,
+  "author": "Converses a Catalunya",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "加泰媒體回顧11-N大罷工整體響應有限但鐵路交通一度癱瘓",
+  "note_zh": "屬歷史回顧報導，確認大罷工已落幕且鐵路交通早已恢復常態。"
  }
 ]
