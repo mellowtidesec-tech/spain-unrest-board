@@ -1636,5 +1636,53 @@
   "severity": 2,
   "title_zh": "國際特赦組織指控加泰警方於11-N大罷工執法過當",
   "note_zh": "針對11-N罷工動亂執法之檢討，巴塞市區目前治安平穩，不影響旅客。"
+ },
+ {
+  "id": "e5a7da718d9b",
+  "source": "news",
+  "url": "https://www.elmundo.es/como/2026/11/20/6b0025cc21efa035258b45ad.html",
+  "title": "Manifestaciones en Madrid y Barcelona por la vivienda este 21 de noviembre: horarios y recorrido",
+  "text": "",
+  "published": null,
+  "author": "El Mundo",
+  "embed": null,
+  "category": "protest",
+  "city": "Spain",
+  "event_date": "2026-11-21",
+  "severity": 2,
+  "title_zh": "馬德里與巴塞隆納11/21再度發起住宅權益集會遊行",
+  "note_zh": "今日兩大城市中心預計有住宅抗議隊伍，宜避開集會周邊。"
+ },
+ {
+  "id": "645b45f4fe7a",
+  "source": "news",
+  "url": "https://www.elconfidencial.com/espana/madrid/2026-11-19/madrid-huelga-estudiantes-20-noviembre-1qrt_4468301/",
+  "title": "Huelga de estudiantes este 20 de noviembre: horario y lugar de la movilización en Madrid",
+  "text": "",
+  "published": null,
+  "author": "El Confidencial",
+  "embed": null,
+  "category": "protest",
+  "city": "Madrid",
+  "event_date": "2026-11-20",
+  "severity": 2,
+  "title_zh": "馬德里學生工會號召11/20罷課與市中心集會遊行",
+  "note_zh": "學生於市中心發起罷課遊行，局部路段可能實施短暫交管。"
+ },
+ {
+  "id": "6b9aef15d3c7",
+  "source": "news",
+  "url": "https://www.diaripublic.cat/societat/moviment-per-habitatge-preten-mantenir-viu-pols-carrer-amb-noves-protestes-despres-vaga-general-11-n.html",
+  "title": "El moviment per l'habitatge pretén mantenir viu el pols al carrer amb noves protestes després de la vaga general de l'11-N",
+  "text": "",
+  "published": null,
+  "author": "diaripublic.cat",
+  "embed": null,
+  "category": "protest",
+  "city": "Barcelona",
+  "event_date": "2026-11-21",
+  "severity": 2,
+  "title_zh": "加泰住宅運動團體規劃於大罷工後持續展開街頭動員",
+  "note_zh": "住宅團體持續街頭施壓，需留意週末加泰市區可能之突發集會。"
  }
 ]
