@@ -1668,5 +1668,21 @@
   "severity": 2,
   "title_zh": "巴塞隆納公立教育與住宅團體週六（11/21）聯合遊行",
   "note_zh": "市中心週六將有教育與住宅聯合遊行，主要幹道恐短暫管制，建議搭乘地鐵。"
+ },
+ {
+  "id": "3a3ea65f5796",
+  "source": "news",
+  "url": "https://www.elperiodico.cat/societat/20261119/vaga-estudiants-20-novembre-que-es-demana-paisos-hora-manifestacio-barcelona-136608848",
+  "title": "Vaga d’estudiants del 20 de novembre: què es demana, qui la convoca, quins països s’hi sumen i hora de la manifestació a Barcelona",
+  "text": "",
+  "published": null,
+  "author": "El Periódico de Catalunya",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-20",
+  "severity": 2,
+  "title_zh": "巴塞隆納學生工會發起11/20罷課與市中心示威遊行",
+  "note_zh": "大學生發起罷課並於市中心集會遊行，預期造成局部路段短暫交管。"
  }
 ]
