@@ -1620,5 +1620,21 @@
   "severity": 3,
   "title_zh": "西媒總結11-N全國大罷工於全西多地示威中落幕",
   "note_zh": "全國性罷工集會已完全結束，各主要城市交通與景點維持正常。"
+ },
+ {
+  "id": "290dec1c781a",
+  "source": "news",
+  "url": "https://www.metropoliabierta.cat/successos/20261120/amnistia-internacional-acusa-mossos-carregar-barcelona-protegir-grup-policies-encaputxats/1003742813647_0.html",
+  "title": "Amnistia acusa els Mossos de carregar a Barcelona per protegir un grup de policies encaputxats durant la vaga de l'11N",
+  "text": "",
+  "published": null,
+  "author": "Metrópoli",
+  "embed": null,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "國際特赦組織指控加泰警方於11-N大罷工執法過當",
+  "note_zh": "針對11-N罷工動亂執法之檢討，巴塞市區目前治安平穩，不影響旅客。"
  }
 ]
