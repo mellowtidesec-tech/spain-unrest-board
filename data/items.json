@@ -825,22 +825,6 @@
   "note_zh": "司法判決確認大區政府最低服務令過度限制罷工，引發後續法規調整。"
  },
  {
-  "id": "587114bb061c",
-  "source": "news",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZaFlDUEpiNWRWbHFkUEs1OTBISVF2VkR6NnotdjJ4WFk5dWpxOWxRSnJiTmxOTkxFaGtJMnZ2dlNfVHRFandlN2stQVktREZKeVFyeXF1MTJjRExnTVE5ZnRYS3czN3AtbkNaTlNHampITDVGN2JHWjl30gF6QVVfeXFMTThpM0M2T2Z2MV9aUmo3ekpEWDBxT1V1SEZINkxMQ1dPb1dGYUxtYS0yRWp5S0pkaU9lUTV5WWNMS2ItSGdYTU9XTDZMR3Q1LXhQUTV2TmJMN0tfNV9tNVI3MVJuQXp5STZIQjdUQ05xbUJDTkVvczkyUnc?oc=5",
-  "title": "Saqueos y barricadas en Barcelona y cargas en Madrid en el final de la huelga con al menos un centenar de detenidos en toda España",
-  "text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZaFlDUEpiNWRWbHFkUEs1OTBISVF2VkR6NnotdjJ4WFk5dWpxOWxRSnJiTmxOTkxFaGtJMnZ2dlNfVHRFandlN2stQVktREZKeVFyeXF1MTJjRExnTVE5ZnRYS3czN3AtbkNaTlNHampITDVGN2JHWjl30gF6QVVfeXFMTThpM0M2T2Z2MV9aUmo3ekpEWDBxT1V1SEZINkxMQ1dPb1dGYUxtYS0yRWp5S0pkaU9lUTV5WW …",
-  "published": "2026-11-12T17:48:20+00:00",
-  "author": "El Mundo",
-  "embed": null,
-  "category": "fire_violence",
-  "city": "Spain",
-  "event_date": "2026-11-11",
-  "severity": 4,
-  "title_zh": "11-N巴塞隆納現路障洗劫、馬德里爆警民衝突，全西百人遭捕",
-  "note_zh": "大罷工深夜巴塞隆納市區出現縱火路障與洗劫，馬德里亦爆發警民推擠。"
- },
- {
   "id": "2be70707ceb6",
   "source": "x",
   "url": "https://x.com/Antifaxismoa/status/2121181257186918513",
@@ -1828,5 +1812,21 @@
   "severity": 2,
   "title_zh": "西國租客工會響應全歐行動於六大城發起反投機抗議",
   "note_zh": "涵蓋馬德里與巴塞隆納等城週末住宅抗議，規模有限未癱瘓交通。"
+ },
+ {
+  "id": "bd45ccdbbb54",
+  "source": "news",
+  "url": "https://deeparrival.com/news/spain-road-transport-strike-buses-december-23-24-2026/",
+  "title": "Spain Bus Strike Called for Dec. 23-24 Could Disrupt Christmas Travel",
+  "text": "",
+  "published": "2026-11-16T17:57:56.921040+00:00",
+  "author": "deeparrival.com",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-12-23",
+  "severity": 3,
+  "title_zh": "西班牙工會預告12/23-24聖誕前夕展開全國公車罷工",
+  "note_zh": "預告年底聖誕期間全國公路客運罷工，旅客若延長或年底訪西需注意。"
  }
 ]
