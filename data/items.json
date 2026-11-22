@@ -1732,5 +1732,21 @@
   "severity": 1,
   "title_zh": "加泰名家專欄評析大罷工期間焚燒垃圾桶等夜間街頭騷亂",
   "note_zh": "屬媒體時事評論專欄，回顧近期巴塞隆納示威脫序現象，對當前交通與觀光無新增影響。"
+ },
+ {
+  "id": "eddda1206bb1",
+  "source": "news",
+  "url": "https://www.elpuntavui.cat/societat/article/2692026-amnistia-internacional-denuncia-la-infiltracio-de-mossos-en-la-manifestacio-de-la-vaga-general-a-barcelona.html",
+  "title": "Amnistia denuncia la infiltració de Mossos en la manifestació de la vaga general a Barcelona",
+  "text": "",
+  "published": null,
+  "author": "El Punt Avui",
+  "embed": null,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 1,
+  "title_zh": "國際特赦組織指控加泰警方滲透巴塞隆納大罷工示威隊伍",
+  "note_zh": "屬人權團體事後檢討警方執法手段，對旅客當前交通與觀光安全無影響。"
  }
 ]
