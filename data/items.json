@@ -1716,5 +1716,21 @@
   "severity": 2,
   "title_zh": "美國駐西使館就馬德里示威發布安全警示",
   "note_zh": "美使館提醒在馬德里僑民注意集會周邊安全，保持警覺避開人潮"
+ },
+ {
+  "id": "01c2c0e78f81",
+  "source": "news",
+  "url": "https://www.ara.cat/opinio/nits-dels-contenidors-flamejants_129_5910454.html",
+  "title": "Les nits dels contenidors flamejants - Andreu Mas-Colell",
+  "text": "",
+  "published": null,
+  "author": "Diari ARA",
+  "embed": null,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": null,
+  "severity": 1,
+  "title_zh": "加泰名家專欄評析大罷工期間焚燒垃圾桶等夜間街頭騷亂",
+  "note_zh": "屬媒體時事評論專欄，回顧近期巴塞隆納示威脫序現象，對當前交通與觀光無新增影響。"
  }
 ]
