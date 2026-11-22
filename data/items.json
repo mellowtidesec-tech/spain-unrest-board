@@ -1844,5 +1844,21 @@
   "severity": 1,
   "title_zh": "學生媒體回顧巴塞隆納大專院校11-N罷工籌備過程",
   "note_zh": "為大罷工歷史回顧專題，市區已恢復常態運作，不影響觀光。"
+ },
+ {
+  "id": "ccdf74bb7285",
+  "source": "news",
+  "url": "https://www.lavanguardia.com/economia/20261113/11683329/presencia-oficinas-redujo-36-huelga-general-11-n-indican-datos-consumo-cafe-servimedia20261113.html",
+  "title": "La presencia en oficinas se redujo un 36% durante la huelga general del 11-N, según indican los datos de consumo de café",
+  "text": "",
+  "published": null,
+  "author": "La Vanguardia",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 1,
+  "title_zh": "數據顯示11-N全國大罷工期間西國辦公室出勤率下降約36%",
+  "note_zh": "屬事後經濟活動統計分析，對目前雙城觀光與交通無任何實質影響。"
  }
 ]
