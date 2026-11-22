@@ -1700,5 +1700,21 @@
   "severity": 2,
   "title_zh": "加泰媒體回顧11-N大罷工整體響應有限但鐵路交通一度癱瘓",
   "note_zh": "屬歷史回顧報導，確認大罷工已落幕且鐵路交通早已恢復常態。"
+ },
+ {
+  "id": "51372a701429",
+  "source": "news",
+  "url": "https://es.usembassy.gov/security-alert-u-s-embassy-madrid-spain-november-16-2026/",
+  "title": "Security Alert: U.S. Embassy Madrid, Spain, November 16, 2026",
+  "text": "",
+  "published": "2026-11-17T01:31:51.299162+00:00",
+  "author": "US Embassy in Spain",
+  "embed": null,
+  "category": "advisory",
+  "city": "Madrid",
+  "event_date": "2026-11-16",
+  "severity": 2,
+  "title_zh": "美國駐西使館就馬德里示威發布安全警示",
+  "note_zh": "美使館提醒在馬德里僑民注意集會周邊安全，保持警覺避開人潮"
  }
 ]
