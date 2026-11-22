@@ -793,22 +793,6 @@
   "note_zh": "警方於11-N市中心驅散時曾施放催淚瓦斯，引發執法爭議檢討。"
  },
  {
-  "id": "960c77c3343b",
-  "source": "news",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNckhHMmdKTnNwN3ZJY3pmeXNhaEhOVzJncWdtbHhGNm1VaUQ3YUt2RkM3TmVrQ01JZWI2SDZSU1h6WGtyUVF4bHF2TmpwS3IwZjh6TzlyVEVGOG4zOWE3akxodFNuV19tMVVBZWxYMjNYUVg1OGlyY1hyVnRoMzhEMG84aWF0WWlUZmZpOHloLWIyWUhfakUtR2NRblZTQndzTmNieG43dEJSdw?oc=5",
-  "title": "Huelga general en España: qué saber sobre vuelos, aeropuertos y vacaciones",
-  "text": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNckhHMmdKTnNwN3ZJY3pmeXNhaEhOVzJncWdtbHhGNm1VaUQ3YUt2RkM3TmVrQ01JZWI2SDZSU1h6WGtyUVF4bHF2TmpwS3IwZjh6TzlyVEVGOG4zOWE3akxodFNuV19tMVVBZWxYMjNYUVg1OGlyY1hyVnRoMzhEMG84aWF0WWlUZmZpOHloLWIyWUhfakUtR2NRblZTQndzTmNieG43dEJSdw?oc=5\" target=\"_blan …",
-  "published": "2026-11-12T20:06:00+00:00",
-  "author": "Independent en Español",
-  "embed": null,
-  "category": "strike",
-  "city": "Spain",
-  "event_date": "2026-11-12",
-  "severity": 3,
-  "title_zh": "外媒整理西班牙大罷工對航班與機場交通之後續影響",
-  "note_zh": "提供旅客航班與機場受罷工波及之退改與搭乘注意事項。"
- },
- {
   "id": "2be70707ceb6",
   "source": "x",
   "url": "https://x.com/Antifaxismoa/status/2121181257186918513",
@@ -1828,5 +1812,37 @@
   "severity": 2,
   "title_zh": "加泰教師工會將就11/26罷工最低服務規範提出爭訟",
   "note_zh": "加泰隆尼亞教育界預告11/26發動教師罷工，主要影響各級學校，對旅客觀光無直接衝擊。"
+ },
+ {
+  "id": "3fc6fce60103",
+  "source": "news",
+  "url": "https://www.diaripublic.cat/societat/amnistia-internacional-documenta-61-casos-us-excessiu-forca-policial-durant-vaga.html",
+  "title": "Amnistia Internacional documenta 61 casos d'ús excessiu de la força policial durant la vaga general",
+  "text": "",
+  "published": null,
+  "author": "diaripublic.cat",
+  "embed": null,
+  "category": "advisory",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 1,
+  "title_zh": "特赦組織記錄大罷工期間61起警方執法過當案例",
+  "note_zh": "屬於大罷工後續檢討報告，未引發新衝突，對旅客無直接威脅。"
+ },
+ {
+  "id": "a46187209f0f",
+  "source": "news",
+  "url": "https://poderpopular.info/2026/11/16/organitzar-la-vaga-als-campus-aixi-es-va-preparar-l11n-a-les-universitats-de-barcelona/",
+  "title": "Organitzar la vaga als campus: així es va preparar l’11N a les universitats de Barcelona",
+  "text": "",
+  "published": null,
+  "author": "poderpopular.info",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-11",
+  "severity": 1,
+  "title_zh": "學生媒體回顧巴塞隆納大專院校11-N罷工籌備過程",
+  "note_zh": "為大罷工歷史回顧專題，市區已恢復常態運作，不影響觀光。"
  }
 ]
