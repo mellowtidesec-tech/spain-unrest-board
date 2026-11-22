@@ -1748,5 +1748,37 @@
   "severity": 1,
   "title_zh": "國際特赦組織指控加泰警方滲透巴塞隆納大罷工示威隊伍",
   "note_zh": "屬人權團體事後檢討警方執法手段，對旅客當前交通與觀光安全無影響。"
+ },
+ {
+  "id": "394ae868be47",
+  "source": "news",
+  "url": "https://www.chinadailyhk.com/hk/article/642654",
+  "title": "Spanish parliament passes housing measures after nationwide strike, protests",
+  "text": "",
+  "published": "2026-11-15T08:16:23.879888+00:00",
+  "author": "chinadailyhk",
+  "embed": null,
+  "category": "advisory",
+  "city": "Spain",
+  "event_date": "2026-11-15",
+  "severity": 1,
+  "title_zh": "西班牙國會於大罷工後通過住宅政策應對民怨",
+  "note_zh": "立法院通過住宅法案以平息罷工訴求，有助舒緩後續衝突升級。"
+ },
+ {
+  "id": "f7c1c63e17f8",
+  "source": "news",
+  "url": "https://www.rtve.es/catalunya/noticies/20261119/sindicat-destudiants-convoca-vaga-marc-duna-jornada-mobilitzacions-estudiantils-europees/17322262.shtml",
+  "title": "Uns 250 estudiants es manifesten a Barcelona en una vaga europea en defensa de l'educació pública",
+  "text": "",
+  "published": null,
+  "author": "RTVE.es",
+  "embed": null,
+  "category": "protest",
+  "city": "Barcelona",
+  "event_date": "2026-11-20",
+  "severity": 2,
+  "title_zh": "約250名學生於巴塞隆納示威捍衛公立教育體系",
+  "note_zh": "學生上街規模僅約數百人，過程和平，未衝擊大眾運輸運作。"
  }
 ]
