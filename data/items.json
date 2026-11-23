@@ -1703,5 +1703,21 @@
   "severity": 3,
   "title_zh": "外媒回顧西班牙一日全國大罷工動員影響",
   "note_zh": "外媒回顧11-N全國大罷工對社會之衝擊，目前雙城秩序已全面回穩。"
+ },
+ {
+  "id": "4e8ae4400f68",
+  "source": "news",
+  "url": "https://www.euronews.com/2026/11/21/thousands-take-to-streets-in-portugal-france-and-spain-over-rising-living-costs",
+  "title": "Thousands take to streets in Portugal, France and Spain over rising living costs",
+  "text": "",
+  "published": "2026-11-22T11:56:53.318078+00:00",
+  "author": "Euronews.com",
+  "embed": null,
+  "category": "protest",
+  "city": "Spain",
+  "event_date": "2026-11-21",
+  "severity": 2,
+  "title_zh": "全歐生活成本抗爭延燒，西國多地爆發群眾示威",
+  "note_zh": "抗議生活成本與住宅危機，多集中於主要廣場，未造成嚴重交通阻斷。"
  }
 ]
