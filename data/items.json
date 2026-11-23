@@ -761,69 +761,6 @@
   "note_zh": "抗議現場衝突混亂，記者與旁觀者均受警民推擠波及。"
  },
  {
-  "id": "5db9cc3daf45",
-  "source": "x",
-  "url": "https://x.com/AbcAbcbcn/status/2121179677368746359",
-  "title": "@rodalies @IncidenciesSud @AfectRodalies @el_pais @enoticiescat @som3cat @gencat @rod2sudcat @transportesgob @oscar_pue",
-  "text": "@rodalies @IncidenciesSud @AfectRodalies @el_pais @enoticiescat @som3cat @gencat @rod2sudcat @transportesgob @oscar_puente @sanchezcastejon si este no es una huelga cubierta entonces que es.? Ni un solo tren sale de Barcelona no Sant vicenc de calders. Unos inútiles HDLGPDM https://t.co/qzZkDu4jZk",
-  "published": "2026-11-13T09:53:39+00:00",
-  "author": "@AbcAbcbcn",
-  "embed": {
-   "type": "x",
-   "id": "2121179677368746359"
-  },
-  "engagement": 2,
-  "views": 9,
-  "category": "strike",
-  "city": "Barcelona",
-  "event_date": "2026-11-13",
-  "severity": 3,
-  "title_zh": "巴塞隆納近郊鐵路Rodalies今晨持續出現嚴重延誤與停駛",
-  "note_zh": "罷工過後鐵路調度依然受阻，旅客反映聖茲與南區列車大缺班。"
- },
- {
-  "id": "e7969b75a638",
-  "source": "x",
-  "url": "https://x.com/Vicky_Taibo/status/2121177931146002658",
-  "title": "🔴NECESITAMOS UN FERROCARRIL SEGURO🔴 MANIFESTACIÓN EN MADRID 📅 14 de noviembre 📍Desde el Ministerio de Transportes hasta",
-  "text": "🔴NECESITAMOS UN FERROCARRIL SEGURO🔴 MANIFESTACIÓN EN MADRID 📅 14 de noviembre 📍Desde el Ministerio de Transportes hasta el Congreso de los Diputados. Por un ferrocarril público, social, de calidad y seguro! ✊🏻🚂 https://t.co/JWNtYcBsC3",
-  "published": "2026-11-13T09:46:43+00:00",
-  "author": "@Vicky_Taibo",
-  "embed": {
-   "type": "x",
-   "id": "2121177931146002658"
-  },
-  "engagement": 1,
-  "views": 20,
-  "category": "protest",
-  "city": "Madrid",
-  "event_date": "2026-11-14",
-  "severity": 2,
-  "title_zh": "鐵路安全維權團體預告11/14於馬德里交通部前遊行至眾議院",
-  "note_zh": "週六交通部至眾議院沿線（卡斯提亞納大道周邊）將有遊行交通管制。"
- },
- {
-  "id": "52d49a282656",
-  "source": "x",
-  "url": "https://x.com/mostoleshoy/status/2121175591072227814",
-  "title": "Nueva huelga en Cercanías Madrid que afectará directamente a Móstoles: será el 17 de noviembre Más paros en el sector f",
-  "text": "Nueva huelga en Cercanías Madrid que afectará directamente a Móstoles: será el 17 de noviembre Más paros en el sector ferroviario. Nueva huelga en Cercanías Madrid que afectará directamente a Móstoles: será el 17 de noviembre Renfe ha convocado una huelga que afectará al sector ferroviario la próxima semana. Así lo han confirmado desde el Comité General de Empresa de Adif. De esta manera, Móstoles… https://t.co/LibTnjcew9",
-  "published": "2026-11-13T09:37:25+00:00",
-  "author": "@mostoleshoy",
-  "embed": {
-   "type": "x",
-   "id": "2121175591072227814"
-  },
-  "engagement": 0,
-  "views": 68,
-  "category": "strike",
-  "city": "Madrid",
-  "event_date": "2026-11-17",
-  "severity": 4,
-  "title_zh": "馬德里近郊鐵路工會預告11/17再度發動全國大罷工",
-  "note_zh": "11/17鐵路聯合罷工已獲Renfe工會確認，馬德里Cercanías將大減班。"
- },
- {
   "id": "4a0fe4d8d396",
   "source": "x",
   "url": "https://x.com/radio5_rne/status/2121365726590378126",
@@ -875,22 +812,6 @@
   "severity": 3,
   "title_zh": "Ouigo高鐵宣布11/17罷工日維持27班中17班營運",
   "note_zh": "11/17鐵路罷工民營高鐵取消逾三成班次，搭乘該廉價高鐵旅客需確認班表。"
- },
- {
-  "id": "2e4420bd557c",
-  "source": "news",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSllJWVByczNKYXFiNHFteUo5UjRGTndJWmlNZ0ZnYU5fNFFzUW40X0R1b1VQYjJfZ0RhblQ0am9SakpDSllRSlRsS0lRckRNWWlVM0VZMkJkVGR5MEtybVRKQVAzamV0OEkwTlg4VmF1OWpzTk1fLUdGQ2IxaFJsSWhkbERkUlVaM3JNaldkUXdtRnlnWWtabUYwRzBvLThEWjNWM1pDVlZpZzFiaXZ0cDlxVHZwUmFt?oc=5",
-  "title": "Nueva huelga en Cercanías Madrid que afectará directamente a Móstoles: será el 17 de noviembre",
-  "text": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSllJWVByczNKYXFiNHFteUo5UjRGTndJWmlNZ0ZnYU5fNFFzUW40X0R1b1VQYjJfZ0RhblQ0am9SakpDSllRSlRsS0lRckRNWWlVM0VZMkJkVGR5MEtybVRKQVAzamV0OEkwTlg4VmF1OWpzTk1fLUdGQ2IxaFJsSWhkbERkUlVaM3JNaldkUXdtRnlnWWtabUYwRzBvLThEWjNWM1pDVlZpZzFiaXZ0cDlxVHZwUmFt?o …",
-  "published": "2026-11-13T09:35:04+00:00",
-  "author": "mostoleshoy.com",
-  "embed": null,
-  "category": "strike",
-  "city": "Madrid",
-  "event_date": "2026-11-17",
-  "severity": 3,
-  "title_zh": "馬德里近郊鐵路11/17罷工將衝擊莫斯托萊斯等C-5通勤線",
-  "note_zh": "11/17近郊鐵路罷工預告擴散至C-5等衛星城要道，前往郊區景點需注意。"
  },
  {
   "id": "9b96de9194be",
@@ -1823,5 +1744,37 @@
   "severity": 1,
   "title_zh": "加泰媒分析11-N大罷工最低服務規範差異",
   "note_zh": "屬罷工後之法規檢討分析，對旅客行程無直接衝擊。"
+ },
+ {
+  "id": "d358d07e952e",
+  "source": "news",
+  "url": "https://www.3cat.cat/3catinfo/manifestacio-de-docents-families-i-alumnes-a-barcelona-per-defensar-leducacio-publica/noticia/3441201/",
+  "title": "Manifestació de docents, famílies i alumnes a Barcelona per defensar l'educació pública",
+  "text": "",
+  "published": null,
+  "author": "3Cat",
+  "embed": null,
+  "category": "protest",
+  "city": "Barcelona",
+  "event_date": null,
+  "severity": 2,
+  "title_zh": "巴塞隆納教師、家長與學生發起遊行捍衛公立教育",
+  "note_zh": "訴求公立教育資源與縮減班級人數，過程和平，市區主要景點與交通未受明顯干擾。"
+ },
+ {
+  "id": "5a40ab54b6bf",
+  "source": "news",
+  "url": "https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261114/llibertat-vigilada-sis-menors-detinguts-disturbis-barcelona-l11-n/1003742812047_0.html",
+  "title": "Llibertat vigilada per als sis menors detinguts pels disturbis a Barcelona l'11-N",
+  "text": "",
+  "published": null,
+  "author": "Metrópoli",
+  "embed": null,
+  "category": "advisory",
+  "city": "Barcelona",
+  "event_date": null,
+  "severity": 1,
+  "title_zh": "巴塞隆納11-N罷工騷亂遭捕之6名未成年人獲裁定保護管束",
+  "note_zh": "屬11-N大罷工之司法後續程序，雙城市區治安與觀光動線維持正常運作。"
  }
 ]
