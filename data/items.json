@@ -656,111 +656,6 @@
   "note_zh": "遊行隊伍將行經巴塞隆納核心幹道與廣場，市區交通屆時將全面封鎖阻斷。"
  },
  {
-  "id": "bf63cfce160b",
-  "source": "x",
-  "url": "https://x.com/FSCdeCCOO/status/2121186941404385763",
-  "title": "🚨 El operativo desplegado por la Policía Nacional impidió que la manifestación del 11N en Madrid completara su recorrido",
-  "text": "🚨 El operativo desplegado por la Policía Nacional impidió que la manifestación del 11N en Madrid completara su recorrido hasta Plaza de España. 🗣️ Unai Sordo: «No hay sociedad democrática que no tenga policía democrática». #HuelgaGeneral11N https://t.co/epwKtvSvVK",
-  "published": "2026-11-13T10:22:31+00:00",
-  "author": "@FSCdeCCOO",
-  "embed": {
-   "type": "x",
-   "id": "2121186941404385763"
-  },
-  "engagement": 0,
-  "views": 32,
-  "category": "protest",
-  "city": "Madrid",
-  "event_date": "2026-11-11",
-  "severity": 3,
-  "title_zh": "馬德里警方攔截11-N遊行隊伍阻止前往西班牙廣場",
-  "note_zh": "警方封鎖導致遊行路線縮短並爆發推擠，工會譴責警方執法過當。"
- },
- {
-  "id": "16eb36f03a51",
-  "source": "x",
-  "url": "https://x.com/eldiariodmadrid/status/2121186881836597718",
-  "title": "#SucesosEnMadrid Alcalá de Henares condena los actos vandálicos contra comercios durante la huelga del 11 de noviembre",
-  "text": "#SucesosEnMadrid Alcalá de Henares condena los actos vandálicos contra comercios durante la huelga del 11 de noviembre @OrlenaMmm #AlcalaDeHenares #HuelgaGeneral #Vandalismo https://t.co/pcZMgMhQQx",
-  "published": "2026-11-13T10:22:17+00:00",
-  "author": "@eldiariodmadrid",
-  "embed": {
-   "type": "x",
-   "id": "2121186881836597718"
-  },
-  "engagement": 0,
-  "views": 4,
-  "category": "fire_violence",
-  "city": "Madrid",
-  "event_date": "2026-11-11",
-  "severity": 2,
-  "title_zh": "阿爾卡拉德埃納雷斯譴責11-N罷工期間店家遭破壞",
-  "note_zh": "馬德里近郊城鎮店家於大罷工中遭遇破壞，凸顯零星騷亂風險。"
- },
- {
-  "id": "4516a823f031",
-  "source": "x",
-  "url": "https://x.com/VenaMareaVerde/status/2121186141760037102",
-  "title": "CCOO, UGT, CGT, CNT con el apoyo unánime del Comité de Huelga Mixto denuncian la escalada represiva de la Consejería. @C",
-  "text": "CCOO, UGT, CGT, CNT con el apoyo unánime del Comité de Huelga Mixto denuncian la escalada represiva de la Consejería. @CCOOEducaMa @ugt_educamadrid @EnsenanzaCgt @EducaCnt https://t.co/mQP3wgejFG #EducaciónEnLucha #HuelgaEducativa #HuelgaIndefinida #mareaverde https://t.co/2x4oIj3vXR",
-  "published": "2026-11-13T10:19:20+00:00",
-  "author": "@VenaMareaVerde",
-  "embed": {
-   "type": "x",
-   "id": "2121186141760037102"
-  },
-  "engagement": 2,
-  "views": 27,
-  "category": "strike",
-  "city": "Madrid",
-  "event_date": "2026-11-13",
-  "severity": 2,
-  "title_zh": "馬德里四大工會聯合抗議教育廳打壓罷工",
-  "note_zh": "公立教育罷工仍在持續，勞資對立延伸至校園行政體系。"
- },
- {
-  "id": "5f54afbac146",
-  "source": "x",
-  "url": "https://x.com/Noticias_para/status/2121185221055836194",
-  "title": "Interior modificará el protocolo para prohibir a la Policía Nacional el uso de gas lacrimógeno en dispositivos de orden",
-  "text": "Interior modificará el protocolo para prohibir a la Policía Nacional el uso de gas lacrimógeno en dispositivos de orden público, tras las cargas durante la huelga del 11N en Madrid. La decisión mantiene el uso de dispositivos ATL y llega mientras se inve… https://t.co/8kqogvHbhx",
-  "published": "2026-11-13T10:15:41+00:00",
-  "author": "@Noticias_para",
-  "embed": {
-   "type": "x",
-   "id": "2121185221055836194"
-  },
-  "engagement": 0,
-  "views": 47,
-  "category": "advisory",
-  "city": "Madrid",
-  "event_date": "2026-11-13",
-  "severity": 2,
-  "title_zh": "內政部檢討馬德里11-N催淚瓦斯執法並擬修訂規範",
-  "note_zh": "警方於11-N市中心驅散時曾施放催淚瓦斯，引發執法爭議檢討。"
- },
- {
-  "id": "2be70707ceb6",
-  "source": "x",
-  "url": "https://x.com/Antifaxismoa/status/2121181257186918513",
-  "title": "#Madrid La Asociación de la Prensa de Madrid (APM) condena a las agresiones por parte de la policía nacional a periodist",
-  "text": "#Madrid La Asociación de la Prensa de Madrid (APM) condena a las agresiones por parte de la policía nacional a periodistas que cubrían la Huelga General 11N ¿Interpondrá denuncia?",
-  "published": "2026-11-13T09:59:56+00:00",
-  "author": "@Antifaxismoa",
-  "embed": {
-   "type": "x",
-   "id": "2121181257186918513"
-  },
-  "engagement": 1,
-  "views": 74,
-  "category": "advisory",
-  "city": "Madrid",
-  "event_date": "2026-11-11",
-  "severity": 2,
-  "title_zh": "馬德里記者協會譴責警方於11-N罷工粗暴對待記者",
-  "note_zh": "抗議現場衝突混亂，記者與旁觀者均受警民推擠波及。"
- },
- {
   "id": "4a0fe4d8d396",
   "source": "x",
   "url": "https://x.com/radio5_rne/status/2121365726590378126",
@@ -1776,5 +1671,37 @@
   "severity": 1,
   "title_zh": "巴塞隆納11-N罷工騷亂遭捕之6名未成年人獲裁定保護管束",
   "note_zh": "屬11-N大罷工之司法後續程序，雙城市區治安與觀光動線維持正常運作。"
+ },
+ {
+  "id": "aa671198be1e",
+  "source": "news",
+  "url": "https://elpais.com/economia/2026-11-09/los-sindicatos-preven-un-seguimiento-desigual-por-territorios-sectores-y-edades-en-la-huelga-general.html",
+  "title": "Los sindicatos se preparan para un seguimiento “desigual” de la huelga por territorios, sectores y edades",
+  "text": "",
+  "published": null,
+  "author": "EL PAÍS",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 2,
+  "title_zh": "西媒報導工會預期全國大罷工各地區響應程度不一",
+  "note_zh": "分析11-N跨行業大罷工在不同產業與地區之動員概況，現已結束。"
+ },
+ {
+  "id": "91e9aac076b6",
+  "source": "news",
+  "url": "https://www.wsws.org/es/articles/2026/11/17/iuti-n17.html",
+  "title": "Una huelga general de un día sacude España en vísperas de las elecciones del 29 de noviembre",
+  "text": "",
+  "published": null,
+  "author": "World Socialist Web Site",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "外媒回顧西班牙一日全國大罷工動員影響",
+  "note_zh": "外媒回顧11-N全國大罷工對社會之衝擊，目前雙城秩序已全面回穩。"
  }
 ]
