@@ -1735,5 +1735,37 @@
   "severity": 1,
   "title_zh": "巴塞隆納3名11N罷工騷亂被捕者提抗告並控政治逮捕",
   "note_zh": "屬大罷工後續司法程序，巴塞隆納市區目前秩序平穩無直接衝擊。"
+ },
+ {
+  "id": "65f6f1f18a4f",
+  "source": "news",
+  "url": "https://www.sinpermiso.info/textos/la-huelga-general-del-11-n-lucha-de-clases-y-lo-que-viene",
+  "title": "La huelga general del 11-N: lucha de clases y lo que viene",
+  "text": "",
+  "published": null,
+  "author": "Sin Permiso",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 1,
+  "title_zh": "左翼媒體評論11-N全國大罷工並展望後續抗爭",
+  "note_zh": "罷工事後政治與階級評論，雙城生活機能與交通不受影響。"
+ },
+ {
+  "id": "9f05eafaefeb",
+  "source": "news",
+  "url": "https://sindicatdestudiants.net/index.php/noticies/obrers-i-estudiants-units-i-endavant/26n-vaga-educativa-seguim-lluitant-per-una-educacio-publica-inclusiva-de-qualitat-i-en-catala",
+  "title": "26N Vaga Educativa. Seguim lluitant per una educació pública inclusiva, de qualitat i en català!",
+  "text": "",
+  "published": null,
+  "author": "Sindicat d'Estudiants",
+  "embed": null,
+  "category": "strike",
+  "city": "Barcelona",
+  "event_date": "2026-11-26",
+  "severity": 2,
+  "title_zh": "加泰學生工會響應11/26教育罷課爭取母語與公教權益",
+  "note_zh": "學校課務與校園周邊可能受影響，主要地鐵與市區大眾運輸正常。"
  }
 ]
