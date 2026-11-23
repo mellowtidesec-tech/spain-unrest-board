@@ -1807,5 +1807,21 @@
   "severity": 1,
   "title_zh": "數據顯示11-N全國大罷工期間西國辦公室出勤率下降約36%",
   "note_zh": "屬事後經濟活動統計分析，對目前雙城觀光與交通無任何實質影響。"
+ },
+ {
+  "id": "45dd36e7dc94",
+  "source": "news",
+  "url": "https://es.ara.cat/economia/mercado-laboral/motivo-detras-contraste-servicios-minimos-fijados-cataluna-resto_1_5910155.html",
+  "title": "Por qué los servicios mínimos de la huelga en Cataluña fueron más bajos que en Madrid",
+  "text": "",
+  "published": null,
+  "author": "Diari ARA",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 1,
+  "title_zh": "加泰媒分析11-N大罷工最低服務規範差異",
+  "note_zh": "屬罷工後之法規檢討分析，對旅客行程無直接衝擊。"
  }
 ]
