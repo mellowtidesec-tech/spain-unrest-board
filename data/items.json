@@ -1735,5 +1735,21 @@
   "severity": 2,
   "title_zh": "加泰學生工會響應11/26教育罷課爭取母語與公教權益",
   "note_zh": "學校課務與校園周邊可能受影響，主要地鐵與市區大眾運輸正常。"
+ },
+ {
+  "id": "dba1c43070a8",
+  "source": "news",
+  "url": "https://www.abc.es/economia/huelga-maquinistas-deja-cercanias-madrid-servicio-rodalies-20261117074616-nt.html",
+  "title": "La huelga de maquinistas colapsa Madrid y Barcelona tras no cumplirse los servicios mínimos previstos",
+  "text": "",
+  "published": null,
+  "author": "ABC",
+  "embed": null,
+  "category": "strike",
+  "city": "Spain",
+  "event_date": "2026-11-11",
+  "severity": 3,
+  "title_zh": "火車司機罷工未落實最低服務致馬德里與巴塞隆納交通受阻",
+  "note_zh": "報導回顧大罷工期間司機未符最低服務致雙城交通受阻，目前鐵路營運已完全恢復常態。"
  }
 ]
